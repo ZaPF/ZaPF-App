@@ -1,0 +1,42 @@
+{
+	"arbeitskreise": [
+                {
+			"name": "Semesterzeiten",
+			"url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
+                        "room": "NB 7/173",
+			"slotid": "04"
+                },
+                {
+			"name": "Gleichstellung",
+			"url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
+                        "room": "NB 4/147",
+			"slotid": "05"
+                },
+                {
+			"name": "Self-Assessment",
+			"url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
+                        "room": "NB 4/147",
+			"slotid": "04"
+                },
+                {
+			"name": "StAPF",
+			"url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
+                        "room": "NB 6/173",
+			"slotid": "05"
+                }
+        ],
+	"slots": [
+		{
+			"id": "04",
+			"name": "AK 4",
+			"begin": "2011-07-14T17:43:37+0100",
+			"end": "2011-07-14T19:43:37+0100"
+		},
+		{
+			"id": "05",
+			"name": "AK 5",
+			"begin": "2011-07-14T19:43:37+0100",
+			"end": "2011-07-14T21:43:37+0100"
+		}
+	]
+}

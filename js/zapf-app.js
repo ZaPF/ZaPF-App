@@ -22,7 +22,7 @@ function zeigeArbeitskreise(){
         var css_id = 'arbeitskreis'+i;
         var slot_css_id = 'slot'+item.slotid;
         $("<p/>", { id: css_id, class: 'ps'} ).appendTo('#'+slot_css_id);
-        $("<h2/>", { class: 'akname', text: item.name }).appendTo('#'+css_id);
+        $("<h3/>", { class: 'akname', text: item.name }).appendTo('#'+css_id);
         $("<a/>", { class: 'aklink btn btn-info', href: item.url, text: 'Infos im Wiki'}).appendTo('#'+css_id);
         $("<span/>", { class: 'room', text: 'Raum: ' + item.room }).appendTo('#'+css_id);
       });

@@ -1,76 +1,111 @@
 {
-	"arbeitskreise": [
-                {
-			"name": "Semesterzeiten",
-			"url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
-                        "room": "NB 7/173",
-                        "responsible": "Max Mustermann",
-			"slotid": "02"
-                },
-                {
-			"name": "Gleichstellung",
-			"url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
-                        "room": "NB 4/147",
-                        "responsible": "Max Mustermann",
-			"slotid": "05"
-                },
-                {
-			"name": "Self-Assessment",
-			"url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
-                        "room": "NB 4/147",
-                        "responsible": "John Doe",
-			"slotid": "04"
-                },
-                {
-			"name": "Wörkload",
-			"url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
-                        "room": "NB 6/223",
-                        "responsible": "Rudolph Weizen",
-			"slotid": "01"
-                },
-                {
-			"name": "StAPF",
-			"url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
-                        "room": "NB 6/173",
-                        "responsible": "Max Mustermann",
-			"slotid": "b1"
-                },
-                {
-			"name": "Interdisz. Studiengänge",
-			"url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
-                        "room": "NB 6/173",
-                        "responsible": "Sonja Schmittz",
-			"slotid": "02"
-                }
-        ],
-	"slots": [
-		{
-			"id": "01",
-			"name": "Zeitblock 1",
-			"shortname": "Slot 1",
-			"begin": "2011-07-14T17:43:37+0100",
-			"end": "2011-07-14T19:43:37+0100"
-		},
-		{
-			"id": "02",
-			"name": "Zeitblock 2",
-			"shortname": "Slot 2",
-			"begin": "2011-07-14T19:43:37+0100",
-			"end": "2011-07-14T21:43:37+0100"
-		},
-		{
-			"id": "04",
-			"name": "Zeitblock 4",
-			"shortname": "Slot 4",
-			"begin": "2011-07-15T14:43:37+0100",
-			"end": "2011-07-15T16:43:37+0100"
-		},
-		{
-			"id": "b1",
-			"name": "Backup Zeitblock",
-			"shortname": "Slot B1",
-			"begin": "2011-07-17T10:43:37+0100",
-			"end": "2011-07-17T12:43:37+0100"
-		}
-	]
+  "arbeitskreise": [
+    {
+      "name": "Gleichstellung",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
+      "room": "NB 4/147",
+      "responsible": "Max Mustermann",
+      "slotid": "05"
+    },
+    {
+      "name": "Gleichstellung",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
+      "room": "NB 4/147",
+      "responsible": "Max Mustermann",
+      "slotid": "05"
+    },
+    {
+      "name": "Studienanfänger",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
+      "room": "NB 7/173",
+      "responsible": "Max Mustermann",
+      "slotid": "04"
+    },
+    {
+      "name": "Studienanfänger",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
+      "room": "NB 7/173",
+      "responsible": "Max Mustermann",
+      "slotid": "04"
+    },
+    {
+      "name": "Uni-Fusion",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
+      "room": "NB 3/158",
+      "responsible": "Jürgen Rütckers",
+      "slotid": "01"
+    },
+    {
+      "name": "Semesterzeiten",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
+      "room": "Nx 10/42",
+      "responsible": "Hopfen Zapfen",
+      "slotid": "01"
+    },
+    {
+      "name": "Fachschaftsfreundschaften",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
+      "room": "HS NBA",
+      "responsible": "Amigo Mio",
+      "slotid": "05"
+    },
+    {
+      "name": "Wörkload",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
+      "room": "NB 6/223",
+      "responsible": "Rudolph Weizen",
+      "slotid": "01"
+    },
+    {
+      "name": "StAPF",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
+      "room": "NB 6/173",
+      "responsible": "Max Mustermann",
+      "slotid": "b1"
+    },
+    {
+      "name": "Interdisz. Studiengänge",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
+      "room": "NB 6/173",
+      "responsible": "Sonja Schmittz",
+      "slotid": "02"
+    }
+  ],
+  "slots": [
+    {
+      "id": "01",
+      "name": "Zeitblock 1",
+      "shortname": "Slot 1",
+      "begin": "2011-07-14T17:43:37+0100",
+      "end": "2011-07-14T19:43:37+0100"
+    },
+    {
+      "id": "02",
+      "name": "Zeitblock 2",
+      "shortname": "Slot 2",
+      "begin": "2011-07-14T19:43:37+0100",
+      "end": "2011-07-14T21:43:37+0100"
+    },
+    {
+      "id": "04",
+      "name": "Zeitblock 4",
+      "shortname": "Slot 4",
+      "begin": "2011-07-15T14:43:37+0100",
+      "end": "2011-07-15T16:43:37+0100"
+    },
+    {
+      "id": "05",
+      "name": "Zeitblock 5",
+      "shortname": "Slot 5",
+      "begin": "2011-07-16T14:43:37+0100",
+      "end": "2011-07-16T16:43:37+0100"
+    },
+    {
+      "id": "b1",
+      "name": "Backup Zeitblock",
+      "shortname": "Slot B1",
+      "begin": "2011-07-17T10:43:37+0100",
+      "end": "2011-07-17T12:43:37+0100"
+    }
+  ]
 }

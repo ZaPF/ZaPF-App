@@ -48,3 +48,6 @@ h1, .hero-unit h1 {
 .clearboth {
   clear: both;
 }
+footer p {
+  text-align: center;
+}

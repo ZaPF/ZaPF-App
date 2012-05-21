@@ -5,6 +5,8 @@ function zeigeArbeitskreise(){
     timeout: 12000,
     success: function(data) {
       $("#arbeitskreiscontainer").empty();
+        var past = 0
+         ,total = data.slots.length;
       $.each(data.slots , function(i,item){
         var css_id = 'slot'+item.id
            ,section_id = 'slot-'+item.id
@@ -26,6 +28,7 @@ function zeigeArbeitskreise(){
         $("<div/>", { id: css_id, class: 'ak-unit span3'} ).appendTo('#'+css_id+'cont');
         $("<h2/>", { class: 'slotname', html: '<i class="icon-tasks"></i>'+item.name }).appendTo('#'+css_id);
         $("<div/>", { class: 'slottime', text: wochentag(start) + " von " + $.format.date(start,'HH:mm') + ' bis ' + $.format.date(end,'HH:mm') + ' Uhr' }).appendTo('#'+css_id);
+        if (new Date() > end) past++;
         $.format.date(new Date(), 'dd M yy')
       });
       $.each(data.arbeitskreise, function(i,item){
@@ -39,6 +42,11 @@ function zeigeArbeitskreise(){
         $("<a/>", { class: 'aklink btn-mini btn-info', href: item.url, text: 'Infos im Wiki'}).appendTo('#'+css_id);
         $("<div/>", { class: 'clearboth'}).appendTo('#'+css_id);
       });
+      // Anzeigen, wie viele Zeitslots bereits abgeschlossen sind:
+      perc = Math.round(past/total * 100);
+      $("div#completion").removeClass('hidden');
+      $("span#percent-completed").text(perc);
+      $("div#bar-percent-completed").width(''+perc+'%');
     },
     error: errorOccured,
   } );

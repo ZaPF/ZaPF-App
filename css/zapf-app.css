@@ -51,3 +51,6 @@ h1, .hero-unit h1 {
 footer p {
   text-align: center;
 }
+.hidden {
+  display: none;
+}

@@ -8,10 +8,18 @@ h1, .hero-unit h1 {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+@media (min-width: 768px) {
+  .ak-unit { width: 25.5% !important; }
+}
+@media (max-width: 767px) {
+  div.row {
+    margin-top: -10px;
+  }
+}
 .ak-unit {
-  padding: 25px;
-  margin-bottom: 20px !important;
   margin: 10px;
+  margin-bottom: 20px !important;
+    padding: 25px;
   background-color: #e6e6f1;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;

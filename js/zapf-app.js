@@ -45,7 +45,7 @@ function zeigeArbeitskreise(){
       // Anzeigen, wie viele Zeitslots bereits abgeschlossen sind:
       perc = Math.round(past/total * 100);
       $("div#completion").removeClass('hidden');
-      $("span#percent-completed").text(perc);
+      $("span#ratio-past-total").text('' + past + ' von ' + total);
       $("div#bar-percent-completed").width(''+perc+'%');
     },
     error: errorOccured,

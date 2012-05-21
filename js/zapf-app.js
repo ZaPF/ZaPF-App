@@ -10,7 +10,7 @@ function zeigeArbeitskreise(){
            ,section_id = 'slot-'+item.id
            ,start = new Date(item.begin)
            ,end = new Date(item.end)
-           ,num_cols = 2
+           ,num_cols = 3
            ,row_css_id = "row" + Math.floor(i/num_cols);
         // 2-spaltiges Layout (auf großen Bildschirmen)
         if (i % num_cols == 0) {
@@ -23,7 +23,7 @@ function zeigeArbeitskreise(){
         // Slot zum Seiteninhalt hinzufügen:
         $("<section/>", { id: section_id}).appendTo('#'+row_css_id)
         $("<div/>", { id: css_id+'cont', class: 'ak-unit-container'} ).appendTo('#'+section_id);
-        $("<div/>", { id: css_id, class: 'ak-unit span4'} ).appendTo('#'+css_id+'cont');
+        $("<div/>", { id: css_id, class: 'ak-unit span3'} ).appendTo('#'+css_id+'cont');
         $("<h2/>", { class: 'slotname', html: '<i class="icon-tasks"></i>'+item.name }).appendTo('#'+css_id);
         $("<div/>", { class: 'slottime', text: wochentag(start) + " von " + $.format.date(start,'HH:mm') + ' bis ' + $.format.date(end,'HH:mm') + ' Uhr' }).appendTo('#'+css_id);
         $.format.date(new Date(), 'dd M yy')

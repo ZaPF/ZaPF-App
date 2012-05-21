@@ -37,10 +37,10 @@ function zeigeArbeitskreise(){
         // Arbeitskreis zum richtigen Slot hinzufügen:
         $("<p/>", { id: css_id, class: 'ps'} ).appendTo('#'+slot_css_id);
         $("<h3/>", { class: 'akname', html: '<i class="icon-chevron-right"></i> AK '+item.name }).appendTo('#'+css_id);
+        if (item.url != null) $("<a/>", { class: 'aklink btn-mini btn-info', href: item.url, text: 'Infos im Wiki'}).appendTo('#'+css_id);
+        $("<div/>", { class: 'clearleft'}).appendTo('#'+css_id);
         $("<div/>", { class: 'responsible', text: 'Leiter: ' + item.responsible}).appendTo('#'+css_id);
         $("<div/>", { class: 'room', text: 'Raum: ' + item.room }).appendTo('#'+css_id);
-        if (item.url != null) $("<a/>", { class: 'aklink btn-mini btn-info', href: item.url, text: 'Infos im Wiki'}).appendTo('#'+css_id);
-        $("<div/>", { class: 'clearboth'}).appendTo('#'+css_id);
       });
       // Anzeigen, wie viele Zeitslots bereits abgeschlossen sind:
       perc = Math.round(past/total * 100);

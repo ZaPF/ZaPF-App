@@ -47,7 +47,7 @@ h1, .hero-unit h1 {
   line-height: 27px;
   color: inherit;
 }
-.ak-unit .room {
+.ak-unit h3 {
   float: left;
 }
 .ak-unit .aklink {
@@ -55,6 +55,9 @@ h1, .hero-unit h1 {
 }
 .clearboth {
   clear: both;
+}
+.clearleft {
+  clear: left;
 }
 footer p {
   text-align: center;

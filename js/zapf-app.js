@@ -10,8 +10,9 @@ function zeigeArbeitskreise(){
       $.each(data.slots , function(i,item){
         var css_id = 'slot'+item.id
            ,section_id = 'slot-'+item.id
-           ,start = new Date(item.begin)
-           ,end = new Date(item.end)
+           // workaround for Safari on Mac and iOS:
+           ,start = new Date($.format.date(item.begin, "yyyy-MM-ddThh:mm:ss"))
+           ,end = new Date($.format.date(item.end, "yyyy-MM-ddThh:mm:ss"))
            ,num_cols = 3
            ,row_css_id = "row" + Math.floor(i/num_cols);
         // 2-spaltiges Layout (auf großen Bildschirmen)

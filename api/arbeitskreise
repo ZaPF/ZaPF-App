@@ -8,9 +8,9 @@
       "slotid": "05"
     },
     {
-      "name": "Gleichstellung",
-      "room": "NB 4/147",
-      "responsible": "Max Mustermann",
+      "name": "CHE-Ranking",
+      "room": "NB 2/147",
+      "responsible": "Karl Boxer",
       "slotid": "05"
     },
     {
@@ -21,9 +21,10 @@
       "slotid": "04"
     },
     {
-      "name": "Studienanfänger",
-      "room": "NB 7/173",
-      "responsible": "Max Mustermann",
+      "name": "Berufungskommissionen",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/ZiP_Berufungskommissionen",
+      "room": "NB 6/173",
+      "responsible": "Riggi Rüssel",
       "slotid": "04"
     },
     {
@@ -62,6 +63,13 @@
       "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
       "room": "NB 6/173",
       "responsible": "Sonja Schmittz",
+      "slotid": "02"
+    },
+    {
+      "name": "Haftpflichtversicherung",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/ZiP_Haftpflichtversicherung",
+      "room": "NB -2/132",
+      "responsible": "Ralf Ziegel",
       "slotid": "02"
     }
   ],

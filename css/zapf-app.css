@@ -8,8 +8,12 @@ h1, .hero-unit h1 {
   padding-top: 20px;
   padding-bottom: 20px;
 }
-@media (min-width: 768px) {
+@media (min-width: 980px) {
   .ak-unit { width: 25.5% !important; }
+}
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+  .ak-unit { width: 22% !important; }
 }
 @media (max-width: 767px) {
   div.row {

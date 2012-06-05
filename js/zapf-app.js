@@ -11,8 +11,8 @@ function zeigeArbeitskreise(){
         var css_id = 'slot'+item.id
            ,section_id = 'slot-'+item.id
            // workaround for Safari on Mac and iOS:
-           ,start = new Date($.format.date(item.begin, "yyyy-MM-ddThh:mm:ss"))
-           ,end = new Date($.format.date(item.end, "yyyy-MM-ddThh:mm:ss"))
+           ,start = Date.create(item.begin)
+           ,end = Date.create(item.end)
            ,num_cols = 3
            ,row_css_id = "row" + Math.floor(i/num_cols);
         // 2-spaltiges Layout (auf großen Bildschirmen)
@@ -28,9 +28,8 @@ function zeigeArbeitskreise(){
         $("<div/>", { id: css_id+'cont', class: 'ak-unit-container'} ).appendTo('#'+section_id);
         $("<div/>", { id: css_id, class: 'ak-unit span3'} ).appendTo('#'+css_id+'cont');
         $("<h2/>", { class: 'slotname', html: '<i class="icon-tasks"></i>'+item.name }).appendTo('#'+css_id);
-        $("<div/>", { class: 'slottime', text: wochentag(start) + " von " + $.format.date(start,'HH:mm') + ' bis ' + $.format.date(end,'HH:mm') + ' Uhr' }).appendTo('#'+css_id);
+        $("<div/>", { class: 'slottime', text: start.format('{Weekday} von {24hr}:{mm}', 'de') + ' bis ' + end.format('{24hr}:{mm}') + ' Uhr' }).appendTo('#'+css_id);
         if (new Date() > end) past++;
-        $.format.date(new Date(), 'dd M yy')
       });
       $.each(data.arbeitskreise, function(i,item){
         var css_id = 'arbeitskreis'+i;

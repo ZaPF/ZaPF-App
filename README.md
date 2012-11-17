@@ -20,8 +20,8 @@ Die App nutzt die folgende freie Technologien und Projekte:
 
 - [Twitter Bootstrap][] – HTML- und Design-Toolkit
 - [jQuery][] – Javascript Toolkit
-- [dateFormat][] – jQuery plugin to format dates
+- [Sugar][] – A Javascript library that extends native objects, used to format dates
 
 [Twitter Bootstrap]: http://twitter.github.com/bootstrap/
 [jQuery]: http://jquery.com/
-[dateFormat]: https://github.com/phstc/jquery-dateFormat
+[Sugar]: http://sugarjs.com/

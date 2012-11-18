@@ -1,76 +1,179 @@
 {
   "arbeitskreise": [
     {
-      "name": "Gleichstellung",
-      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
-      "room": "NB 4/147",
-      "responsible": "Max Mustermann",
-      "slotid": "05"
-    },
-    {
-      "name": "CHE-Ranking",
-      "room": "NB 2/147",
-      "responsible": "Karl Boxer",
-      "slotid": "05"
-    },
-    {
-      "name": "Studienanfänger",
-      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
-      "room": "NB 7/173",
-      "responsible": "Max Mustermann",
-      "slotid": "04"
-    },
-    {
-      "name": "Berufungskommissionen",
-      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/ZiP_Berufungskommissionen",
-      "room": "NB 6/173",
-      "responsible": "Riggi Rüssel",
-      "slotid": "04"
-    },
-    {
-      "name": "Uni-Fusion",
-      "room": "NB 3/158",
-      "responsible": "Jürgen Rütckers",
+      "name": "FS-Freundschaften",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Freundschaften",
+      "room": "2-0",
+      "responsible": "Sebastian (DD)",
       "slotid": "01"
     },
     {
-      "name": "Semesterzeiten",
-      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
-      "room": "Nx 10/42",
-      "responsible": "Hopfen Zapfen",
+      "name": "Akkreditierung -- Was ist das?",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Akkreditierung",
+      "room": "2-17",
+      "responsible": "Timo (RWTH)",
       "slotid": "01"
     },
     {
-      "name": "Fachschaftsfreundschaften",
-      "room": "HS NBA",
-      "responsible": "Amigo Mio",
-      "slotid": "05"
-    },
-    {
-      "name": "Wörkload",
-      "room": "NB 6/223",
-      "responsible": "Rudolph Weizen",
+      "name": "Medizinische Physik",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Medizinische_Physik",
+      "room": "11-12",
+      "responsible": "Annika (RUB)",
       "slotid": "01"
     },
     {
-      "name": "StAPF",
-      "room": "NB 6/173",
-      "responsible": "Max Mustermann",
-      "slotid": "b1"
+      "name": "Kontrolle der Übungsaufgaben",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Kontrolle",
+      "room": "12-1",
+      "responsible": "Malte (Tü)",
+      "slotid": "01"
     },
     {
-      "name": "Interdisziplinäre Studiengänge",
-      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe12_AK_Computergest%C3%BCtztesWissenschaftlichesRechnen",
-      "room": "NB 6/173",
-      "responsible": "Sonja Schmittz",
+      "name": "Agenda 2013",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Agenda_Dreizehn",
+      "room": "Flachbau 229.3",
+      "responsible": "Nils (FUB)",
+      "slotid": "01"
+    },
+    {
+      "name": "OpenAccess",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_OpenAccess",
+      "room": "2-0",
+      "responsible": "Jörg (FUB)",
       "slotid": "02"
     },
     {
-      "name": "Haftpflichtversicherung",
-      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/ZiP_Haftpflichtversicherung",
-      "room": "NB -2/132",
-      "responsible": "Ralf Ziegel",
+      "name": "Zeitlast im Bachelor",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Zeitlaststudie",
+      "room": "2-17",
+      "responsible": "Philipp (HD)",
       "slotid": "02"
+    },
+    {
+      "name": "Zivilgesellschaftliches Engagement",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_zivilgesellschaftliches_Engagement",
+      "room": "11-12",
+      "responsible": "Thomas (HD)",
+      "slotid": "02"
+    },
+    {
+      "name": "Prüfungs-Ordnung",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Pruefungsordnung",
+      "room": "12-1",
+      "responsible": "Daniela (F)",
+      "slotid": "02"
+    },
+    {
+      "name": "Akkreditierung -- Was wollen wir?",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Akkreditierung2",
+      "room": "Flachbau 229.3",
+      "responsible": "Timo (RWTH)",
+      "slotid": "02"
+    },
+    {
+      "name": "Systemakkreditierung",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Systemakkreditierung",
+      "room": "2-0",
+      "responsible": "Mageret (F)",
+      "slotid": "03"
+    },
+    {
+      "name": "Lehramt",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Lehramt",
+      "room": "2-1",
+      "responsible": "René (DD)",
+      "slotid": "03"
+    },
+    {
+      "name": "StAPF und Geschichte",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/StAPF10:Sitzung05",
+      "room": "2-11",
+      "responsible": "",
+      "slotid": "03"
+    },
+    {
+      "name": "Mentoring",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Mentoring",
+      "room": "2-17",
+      "responsible": "Daniela (F)",
+      "slotid": "03"
+    },
+    {
+      "name": "Übergang von der Schule zum Studium",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Schule-Studium",
+      "room": "3-1",
+      "responsible": "Tobias (D)",
+      "slotid": "03"
+    },
+    {
+      "name": "5 ECTS",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Fuenf_ECTS",
+      "room": "2-0",
+      "responsible": "Nils (FUB)",
+      "slotid": "04"
+    },
+    {
+      "name": "Steuern",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Steuern",
+      "room": "2-1",
+      "responsible": "Tobias (D)",
+      "slotid": "04"
+    },
+    {
+      "name": "ZaPF e.V.",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_ZaPFeV",
+      "room": "2-11",
+      "responsible": "",
+      "slotid": "04"
+    },
+    {
+      "name": "Kartenspiel",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Kartenspiel",
+      "room": "2-17",
+      "responsible": "René (DD)",
+      "slotid": "04"
+    },
+    {
+      "name": "Qualitätssicherung",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Qualitaetssicherung",
+      "room": "3-1",
+      "responsible": "Daniela (F)",
+      "slotid": "04"
+    },
+    {
+      "name": "Promotionsordnung",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Promotion",
+      "room": "2-0",
+      "responsible": "Jörg (FUB)",
+      "slotid": "05"
+    },
+    {
+      "name": "CHE",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_CHE",
+      "room": "229.3",
+      "responsible": "Christian (Ol)",
+      "slotid": "05"
+    },
+    {
+      "name": "ZaPF-Finanzierung",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_ZaPF_Finanzierung",
+      "room": "2-11",
+      "responsible": "Stephan (J)",
+      "slotid": "05"
+    },
+    {
+      "name": "Kompetenzorientierte Module",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Kompetenzorientierte_Module",
+      "room": "2-17",
+      "responsible": "Katharina (L)",
+      "slotid": "05"
+    },
+    {
+      "name": "Auslandssemester",
+      "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/WiSe12_AK_Auslandssemester",
+      "room": "3-1",
+      "responsible": "Margeret (F)",
+      "slotid": "05"
     }
   ],
   "slots": [
@@ -78,36 +181,43 @@
       "id": "01",
       "name": "Zeitblock 1",
       "shortname": "Slot 1",
-      "begin": "2011-07-14T17:43:37+0100",
-      "end": "2011-07-14T19:43:37+0100"
+      "begin": "2012-11-16T14:00:00+0100",
+      "end": "2012-11-16T16:00:00+0100"
     },
     {
       "id": "02",
       "name": "Zeitblock 2",
       "shortname": "Slot 2",
-      "begin": "2011-07-14T19:43:37+0100",
-      "end": "2011-07-14T21:43:37+0100"
+      "begin": "2012-11-16T17:00:00+0100",
+      "end": "2012-11-16T19:00:00+0100"
+    },
+    {
+      "id": "03",
+      "name": "Zeitblock 3",
+      "shortname": "Slot 3",
+      "begin": "2012-11-17T09:00:00+0100",
+      "end": "2012-11-17T11:00:00+0100"
     },
     {
       "id": "04",
       "name": "Zeitblock 4",
       "shortname": "Slot 4",
-      "begin": "2011-07-15T14:43:37+0100",
-      "end": "2011-07-15T16:43:37+0100"
+      "begin": "2012-11-17T11:30:00+0100",
+      "end": "2012-11-17T13:30:00+0100"
     },
     {
       "id": "05",
       "name": "Zeitblock 5",
       "shortname": "Slot 5",
-      "begin": "2011-07-16T14:43:37+0100",
-      "end": "2011-07-16T16:43:37+0100"
+      "begin": "2012-11-17T14:30:00+0100",
+      "end": "2012-11-17T16:30:00+0100"
     },
     {
       "id": "b1",
       "name": "Backup Zeitblock",
       "shortname": "Slot B1",
-      "begin": "2013-07-17T10:43:37+0100",
-      "end": "2013-07-17T12:43:37+0100"
+      "begin": "2012-11-17T17:30:00+0100",
+      "end": "2012-11-17T19:30:00+0100"
     }
   ]
 }

@@ -60,105 +60,105 @@
     {
         "name": "Systemakkr. I (Workshop)", 
         "responsible": "BenniD (HU Berlin)", 
-        "room": "", 
+        "room": "SR 1", 
         "slotid": "03", 
         "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AKe_Akkreditierung"
     }, 
     {
         "name": "Auslandssemester", 
         "responsible": "Cosima (Frankfurt)", 
-        "room": "", 
+        "room": "SR 3", 
         "slotid": "03", 
         "url": null
     }, 
     {
         "name": "Sebsthilfe-AK beklauter FS", 
         "responsible": "Sri (RU Bochum)", 
-        "room": "", 
+        "room": "SR 4", 
         "slotid": "03", 
         "url": null
     }, 
     {
         "name": "Geschichte der ZaPF", 
         "responsible": "Tobi (D\u00fcsseldorf)", 
-        "room": "", 
+        "room": "SR 2 (gelbes Haus)", 
         "slotid": "03", 
         "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_Geschichte"
     }, 
     {
         "name": "Austausch-AK I", 
         "responsible": "Rene", 
-        "room": "", 
+        "room": "HS 2 (gelbes Haus)", 
         "slotid": "03", 
         "url": null
     }, 
     {
         "name": "CHE-Ranking (mit PsyFaKo)", 
         "responsible": "Christian (Oldenburg)", 
-        "room": "", 
+        "room": "HS 2 (gelbes Haus)", 
         "slotid": "04", 
         "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_CHE"
     }, 
     {
         "name": "ZaPF e.V.", 
         "responsible": "Philipp (Frankfurt)", 
-        "room": "", 
+        "room": "SR 4", 
         "slotid": "04", 
         "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_ZaPF_eV"
     }, 
     {
         "name": "Inlandssemester", 
         "responsible": "Danny (Leipzig)", 
-        "room": "", 
+        "room": "SR 1", 
         "slotid": "04", 
         "url": null
     }, 
     {
         "name": "IRC und PGP", 
         "responsible": "J\u00f6rg (FU Berlin) + Bj\u00f6rn (Aachen)", 
-        "room": "", 
+        "room": "SR 3", 
         "slotid": "04", 
         "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_IRC_PGP"
     }, 
     {
         "name": "Promotionsordnungen", 
         "responsible": "Markus (FU Berlin)", 
-        "room": "", 
+        "room": "SR 2 (gelbes Haus)", 
         "slotid": "04", 
         "url": null
     }, 
     {
         "name": "Lehramt", 
         "responsible": "Felix (Hamburg) ", 
-        "room": "", 
+        "room": "SR 1", 
         "slotid": "05", 
         "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_Lehramt"
     }, 
     {
         "name": "Br\u00fcckenkurs vs. Mathevorkurs", 
         "responsible": "BenniD (HU Berlin)", 
-        "room": "", 
+        "room": "SR 2 (gelbes Haus)", 
         "slotid": "05", 
         "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_MatheVorkurs"
     }, 
     {
         "name": "Selbstverst\u00e4ndnis der ZaPF", 
         "responsible": "?", 
-        "room": "", 
+        "room": "SR 3", 
         "slotid": "05", 
         "url": null
     }, 
     {
         "name": "Studienvergleichsseiten", 
         "responsible": "Tobi (D\u00fcsseldorf)", 
-        "room": "", 
+        "room": "SR 4", 
         "slotid": "05", 
         "url": null
     }, 
     {
         "name": "Austausch-AK II", 
         "responsible": "Rene", 
-        "room": "", 
+        "room": "HS 2 (gelbes Haus)", 
         "slotid": "05", 
         "url": null
     }, 
@@ -172,49 +172,49 @@
     {
         "name": "Arbeitsbedingungen von DoktorandInnen", 
         "responsible": "J\u00f6rg (FU Berlin)", 
-        "room": "", 
+        "room": "SR 3", 
         "slotid": "b2", 
         "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_Doktoranden"
     }, 
     {
         "name": "Demokratie in akademischen Gremien", 
         "responsible": "Markus (FU Berlin)", 
-        "room": "", 
+        "room": "SR 1", 
         "slotid": "b2", 
         "url": null
     }, 
     {
         "name": "Geschichte der Physik", 
         "responsible": "Stefan L\u00fcders (?) ", 
-        "room": "", 
+        "room": "SR 4", 
         "slotid": "b2", 
         "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_Geschichte_der_Physik"
     }, 
     {
         "name": "Fachschaftsfreundschaften", 
         "responsible": "Mo (Dresden)", 
-        "room": "", 
+        "room": "Konferenzraum", 
         "slotid": "06", 
         "url": null
     }, 
     {
         "name": "StAPF \/ Satzungs\u00e4nderung", 
         "responsible": "Christian (Oldenburg)", 
-        "room": "", 
+        "room": "SR 3", 
         "slotid": "06", 
         "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_StAPF"
     }, 
     {
         "name": "Poolvernetzungstreffen", 
         "responsible": "Bj\u00f6rn + Timo (Aachen)", 
-        "room": "", 
+        "room": "SR 4", 
         "slotid": "06", 
         "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AKe_Akkreditierung"
     }, 
     {
         "name": "Kartenspiel", 
         "responsible": "Diemo (?)", 
-        "room": "", 
+        "room": "SR 1", 
         "slotid": "06", 
         "url": null
     }

@@ -20,7 +20,7 @@ Die App nutzt die folgende freie Technologien und Projekte:
 
 - [Twitter Bootstrap][] – HTML- und Design-Toolkit
 - [jQuery][] – Javascript Toolkit
-- [Sugar][] – A Javascript library that extends native objects, used to format dates
+- [Sugar][] – Javascript Bibliothek, die native Objekte erweitert; zum Formatieren von Uhrzeiten benutzt.
 
 [Twitter Bootstrap]: http://twitter.github.com/bootstrap/
 [jQuery]: http://jquery.com/

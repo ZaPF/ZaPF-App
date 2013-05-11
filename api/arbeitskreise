@@ -95,7 +95,7 @@
     {
         "name": "CHE-Ranking (mit PsyFaKo)", 
         "responsible": "Christian (Oldenburg)", 
-        "room": "HS 2 (gelbes Haus)", 
+        "room": "HS 4 (Carl-Zeiss-Str. 3: Psychos)", 
         "slotid": "04", 
         "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_CHE"
     }, 
@@ -165,7 +165,7 @@
     {
         "name": "Systemakkreditierung II (mit PsyFaKo)", 
         "responsible": "BenniD (HU Berlin)", 
-        "room": "", 
+        "room": "HS2 (gelbes Haus)", 
         "slotid": "b2", 
         "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AKe_Akkreditierung"
     }, 

@@ -1,13 +1,6 @@
 {
     "arbeitskreise": [
         {
-            "name": "name", 
-            "responsible": "responsible", 
-            "room": "room", 
-            "slotid": "slotid", 
-            "url": "url"
-        }, 
-        {
             "name": "Alumni", 
             "responsible": "Tobi (HHU)", 
             "room": null, 
@@ -247,13 +240,6 @@
         }
     ], 
     "slots": [
-        {
-            "begin": "begin", 
-            "end": "end", 
-            "id": "id", 
-            "name": "name", 
-            "shortname": "shortname"
-        }, 
         {
             "begin": "2013-11-15T13:30:00+0100", 
             "end": "2013-11-15T15:30:00+0100", 

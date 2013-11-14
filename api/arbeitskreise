@@ -1,294 +1,307 @@
 {
-  "arbeitskreise":
-[
-    {
-        "name": "Alumni", 
-        "responsible": "Tobi (HHU)", 
-        "room": "???", 
-        "slotid": "01", 
-        "url": null
-    }, 
-    {
-        "name": "Studienführer", 
-        "responsible": "Sebastian (Hamburg)", 
-        "room": "???", 
-        "slotid": "01", 
-        "url": null
-    }, 
-    {
-        "name": "Öffentlichkeitsarbeit", 
-        "responsible": "Benni (HUB) + Björn (RWTH)", 
-        "room": "???", 
-        "slotid": "01", 
-        "url": null
-    }, 
-    {
-        "name": "Austausch 1", 
-        "responsible": "Bene(HHU)", 
-        "room": "???", 
-        "slotid": "01", 
-        "url": null
-    }, 
-    {
-        "name": "Verfasste Studierendenschaften", 
-        "responsible": "Claudio (Konstanz)", 
-        "room": "???", 
-        "slotid": "01", 
-        "url": null
-    }, 
-    {
-        "name": "Englischer Master", 
-        "responsible": "Christian (Oldenburg)", 
-        "room": "???", 
-        "slotid": "01", 
-        "url": null
-    }, 
-    {
-        "name": "CHE", 
-        "responsible": "Benni (HUW) + Magrett (LMU)", 
-        "room": "???", 
-        "slotid": "02", 
-        "url": null
-    }, 
-    {
-        "name": "Öster. Hochschülerschaft", 
-        "responsible": "Berni (TUW)", 
-        "room": "???", 
-        "slotid": "02", 
-        "url": null
-    }, 
-    {
-        "name": "Paranoia", 
-        "responsible": "Björn  (RWTH) + Jörg (FUB)", 
-        "room": "???", 
-        "slotid": "02", 
-        "url": null
-    }, 
-    {
-        "name": "Kartenspiel", 
-        "responsible": "René (Brem)", 
-        "room": "???", 
-        "slotid": "02", 
-        "url": null
-    }, 
-    {
-        "name": "Merkel-einladen?", 
-        "responsible": "Jakob (Bremen)", 
-        "room": "???", 
-        "slotid": "02", 
-        "url": null
-    }, 
-    {
-        "name": "Studiführer Internat.", 
-        "responsible": "Larissa (FUB)", 
-        "room": "???", 
-        "slotid": "02", 
-        "url": null
-    }, 
-    {
-        "name": "Mentoring", 
-        "responsible": "Daniela (Frankfurt)", 
-        "room": "???", 
-        "slotid": "02", 
-        "url": null
-    }, 
-    {
-        "name": "ZÖPV 1 (österreichischer Block)", 
-        "responsible": null
-        "room": "???", 
-        "slotid": "03", 
-        "url": null
-    }, 
-    {
-        "name": "Fs. Freundschaften", 
-        "responsible": "Tobi (HHU)", 
-        "room": "???", 
-        "slotid": "03", 
-        "url": null
-    }, 
-    {
-        "name": "Orga+ Finanzierung", 
-        "responsible": "Jannis (Bremen)", 
-        "room": "???", 
-        "slotid": "03", 
-        "url": null
-    }, 
-    {
-        "name": "Anti-Harassment", 
-        "responsible": "Bjoern (RWTH)", 
-        "room": "???", 
-        "slotid": "03", 
-        "url": null
-    }, 
-    {
-        "name": "Gremienarbeit", 
-        "responsible": "Margret (LMU)", 
-        "room": "???", 
-        "slotid": "03", 
-        "url": null
-    }, 
-    {
-        "name": "Umgang mit Finanzkürzungen", 
-        "responsible": "Juliane (Magdeburg)", 
-        "room": "???", 
-        "slotid": "03", 
-        "url": null
-    }, 
-    {
-        "name": "Fragen an DAD", 
-        "responsible": "Cosima (Frankfurt)", 
-        "room": "???", 
-        "slotid": "03", 
-        "url": null
-    }, 
-    {
-        "name": "Akreditierung 1", 
-        "responsible": "Margret (LMU)", 
-        "room": "???", 
-        "slotid": "04", 
-        "url": null
-    }, 
-    {
-        "name": "ZaPF e.V", 
-        "responsible": "Vorstand", 
-        "room": "???", 
-        "slotid": "04", 
-        "url": null
-    }, 
-    {
-        "name": "Gleichstellung", 
-        "responsible": "Janina (Bremen)", 
-        "room": "???", 
-        "slotid": "04", 
-        "url": null
-    }, 
-    {
-        "name": "Doktoranden", 
-        "responsible": "Jörg (FUB)", 
-        "room": "???", 
-        "slotid": "04", 
-        "url": null
-    }, 
-    {
-        "name": "Geschichte der Physik", 
-        "responsible": "Stefan (Göttingen)", 
-        "room": "???", 
-        "slotid": "04", 
-        "url": null
-    }, 
-    {
-        "name": "Med.Ph und Ph.-ähnliche Studien", 
-        "responsible": "Daniela (Dortmund)", 
-        "room": "???", 
-        "slotid": "04", 
-        "url": null
-    }, 
-    {
-        "name": "Fachschafts IT", 
-        "responsible": "Patrick (Aachen)", 
-        "room": "???", 
-        "slotid": "04", 
-        "url": null
-    }, 
-    {
-        "name": "ZÖPV 2 (österreichischer Block)", 
-        "responsible": null
-        "room": "???", 
-        "slotid": "05", 
-        "url": null
-    }, 
-    {
-        "name": "Prüfungssysteme", 
-        "responsible": "Margret (LMU)", 
-        "room": "???", 
-        "slotid": "05", 
-        "url": null
-    }, 
-    {
-        "name": "Lehramt", 
-        "responsible": "Wienie (RUB)", 
-        "room": "???", 
-        "slotid": "05", 
-        "url": null
-    }, 
-    {
-        "name": "Satzungsänderungen/Selbstverständnis", 
-        "responsible": "Jakob (Bremen)", 
-        "room": "???", 
-        "slotid": "05", 
-        "url": null
-    }, 
-    {
-        "name": "Austausch 2", 
-        "responsible": "Bene (HHU)", 
-        "room": "???", 
-        "slotid": "05", 
-        "url": null
-    }, 
-    {
-        "name": "Zukunft der ZaPF ", 
-        "responsible": "Benni (HUB)", 
-        "room": "???", 
-        "slotid": "05", 
-        "url": null
-    }, 
-    {
-        "name": "Mathe im Ph-Studium", 
-        "responsible": "Selena (Wuppertal)", 
-        "room": "???", 
-        "slotid": "05", 
-        "url": null
-    }
-],
-  "slots": [
-    {
-        "id": "01", 
-        "name": "Arbeitskreis 1", 
-        "shortname": "AK 1", 
-        "begin": "2013-11-15T13:30:00+0100", 
-        "end": "2013-11-15T15:30:00+0100", 
-    }, 
-    {
-        "id": "02", 
-        "name": "Arbeitskreis 2", 
-        "shortname": "AK 2", 
-        "begin": "2013-11-15T15:30:00+0100", 
-        "end": "2013-11-17T13:30:00+0100", 
-    }, 
-    {
-        "id": "03", 
-        "name": "Arbeitskreis 3", 
-        "shortname": "AK 3", 
-        "begin": "2013-11-15T18:00:00+0100", 
-        "end": "2013-11-15T20:00:00+0100", 
-    }, 
-    {
-        "id": "04", 
-        "name": "Arbeitskreis 4", 
-        "shortname": "AK 4", 
-        "begin": "2013-11-16T08:30:00+0100", 
-        "end": "2013-11-16T10:00:00+0100", 
-    }, 
-    {
-        "id": "05", 
-        "name": "Arbeitskreis 5", 
-        "shortname": "AK 5", 
-        "begin": "2013-11-16T13:30:00+0100", 
-        "end": "2013-11-16T15:30:00+0100", 
-    }, 
-    {
-        "id": "b1", 
-        "name": "Backup Zeitblock I", 
-        "shortname": "BK AK 1", 
-        "begin": "2013-11-16T16:00:00+0100", 
-        "end": "2013-11-16T17:30:00+0100", 
-    }, 
-    {
-        "id": "b2", 
-        "name": "Backup Zeitblock II", 
-        "shortname": "BK AK 2", 
-        "begin": "2013-11-16T17:30:00+0100", 
-        "end": "2013-11-15T13:30:00+0100", 
-    }
-  ]
+    "arbeitskreise": [
+        {
+            "name": "name", 
+            "responsible": "responsible", 
+            "room": "room", 
+            "slotid": "slotid", 
+            "url": "url"
+        }, 
+        {
+            "name": "Alumni", 
+            "responsible": "Tobi (HHU)", 
+            "room": "???", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "Studienf\u00fchrer", 
+            "responsible": "Sebastian (Hamburg)", 
+            "room": "???", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "\u00d6ffentlichkeitsarbeit", 
+            "responsible": "Benni (HUB) + Bj\u00f6rn (RWTH)", 
+            "room": "???", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "Austausch 1", 
+            "responsible": "Bene(HHU)", 
+            "room": "???", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "Verfasste Studierendenschaften", 
+            "responsible": "Claudio (Konstanz)", 
+            "room": "???", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "Englischer Master", 
+            "responsible": "Christian (Oldenburg)", 
+            "room": "???", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "CHE", 
+            "responsible": "Benni (HUW) + Magrett (LMU)", 
+            "room": "???", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "\u00d6ster. Hochsch\u00fclerschaft", 
+            "responsible": "Berni (TUW)", 
+            "room": "???", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Paranoia", 
+            "responsible": "Bj\u00f6rn  (RWTH) + J\u00f6rg (FUB)", 
+            "room": "???", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Kartenspiel", 
+            "responsible": "Ren\u00e9 (Brem)", 
+            "room": "???", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Merkel-einladen?", 
+            "responsible": "Jakob (Bremen)", 
+            "room": "???", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Studif\u00fchrer Internat.", 
+            "responsible": "Larissa (FUB)", 
+            "room": "???", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Mentoring", 
+            "responsible": "Daniela (Frankfurt)", 
+            "room": "???", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Z\u00d6PV 1 (\u00f6sterreichischer Block)", 
+            "responsible": null, 
+            "room": "???", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Fs. Freundschaften", 
+            "responsible": "Tobi (HHU)", 
+            "room": "???", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Orga+ Finanzierung", 
+            "responsible": "Jannis (Bremen)", 
+            "room": "???", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Anti-Harassment", 
+            "responsible": "Bjoern (RWTH)", 
+            "room": "???", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Gremienarbeit", 
+            "responsible": "Margret (LMU)", 
+            "room": "???", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Umgang mit Finanzk\u00fcrzungen", 
+            "responsible": "Juliane (Magdeburg)", 
+            "room": "???", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Fragen an DAD", 
+            "responsible": "Cosima (Frankfurt)", 
+            "room": "???", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Akreditierung 1", 
+            "responsible": "Margret (LMU)", 
+            "room": "???", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "ZaPF e.V", 
+            "responsible": "Vorstand", 
+            "room": "???", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Gleichstellung", 
+            "responsible": "Janina (Bremen)", 
+            "room": "???", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Doktoranden", 
+            "responsible": "J\u00f6rg (FUB)", 
+            "room": "???", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Geschichte der Physik", 
+            "responsible": "Stefan (G\u00f6ttingen)", 
+            "room": "???", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Med.Ph und Ph.-\u00e4hnliche Studien", 
+            "responsible": "Daniela (Dortmund)", 
+            "room": "???", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Fachschafts IT", 
+            "responsible": "Patrick (Aachen)", 
+            "room": "???", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Z\u00d6PV 2 (\u00f6sterreichischer Block)", 
+            "responsible": null, 
+            "room": "???", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Pr\u00fcfungssysteme", 
+            "responsible": "Margret (LMU)", 
+            "room": "???", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Lehramt", 
+            "responsible": "Wienie (RUB)", 
+            "room": "???", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Satzungs\u00e4nderungen/Selbstverst\u00e4ndnis", 
+            "responsible": "Jakob (Bremen)", 
+            "room": "???", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Austausch 2", 
+            "responsible": "Bene (HHU)", 
+            "room": "???", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Zukunft der ZaPF ", 
+            "responsible": "Benni (HUB)", 
+            "room": "???", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Mathe im Ph-Studium", 
+            "responsible": "Selena (Wuppertal)", 
+            "room": "???", 
+            "slotid": "05", 
+            "url": null
+        }
+    ], 
+    "slots": [
+        {
+            "begin": "begin", 
+            "end": "end", 
+            "id": "id", 
+            "name": "name", 
+            "shortname": "shortname"
+        }, 
+        {
+            "begin": "2013-11-15T13:30:00+0100", 
+            "end": "2013-11-15T15:30:00+0100", 
+            "id": "01", 
+            "name": "Arbeitskreis 1", 
+            "shortname": "AK 1"
+        }, 
+        {
+            "begin": "2013-11-15T15:30:00+0100", 
+            "end": "2013-11-17T13:30:00+0100", 
+            "id": "02", 
+            "name": "Arbeitskreis 2", 
+            "shortname": "AK 2"
+        }, 
+        {
+            "begin": "2013-11-15T18:00:00+0100", 
+            "end": "2013-11-15T20:00:00+0100", 
+            "id": "03", 
+            "name": "Arbeitskreis 3", 
+            "shortname": "AK 3"
+        }, 
+        {
+            "begin": "2013-11-16T08:30:00+0100", 
+            "end": "2013-11-16T10:00:00+0100", 
+            "id": "04", 
+            "name": "Arbeitskreis 4", 
+            "shortname": "AK 4"
+        }, 
+        {
+            "begin": "2013-11-16T13:30:00+0100", 
+            "end": "2013-11-16T15:30:00+0100", 
+            "id": "05", 
+            "name": "Arbeitskreis 5", 
+            "shortname": "AK 5"
+        }, 
+        {
+            "begin": "2013-11-16T16:00:00+0100", 
+            "end": "2013-11-16T17:30:00+0100", 
+            "id": "b1", 
+            "name": "Backup Zeitblock I", 
+            "shortname": "BK AK 1"
+        }, 
+        {
+            "begin": "2013-11-16T17:30:00+0100", 
+            "end": "2013-11-15T13:30:00+0100", 
+            "id": "b2", 
+            "name": "Backup Zeitblock II", 
+            "shortname": "BK AK 2"
+        }
+    ]
 }

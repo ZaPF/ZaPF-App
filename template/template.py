@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-import ezodf, sys, json
+import ezodf, os, sys, json
 
 ak_file = ezodf.opendoc(sys.argv[1])
 
@@ -33,5 +33,7 @@ for i in ak_file.sheets['arbeitskreise'].rows():
 
 json_out = json.dumps(out,sort_keys=True,indent=4)
 print(json_out)
-with open('../api/arbeitskreise','w') as file:
+directory = os.path.join(__file__[:-11],'..','api','arbeitskreise')
+print(directory)
+with open(directory,'w') as file:
     file.write(json_out)

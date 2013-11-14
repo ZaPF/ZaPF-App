@@ -2,13 +2,6 @@
   "arbeitskreise":
 [
     {
-        "name": "name", 
-        "responsible": "responsible", 
-        "room": "room", 
-        "slotid": "slotid", 
-        "url": "url", 
-    }, 
-    {
         "name": "Alumni", 
         "responsible": "Tobi (HHU)", 
         "room": "???", 
@@ -248,12 +241,6 @@
     }, 
 ],
   "slots": {
-        "id": "id", 
-        "name": "name", 
-        "shortname": "shortname", 
-        "begin": "begin", 
-        "end": "end", 
-    }, 
         "id": "01", 
         "name": "Arbeitskreis 1", 
         "shortname": "AK 1", 

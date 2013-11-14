@@ -1,280 +1,75 @@
-{
-  "arbeitskreise":
-[
-    {
-        "name": "MeTaFa", 
-        "responsible": "Nils (FU Berlin)", 
-        "room": "SR 1", 
-        "slotid": "01", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_MeTaFa"
-    }, 
-    {
-        "name": "Teilzeitstudium", 
-        "responsible": "Tobi (D\u00fcsseldorf)", 
-        "room": "SR 2 (gelbes Haus)", 
-        "slotid": "01", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_Teilzeitstudium"
-    }, 
-    {
-        "name": "Master-Ordnungen", 
-        "responsible": "Christian (Rostock) ", 
-        "room": "SR 3", 
-        "slotid": "01", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_Masterordnung"
-    }, 
-    {
-        "name": "Kompetenzen", 
-        "responsible": "Danny (Leipzig)", 
-        "room": "SR 4", 
-        "slotid": "01", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_Kompetenzen"
-    }, 
-    {
-        "name": "Einf\u00fchrung in die Akkreditierung", 
-        "responsible": "Bj\u00f6rn + Timo (Aachen)", 
-        "room": "SR 1", 
-        "slotid": "02", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AKe_Akkreditierung"
-    }, 
-    {
-        "name": "Gleichstellung", 
-        "responsible": "?", 
-        "room": "SR 2 (gelbes Haus)", 
-        "slotid": "02", 
-        "url": null
-    }, 
-    {
-        "name": "IAPS", 
-        "responsible": "BenniD (HU Berlin)", 
-        "room": "SR 3", 
-        "slotid": "02", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_IAPS"
-    }, 
-    {
-        "name": "Studienf\u00fchrer", 
-        "responsible": "Nils (FU Berlin)", 
-        "room": "HS 2 (gelbes Haus)", 
-        "slotid": "02", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/Studienf%C3%BChrer"
-    }, 
-    {
-        "name": "Systemakkr. I (Workshop)", 
-        "responsible": "BenniD (HU Berlin)", 
-        "room": "SR 1", 
-        "slotid": "03", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AKe_Akkreditierung"
-    }, 
-    {
-        "name": "Auslandssemester", 
-        "responsible": "Cosima (Frankfurt)", 
-        "room": "SR 3", 
-        "slotid": "03", 
-        "url": null
-    }, 
-    {
-        "name": "Sebsthilfe-AK beklauter FS", 
-        "responsible": "Sri (RU Bochum)", 
-        "room": "SR 4", 
-        "slotid": "03", 
-        "url": null
-    }, 
-    {
-        "name": "Geschichte der ZaPF", 
-        "responsible": "Tobi (D\u00fcsseldorf)", 
-        "room": "SR 2 (gelbes Haus)", 
-        "slotid": "03", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_Geschichte"
-    }, 
-    {
-        "name": "Austausch-AK I", 
-        "responsible": "Rene", 
-        "room": "HS 2 (gelbes Haus)", 
-        "slotid": "03", 
-        "url": null
-    }, 
-    {
-        "name": "CHE-Ranking (mit PsyFaKo)", 
-        "responsible": "Christian (Oldenburg)", 
-        "room": "HS 4 (Carl-Zeiss-Str. 3: Psychos)", 
-        "slotid": "04", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_CHE"
-    }, 
-    {
-        "name": "ZaPF e.V.", 
-        "responsible": "Philipp (Frankfurt)", 
-        "room": "SR 4", 
-        "slotid": "04", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_ZaPF_eV"
-    }, 
-    {
-        "name": "Inlandssemester", 
-        "responsible": "Danny (Leipzig)", 
-        "room": "SR 1", 
-        "slotid": "04", 
-        "url": null
-    }, 
-    {
-        "name": "IRC und PGP", 
-        "responsible": "J\u00f6rg (FU Berlin) + Bj\u00f6rn (Aachen)", 
-        "room": "SR 3", 
-        "slotid": "04", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_IRC_PGP"
-    }, 
-    {
-        "name": "Promotionsordnungen", 
-        "responsible": "Markus (FU Berlin)", 
-        "room": "SR 2 (gelbes Haus)", 
-        "slotid": "04", 
-        "url": null
-    }, 
-    {
-        "name": "Lehramt", 
-        "responsible": "Felix (Hamburg) ", 
-        "room": "SR 1", 
-        "slotid": "05", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_Lehramt"
-    }, 
-    {
-        "name": "Br\u00fcckenkurs vs. Mathevorkurs", 
-        "responsible": "BenniD (HU Berlin)", 
-        "room": "SR 2 (gelbes Haus)", 
-        "slotid": "05", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_MatheVorkurs"
-    }, 
-    {
-        "name": "Selbstverst\u00e4ndnis der ZaPF", 
-        "responsible": "?", 
-        "room": "SR 3", 
-        "slotid": "05", 
-        "url": null
-    }, 
-    {
-        "name": "Studienvergleichsseiten", 
-        "responsible": "Tobi (D\u00fcsseldorf)", 
-        "room": "SR 4", 
-        "slotid": "05", 
-        "url": null
-    }, 
-    {
-        "name": "Austausch-AK II", 
-        "responsible": "Rene", 
-        "room": "HS 2 (gelbes Haus)", 
-        "slotid": "05", 
-        "url": null
-    }, 
-    {
-        "name": "Systemakkreditierung II (mit PsyFaKo)", 
-        "responsible": "BenniD (HU Berlin)", 
-        "room": "HS2 (gelbes Haus)", 
-        "slotid": "b2", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AKe_Akkreditierung"
-    }, 
-    {
-        "name": "Arbeitsbedingungen von DoktorandInnen", 
-        "responsible": "J\u00f6rg (FU Berlin)", 
-        "room": "SR 3", 
-        "slotid": "b2", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_Doktoranden"
-    }, 
-    {
-        "name": "Demokratie in akademischen Gremien", 
-        "responsible": "Markus (FU Berlin)", 
-        "room": "SR 1", 
-        "slotid": "b2", 
-        "url": null
-    }, 
-    {
-        "name": "Geschichte der Physik", 
-        "responsible": "Stefan L\u00fcders (?) ", 
-        "room": "SR 4", 
-        "slotid": "b2", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AK_Geschichte_der_Physik"
-    }, 
-    {
-        "name": "Fachschaftsfreundschaften", 
-        "responsible": "Mo (Dresden)", 
-        "room": "Konferenzraum", 
-        "slotid": "06", 
-        "url": null
-    }, 
-    {
-        "name": "StAPF \/ Satzungs\u00e4nderung", 
-        "responsible": "Christian (Oldenburg)", 
-        "room": "SR 3", 
-        "slotid": "06", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_StAPF"
-    }, 
-    {
-        "name": "Poolvernetzungstreffen", 
-        "responsible": "Bj\u00f6rn + Timo (Aachen)", 
-        "room": "SR 4", 
-        "slotid": "06", 
-        "url": "https:\/\/vmp.ethz.ch\/zapfwiki\/index.php\/SoSe13_AKe_Akkreditierung"
-    }, 
-    {
-        "name": "Kartenspiel", 
-        "responsible": "Diemo (?)", 
-        "room": "SR 1", 
-        "slotid": "06", 
-        "url": null
-    }
-],
-  "slots": [
-    {
-      "id": "01",
-      "name": "Zeitblock 1",
-      "shortname": "AK 1",
-      "begin": "2013-05-09T10:30:00+0200",
-      "end": "2013-05-09T12:30:00+0200"
-    },
-    {
-      "id": "02",
-      "name": "Zeitblock 2",
-      "shortname": "AK 2",
-      "begin": "2013-05-09T14:00:00+0200",
-      "end": "2013-05-09T16:00:00+0200"
-    },
-    {
-      "id": "03",
-      "name": "Zeitblock 3",
-      "shortname": "AK 3",
-      "begin": "2013-05-09T16:00:00+0200",
-      "end": "2013-05-09T18:00:00+0200"
-    },
-    {
-      "id": "b1",
-      "name": "Backup Zeitblock I",
-      "shortname": "AK B1",
-      "begin": "2013-05-09T18:00:00+0200",
-      "end": "2013-05-09T20:00:00+0200"
-    },
-    {
-      "id": "04",
-      "name": "Zeitblock 4",
-      "shortname": "AK 4",
-      "begin": "2013-05-11T09:30:00+0200",
-      "end": "2013-05-11T12:00:00+0200"
-    },
-    {
-      "id": "05",
-      "name": "Zeitblock 5",
-      "shortname": "AK 5",
-      "begin": "2013-05-11T14:30:00+0200",
-      "end": "2013-05-11T16:30:00+0200"
-    },
-    {
-      "id": "b2",
-      "name": "Backup Zeitblock II",
-      "shortname": "AK B2",
-      "begin": "2013-05-11T16:30:00+0200",
-      "end": "2013-05-11T18:30:00+0200"
-    },
-    {
-      "id": "06",
-      "name": "Zeitblock 6",
-      "shortname": "AK 6",
-      "begin": "2013-05-11T18:30:00+0200",
-      "end": "2013-05-11T20:30:00+0200"
-    }
-  ]
-}
+{   'arbeitskreise': [   {   'name': 'Dummy 01',
+                             'responsible': 'Dak 1',
+                             'room': '01',
+                             'slotid': '01',
+                             'url': 'https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Alumniprogramm_der_ZaPF'},
+                         {   'name': 'Dummy 02',
+                             'responsible': 'Dak 2',
+                             'room': '02',
+                             'slotid': '02',
+                             'url': 'duuditae'},
+                         {   'name': 'Dummy 03',
+                             'responsible': 'Dak 3',
+                             'room': '03',
+                             'slotid': '03',
+                             'url': ''},
+                         {   'name': 'Dummy 04',
+                             'responsible': 'Dak 4',
+                             'room': '04',
+                             'slotid': '04',
+                             'url': ''},
+                         {   'name': 'Dummy 05',
+                             'responsible': 'Dak 5',
+                             'room': '05',
+                             'slotid': '05',
+                             'url': ''},
+                         {   'name': 'Dummy 06',
+                             'responsible': 'Dak 6',
+                             'room': '06',
+                             'slotid': '06',
+                             'url': ''},
+                         {   'name': 'Dummy 07',
+                             'responsible': 'Dak 7',
+                             'room': '07',
+                             'slotid': 'b1',
+                             'url': ''},
+                         {   'name': 'Dummy 08',
+                             'responsible': 'Dak 8',
+                             'room': '08',
+                             'slotid': 'b2',
+                             'url': ''}],
+    'slots': [   {   'begin': '2013-11-15T13:30:00+0100',
+                     'end': '2013-11-15T15:30:00+0100',
+                     'id': '01',
+                     'name': 'Arbeitskreis 1',
+                     'shortname': 'AK 1'},
+                 {   'begin': '2013-11-15T15:30:00+0100',
+                     'end': '2013-11-17T13:30:00+0100',
+                     'id': '02',
+                     'name': 'Arbeitskreis 2',
+                     'shortname': 'AK 2'},
+                 {   'begin': '2013-11-15T18:00:00+0100',
+                     'end': '2013-11-15T20:00:00+0100',
+                     'id': '03',
+                     'name': 'Arbeitskreis 3',
+                     'shortname': 'AK 3'},
+                 {   'begin': '2013-11-16T08:30:00+0100',
+                     'end': '2013-11-16T10:00:00+0100',
+                     'id': '04',
+                     'name': 'Arbeitskreis 4',
+                     'shortname': 'AK 4'},
+                 {   'begin': '2013-11-16T13:30:00+0100',
+                     'end': '2013-11-16T15:30:00+0100',
+                     'id': '05',
+                     'name': 'Arbeitskreis 5',
+                     'shortname': 'AK 5'},
+                 {   'begin': '2013-11-16T16:00:00+0100',
+                     'end': '2013-11-16T17:30:00+0100',
+                     'id': 'b1',
+                     'name': 'Backup Zeitblock I',
+                     'shortname': 'BK AK 1'},
+                 {   'begin': '2013-11-16T17:30:00+0100',
+                     'end': '2013-11-15T13:30:00+0100',
+                     'id': 'b2',
+                     'name': 'Backup Zeitblock II',
+                     'shortname': 'BK AK 2'}]}

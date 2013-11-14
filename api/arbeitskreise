@@ -1,7 +1,7 @@
 {
     "arbeitskreise": [
         {
-            "name": "Alumni", 
+            "name": "Alumniprogramm der ZaPF", 
             "responsible": "Tobi (HHU)", 
             "room": null, 
             "slotid": "01", 
@@ -16,7 +16,7 @@
         }, 
         {
             "name": "\u00d6ffentlichkeitsarbeit", 
-            "responsible": "Benni (HUB) + Bj\u00f6rn (RWTH)", 
+            "responsible": "BenniD (HUB) + Bj\u00f6rn (RWTH)", 
             "room": null, 
             "slotid": "01", 
             "url": null
@@ -44,20 +44,20 @@
         }, 
         {
             "name": "CHE", 
-            "responsible": "Benni (HUW) + Magrett (LMU)", 
+            "responsible": "BenniD (HUB) + Magret (LMU)", 
             "room": null, 
             "slotid": "02", 
             "url": null
         }, 
         {
-            "name": "\u00d6ster. Hochsch\u00fclerschaft", 
+            "name": "\u00d6sterreichisch Hochsch\u00fclerInnenschaft", 
             "responsible": "Berni (TUW)", 
             "room": null, 
             "slotid": "02", 
             "url": null
         }, 
         {
-            "name": "Paranoia", 
+            "name": "Paranoia und du: Deine neuee beste Freundin", 
             "responsible": "Bj\u00f6rn  (RWTH) + J\u00f6rg (FUB)", 
             "room": null, 
             "slotid": "02", 
@@ -65,20 +65,20 @@
         }, 
         {
             "name": "Kartenspiel", 
-            "responsible": "Ren\u00e9 (Brem)", 
+            "responsible": "Ren\u00e9 (alter Sack)", 
             "room": null, 
             "slotid": "02", 
             "url": null
         }, 
         {
-            "name": "Merkel-einladen?", 
+            "name": "Merkel einladen?", 
             "responsible": "Jakob (Bremen)", 
             "room": null, 
             "slotid": "02", 
             "url": null
         }, 
         {
-            "name": "Studif\u00fchrer Internat.", 
+            "name": "Studienf\u00fchrer international", 
             "responsible": "Larissa (FUB)", 
             "room": null, 
             "slotid": "02", 
@@ -99,29 +99,29 @@
             "url": null
         }, 
         {
-            "name": "Fs. Freundschaften", 
+            "name": "Fachschafts-Freundschaften", 
             "responsible": "Tobi (HHU)", 
             "room": null, 
             "slotid": "03", 
             "url": null
         }, 
         {
-            "name": "Orga+ Finanzierung", 
+            "name": "Orga & Finanzierung einer ZaPF", 
             "responsible": "Jannis (Bremen)", 
             "room": null, 
             "slotid": "03", 
             "url": null
         }, 
         {
-            "name": "Anti-Harassment", 
+            "name": "Anti-Harassment Policy", 
             "responsible": "Bjoern (RWTH)", 
             "room": null, 
             "slotid": "03", 
             "url": null
         }, 
         {
-            "name": "Gremienarbeit", 
-            "responsible": "Margret (LMU)", 
+            "name": "Gremienarbeit: Hintergr\u00fcnde, Tuscheltaktik und Co.", 
+            "responsible": "Margret (LMU) & Daniela (Frankfurt)", 
             "room": null, 
             "slotid": "03", 
             "url": null
@@ -134,15 +134,15 @@
             "url": null
         }, 
         {
-            "name": "Fragen an DAD", 
+            "name": "Auslandssemester / Fragen an DAAD", 
             "responsible": "Cosima (Frankfurt)", 
             "room": null, 
             "slotid": "03", 
             "url": null
         }, 
         {
-            "name": "Akreditierung 1", 
-            "responsible": "Margret (LMU)", 
+            "name": "Einf\u00fchrung in die Akkreditierung", 
+            "responsible": "Timo (RWTH)", 
             "room": null, 
             "slotid": "04", 
             "url": null
@@ -176,7 +176,7 @@
             "url": null
         }, 
         {
-            "name": "Med.Ph und Ph.-\u00e4hnliche Studien", 
+            "name": "Bindestrich-Studieng\u00e4nge (Medizinische Physik etc.)", 
             "responsible": "Daniela (Dortmund)", 
             "room": null, 
             "slotid": "04", 
@@ -226,13 +226,13 @@
         }, 
         {
             "name": "Zukunft der ZaPF ", 
-            "responsible": "Benni (HUB)", 
+            "responsible": "BenniD (HUB)", 
             "room": null, 
             "slotid": "05", 
             "url": null
         }, 
         {
-            "name": "Mathe im Ph-Studium", 
+            "name": "Mathe im Physik-Studium", 
             "responsible": "Selena (Wuppertal)", 
             "room": null, 
             "slotid": "05", 

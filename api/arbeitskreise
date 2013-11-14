@@ -277,17 +277,10 @@
         }, 
         {
             "begin": "2013-11-16T16:00:00+0100", 
-            "end": "2013-11-16T17:30:00+0100", 
+            "end": "2013-11-16T19:00:00+0100", 
             "id": "b1", 
             "name": "Backup Zeitblock I", 
             "shortname": "BK AK 1"
-        }, 
-        {
-            "begin": "2013-11-16T17:30:00+0100", 
-            "end": "2013-11-15T13:30:00+0100", 
-            "id": "b2", 
-            "name": "Backup Zeitblock II", 
-            "shortname": "BK AK 2"
         }
     ]
 }

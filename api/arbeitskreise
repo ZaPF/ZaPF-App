@@ -10,238 +10,238 @@
         {
             "name": "Alumni", 
             "responsible": "Tobi (HHU)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "01", 
             "url": null
         }, 
         {
             "name": "Studienf\u00fchrer", 
             "responsible": "Sebastian (Hamburg)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "01", 
             "url": null
         }, 
         {
             "name": "\u00d6ffentlichkeitsarbeit", 
             "responsible": "Benni (HUB) + Bj\u00f6rn (RWTH)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "01", 
             "url": null
         }, 
         {
             "name": "Austausch 1", 
             "responsible": "Bene(HHU)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "01", 
             "url": null
         }, 
         {
             "name": "Verfasste Studierendenschaften", 
             "responsible": "Claudio (Konstanz)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "01", 
             "url": null
         }, 
         {
             "name": "Englischer Master", 
             "responsible": "Christian (Oldenburg)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "01", 
             "url": null
         }, 
         {
             "name": "CHE", 
             "responsible": "Benni (HUW) + Magrett (LMU)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "02", 
             "url": null
         }, 
         {
             "name": "\u00d6ster. Hochsch\u00fclerschaft", 
             "responsible": "Berni (TUW)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "02", 
             "url": null
         }, 
         {
             "name": "Paranoia", 
             "responsible": "Bj\u00f6rn  (RWTH) + J\u00f6rg (FUB)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "02", 
             "url": null
         }, 
         {
             "name": "Kartenspiel", 
             "responsible": "Ren\u00e9 (Brem)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "02", 
             "url": null
         }, 
         {
             "name": "Merkel-einladen?", 
             "responsible": "Jakob (Bremen)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "02", 
             "url": null
         }, 
         {
             "name": "Studif\u00fchrer Internat.", 
             "responsible": "Larissa (FUB)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "02", 
             "url": null
         }, 
         {
             "name": "Mentoring", 
             "responsible": "Daniela (Frankfurt)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "02", 
             "url": null
         }, 
         {
             "name": "Z\u00d6PV 1 (\u00f6sterreichischer Block)", 
             "responsible": null, 
-            "room": "???", 
+            "room": null, 
             "slotid": "03", 
             "url": null
         }, 
         {
             "name": "Fs. Freundschaften", 
             "responsible": "Tobi (HHU)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "03", 
             "url": null
         }, 
         {
             "name": "Orga+ Finanzierung", 
             "responsible": "Jannis (Bremen)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "03", 
             "url": null
         }, 
         {
             "name": "Anti-Harassment", 
             "responsible": "Bjoern (RWTH)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "03", 
             "url": null
         }, 
         {
             "name": "Gremienarbeit", 
             "responsible": "Margret (LMU)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "03", 
             "url": null
         }, 
         {
             "name": "Umgang mit Finanzk\u00fcrzungen", 
             "responsible": "Juliane (Magdeburg)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "03", 
             "url": null
         }, 
         {
             "name": "Fragen an DAD", 
             "responsible": "Cosima (Frankfurt)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "03", 
             "url": null
         }, 
         {
             "name": "Akreditierung 1", 
             "responsible": "Margret (LMU)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "04", 
             "url": null
         }, 
         {
             "name": "ZaPF e.V", 
             "responsible": "Vorstand", 
-            "room": "???", 
+            "room": null, 
             "slotid": "04", 
             "url": null
         }, 
         {
             "name": "Gleichstellung", 
             "responsible": "Janina (Bremen)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "04", 
             "url": null
         }, 
         {
             "name": "Doktoranden", 
             "responsible": "J\u00f6rg (FUB)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "04", 
             "url": null
         }, 
         {
             "name": "Geschichte der Physik", 
             "responsible": "Stefan (G\u00f6ttingen)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "04", 
             "url": null
         }, 
         {
             "name": "Med.Ph und Ph.-\u00e4hnliche Studien", 
             "responsible": "Daniela (Dortmund)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "04", 
             "url": null
         }, 
         {
             "name": "Fachschafts IT", 
             "responsible": "Patrick (Aachen)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "04", 
             "url": null
         }, 
         {
             "name": "Z\u00d6PV 2 (\u00f6sterreichischer Block)", 
             "responsible": null, 
-            "room": "???", 
+            "room": null, 
             "slotid": "05", 
             "url": null
         }, 
         {
             "name": "Pr\u00fcfungssysteme", 
             "responsible": "Margret (LMU)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "05", 
             "url": null
         }, 
         {
             "name": "Lehramt", 
             "responsible": "Wienie (RUB)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "05", 
             "url": null
         }, 
         {
             "name": "Satzungs\u00e4nderungen/Selbstverst\u00e4ndnis", 
             "responsible": "Jakob (Bremen)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "05", 
             "url": null
         }, 
         {
             "name": "Austausch 2", 
             "responsible": "Bene (HHU)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "05", 
             "url": null
         }, 
         {
             "name": "Zukunft der ZaPF ", 
             "responsible": "Benni (HUB)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "05", 
             "url": null
         }, 
         {
             "name": "Mathe im Ph-Studium", 
             "responsible": "Selena (Wuppertal)", 
-            "room": "???", 
+            "room": null, 
             "slotid": "05", 
             "url": null
         }

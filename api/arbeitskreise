@@ -1,60 +1,242 @@
 {
     "arbeitskreise": [
         {
-            "name": "Dummy 01", 
-            "responsible": "Dak 1", 
-            "room": "01", 
+            "name": "Alumniprogramm der ZaPF", 
+            "responsible": "Tobi (HHU)", 
+            "room": "303", 
             "slotid": "01", 
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Alumniprogramm_der_ZaPF"
         }, 
         {
-            "name": "Dummy 02", 
-            "responsible": "Dak 2", 
-            "room": "02", 
-            "slotid": "02", 
-            "url": "duuditae"
+            "name": "Studienf\u00fchrer", 
+            "responsible": "Sebastian (Hamburg)", 
+            "room": "325/1", 
+            "slotid": "01", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Studienf\u00fchrer"
         }, 
         {
-            "name": "Dummy 03", 
-            "responsible": "Dak 3", 
-            "room": "03", 
+            "name": "\u00d6ffentlichkeitsarbeit", 
+            "responsible": "BenniD (HUB) & Bj\u00f6rn (RWTH)", 
+            "room": "Zeichensaal 1", 
+            "slotid": "01", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Oeffentlichkeitsarbeit"
+        }, 
+        {
+            "name": "Austausch 1", 
+            "responsible": "Bene(HHU)", 
+            "room": "Zeichensaal 3", 
+            "slotid": "01", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Austausch"
+        }, 
+        {
+            "name": "Verfasste Studierendenschaften", 
+            "responsible": "Claudio (Konstanz)", 
+            "room": "138 A", 
+            "slotid": "01", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_VerfassteStudierendenschaft"
+        }, 
+        {
+            "name": "Englischer Master", 
+            "responsible": "Christian (Oldenburg)", 
+            "room": "104", 
+            "slotid": "01", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_EnglishMaster"
+        }, 
+        {
+            "name": "CHE", 
+            "responsible": "BenniD (HUB) & Magret (LMU)", 
+            "room": "Zeichensaal 3", 
+            "slotid": "02", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_CHE"
+        }, 
+        {
+            "name": "\u00d6sterreichisch Hochsch\u00fclerInnenschaft", 
+            "responsible": "Berni (TUW)", 
+            "room": "Zeichensaal 1", 
+            "slotid": "02", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=WiSe13_AK_OesterreichischeHochschuelerschaft"
+        }, 
+        {
+            "name": "Paranoia und du: Deine neuee beste Freundin", 
+            "responsible": "Bj\u00f6rn  (RWTH) & J\u00f6rg (FUB)", 
+            "room": "325/1", 
+            "slotid": "02", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_PGP"
+        }, 
+        {
+            "name": "Kartenspiel", 
+            "responsible": "Ren\u00e9 (alter Sack)", 
+            "room": "303", 
+            "slotid": "02", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Kartenspiel"
+        }, 
+        {
+            "name": "Merkel einladen?", 
+            "responsible": "Jakob (Bremen)", 
+            "room": "107", 
+            "slotid": "02", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Merkel-Einladen"
+        }, 
+        {
+            "name": "Studienf\u00fchrer international", 
+            "responsible": "Larissa (FUB)", 
+            "room": "138 A", 
+            "slotid": "02", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=WiSe13_AK_Studienf%C3%BChrerInternational"
+        }, 
+        {
+            "name": "Mentoring", 
+            "responsible": "Daniela (Frankfurt)", 
+            "room": "104", 
+            "slotid": "02", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Mentoring"
+        }, 
+        {
+            "name": "Z\u00d6PV 1 (\u00f6sterreichischer Block)", 
+            "responsible": null, 
+            "room": "107", 
             "slotid": "03", 
             "url": null
         }, 
         {
-            "name": "Dummy 04", 
-            "responsible": "Dak 4", 
-            "room": "04", 
-            "slotid": "04", 
-            "url": null
+            "name": "Fachschafts-Freundschaften", 
+            "responsible": "Tobi (HHU)", 
+            "room": null, 
+            "slotid": null, 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Fachschaftsfreundschaften"
         }, 
         {
-            "name": "Dummy 05", 
-            "responsible": "Dak 5", 
-            "room": "05", 
+            "name": "Orga & Finanzierung einer ZaPF", 
+            "responsible": "Jannis (Bremen)", 
+            "room": "104", 
+            "slotid": "03", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Orga%2BFinanzierung"
+        }, 
+        {
+            "name": "Anti-Harassment Policy", 
+            "responsible": "Bjoern (RWTH)", 
+            "room": "325/1", 
+            "slotid": "03", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Anti_Harassment_Policy"
+        }, 
+        {
+            "name": "Gremienarbeit: Hintergr\u00fcnde, Tuscheltaktik und Co.", 
+            "responsible": "Margret (LMU) & Daniela (Frankfurt)", 
+            "room": "Zeichensaal 3", 
+            "slotid": "03", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Gremienarbeit"
+        }, 
+        {
+            "name": "Umgang mit Finanzk\u00fcrzungen", 
+            "responsible": "Juliane (Magdeburg)", 
+            "room": "138 A", 
+            "slotid": "03", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=WiSe13_AK_Finanzkuerzungen"
+        }, 
+        {
+            "name": "Auslandssemester / Fragen an DAAD", 
+            "responsible": "Cosima (Frankfurt)", 
+            "room": "Zeichensaal 1", 
+            "slotid": "03", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=WiSe13_AK_Auslandssemester"
+        }, 
+        {
+            "name": "Einf\u00fchrung in die Akkreditierung", 
+            "responsible": "Timo (RWTH)", 
+            "room": "Zeichensaal 3", 
+            "slotid": "04", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_Akkreditierung"
+        }, 
+        {
+            "name": "ZaPF e.V", 
+            "responsible": "Vorstand", 
+            "room": "303", 
+            "slotid": "04", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_ZaPF_eV"
+        }, 
+        {
+            "name": "Gleichstellung", 
+            "responsible": "Janina (Bremen)", 
+            "room": "Zeichensaal 1", 
+            "slotid": "04", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=WiSe13_AK_Gleichstellung"
+        }, 
+        {
+            "name": "Doktoranden", 
+            "responsible": "J\u00f6rg (FUB)", 
+            "room": "107", 
+            "slotid": "04", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=WiSe13_AK_Doktoranden"
+        }, 
+        {
+            "name": "Geschichte der Physik", 
+            "responsible": "Stefan (G\u00f6ttingen)", 
+            "room": "104", 
+            "slotid": "04", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Geschichte_der_Physik"
+        }, 
+        {
+            "name": "Bindestrich-Studieng\u00e4nge (Medizinische Physik etc.)", 
+            "responsible": "Daniela (Dortmund)", 
+            "room": "325/1", 
+            "slotid": "04", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=WiSe13_AK_BindestrichStudiengaenge"
+        }, 
+        {
+            "name": "Fachschafts IT", 
+            "responsible": "Patrick (Aachen)", 
+            "room": "138 A", 
+            "slotid": "04", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=WiSe13_AK_FachschaftsIT"
+        }, 
+        {
+            "name": "Z\u00d6PV 2 (\u00f6sterreichischer Block)", 
+            "responsible": null, 
+            "room": "107", 
             "slotid": "05", 
             "url": null
         }, 
         {
-            "name": "Dummy 06", 
-            "responsible": "Dak 6", 
-            "room": "06", 
-            "slotid": "06", 
-            "url": null
+            "name": "Pr\u00fcfungssysteme", 
+            "responsible": "Margret (LMU)", 
+            "room": "A 138", 
+            "slotid": "05", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=WiSe13_AK_Pruefungssysteme"
         }, 
         {
-            "name": "Dummy 07", 
-            "responsible": "Dak 7", 
-            "room": "07", 
-            "slotid": "b1", 
-            "url": null
+            "name": "Lehramt", 
+            "responsible": "Wienie (RUB)", 
+            "room": "303", 
+            "slotid": "05", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Lehramt"
         }, 
         {
-            "name": "Dummy 08", 
-            "responsible": "Dak 8", 
-            "room": "08", 
-            "slotid": "b2", 
-            "url": null
+            "name": "Satzungs\u00e4nderungen/Selbstverst\u00e4ndnis", 
+            "responsible": "Jakob (Bremen)", 
+            "room": "104", 
+            "slotid": "05", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Satzungs%C3%A4nderung/Selbstverst%C3%A4ndnis"
+        }, 
+        {
+            "name": "Austausch 2", 
+            "responsible": "Bene (HHU)", 
+            "room": "Zeichensaal 3", 
+            "slotid": "05", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Austausch"
+        }, 
+        {
+            "name": "Zukunft der ZaPF", 
+            "responsible": "BenniD (HUB)", 
+            "room": "Zeichensaal 1", 
+            "slotid": "05", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Zukunft_der_ZaPF"
+        }, 
+        {
+            "name": "Mathe im Physik-Studium", 
+            "responsible": "Selena (Wuppertal)", 
+            "room": "325/1", 
+            "slotid": "05", 
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=WiSe13_AK_MatheImPhysikstudium"
         }
     ], 
     "slots": [
@@ -67,7 +249,7 @@
         }, 
         {
             "begin": "2013-11-15T15:30:00+0100", 
-            "end": "2013-11-17T13:30:00+0100", 
+            "end": "2013-11-17T17:30:00+0100", 
             "id": "02", 
             "name": "Arbeitskreis 2", 
             "shortname": "AK 2"
@@ -95,17 +277,10 @@
         }, 
         {
             "begin": "2013-11-16T16:00:00+0100", 
-            "end": "2013-11-16T17:30:00+0100", 
+            "end": "2013-11-16T19:00:00+0100", 
             "id": "b1", 
             "name": "Backup Zeitblock I", 
             "shortname": "BK AK 1"
-        }, 
-        {
-            "begin": "2013-11-16T17:30:00+0100", 
-            "end": "2013-11-15T13:30:00+0100", 
-            "id": "b2", 
-            "name": "Backup Zeitblock II", 
-            "shortname": "BK AK 2"
         }
     ]
 }

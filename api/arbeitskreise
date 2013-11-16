@@ -101,7 +101,7 @@
         {
             "name": "Fachschafts-Freundschaften", 
             "responsible": "Tobi (HHU)", 
-            "room": null, 
+            "room": "Zeichensaal 3", 
             "slotid": "sak1", 
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Fachschaftsfreundschaften"
         }, 

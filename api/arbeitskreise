@@ -1,13 +1,6 @@
 {
     "arbeitskreise": [
         {
-            "name": "name",
-            "responsible": "responsible",
-            "room": "room",
-            "slotid": "slotid",
-            "url": "url"
-        },
-        {
             "name": "Dummy 01",
             "responsible": "Dak 1",
             "room": "01",
@@ -65,13 +58,6 @@
         }
     ],
     "slots": [
-        {
-            "begin": "begin",
-            "end": "end",
-            "id": "id",
-            "name": "name",
-            "shortname": "shortname"
-        },
         {
             "begin": "2014-05-29T06:00:00+0200",
             "end": "2014-05-29T08:00:00+0200",

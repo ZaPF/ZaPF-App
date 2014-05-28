@@ -39,12 +39,12 @@ einen Object mit zwei Arrays: arbeitskreise und slots.
 
 arbeitskreise besteht aus Objecten, die jeweils einen AK definieren. Die Einträge hierin sind:
 
-Key | Value
--|-
-name: | Name des Arbeitskreises
+Key          | Value
+-------------|-------------------------------------------------------
+name:        | Name des Arbeitskreises
 repsonsible: | Name des für den Arbeitskreis Verantwortlichen
-room: | Raum, in dem der Arbeitskreis stattfindet.
-slotid: | ID des Slots, in dem der Arbeitskreis stattfinden soll
+room:        | Raum, in dem der Arbeitskreis stattfindet.
+slotid:      | ID des Slots, in dem der Arbeitskreis stattfinden soll
 
 Alle Values sind Strings.
 

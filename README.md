@@ -37,16 +37,29 @@ Die JSON-Datei, die als arbeitskreise im Ordner api liegt, enthält die
 von der App verwendete Version der Daten. Sie besteht in der ersten Ebene
 einen Object mit zwei Arrays: arbeitskreise und slots.
 
-arbeitskreise besteht aus Objecten, die jeweils einen AK definieren. Die Einträge hierin sind:
+arbeitskreise besteht aus Objects, die jeweils einen AK definieren.
+Die Einträge hierin sind:
 
 Key          | Value
 -------------|-------------------------------------------------------
-name:        | Name des Arbeitskreises
-repsonsible: | Name des für den Arbeitskreis Verantwortlichen
-room:        | Raum, in dem der Arbeitskreis stattfindet.
-slotid:      | ID des Slots, in dem der Arbeitskreis stattfinden soll
+name         | Name des Arbeitskreises
+repsonsible  | Name des für den Arbeitskreis Verantwortlichen
+room         | Raum, in dem der Arbeitskreis stattfindet.
+slotid       | ID des Slots, in dem der Arbeitskreis stattfinden soll
+url          | URL zur Seite des AKs im ZaPF-Wiki
 
-Alle Values sind Strings.
+Alle Values sind Strings. slots besteht analog aus Objects, die jeweils
+einen AK-Slot definieren. Hierbei sind die Einträge:
+
+Key       | Values
+----------|----------------------------------------------------------
+name      | Name des Slots
+shortname | Abkürzung des Namens des Slots
+id        | ID, über die Arbeitskreise mit diesem Slot verknüpft werden
+begin     | Anfangszeit des Slots
+end       | Ende des Slots
+
+Auch hier sind alle Values Strings
 
 ## Bisherige Verwendung
 

@@ -61,6 +61,15 @@ end       | Ende des Slots
 
 Auch hier sind alle Values Strings
 
+### CSV-Dateien
+
+Sollte gerade keine Kompetenz zum direkten Erstellen der JSON-Datei zu
+greifen sein, besteht auch die Möglichkeit, zwei CSV-Dateien, welche die
+nötigen Informationen zu den Arbeitskreisen und Slots enthalten, und aus
+diesen mit Hilfe des Scripts template.py die JSON-Datei zu erstellen.
+Beispiele hierfür sind die Dateien ak_beispiel.csv und slots_beispiel.csv im
+Ordner template.
+
 ## Bisherige Verwendung
 
 Genutzt wurde die ZaPF-App zum ersten Mal im Winter-Semester 2012 in Karlsruhe

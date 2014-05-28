@@ -14,6 +14,14 @@ einer LibreOffice Calc-Tabelle erstellt werden).
 Für jeden Zeitslot in den bezogenen Daten wird dann ein Infoblock in der
 App eingefügt, der die darin stattfindenden Arbeitskreise darstellt.
 
+## Aber wie bekomme ich denn nun meine AK-Einteilung in die blöde App?
+
+Du bist also eine austragende Fachschaft oder sonst wie für die Einteilung der AKe einer ZaPF zuständig. Jetzt musst du dieses Repository nur clonen und anschließend findest du im Ordner template zwei Dateien Namens ak_beispiele.csv und slots_beispiele.csv, in welchen du dir anschauen kannst, wie die beiden Dateien, welche du jetzt erstellen musst. Sind die Dateien fertig, nutzt du das Script template.py um das Json-Object zu erstellen. Die Syntax dafür ist
+'''
+./template.py [AK-Datei] [Slot-Datei]
+'''
+Im Anschluss erstellst du ein Pull-Request auf github.com und die Daten können letztendlich in die App eingebunden werden.
+
 ## Bisherige Verwendung
 
 Genutzt wurde die ZaPF-App zum ersten Mal im Winter-Semester 2012 in Karlsruhe

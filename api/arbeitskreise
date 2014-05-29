@@ -1,59 +1,241 @@
 {
     "arbeitskreise": [
         {
-            "name": "Dummy 01",
-            "responsible": "Dak 1",
-            "room": "01",
-            "slotid": "01",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe13_AK_Alumniprogramm_der_ZaPF"
-        },
-        {
-            "name": "Dummy 02",
-            "responsible": "Dak 2",
-            "room": "02",
-            "slotid": "02",
-            "url": "duuditae"
-        },
-        {
-            "name": "Dummy 03",
-            "responsible": "Dak 3",
-            "room": "03",
-            "slotid": "03",
+            "name": "Einf\u00fchrung in die Akkreditierung",
+            "responsible": "",
+            "room": "25.22.00.52",
+            "slotid": "1",
             "url": ""
         },
         {
-            "name": "Dummy 04",
-            "responsible": "Dak 4",
-            "room": "04",
-            "slotid": "04",
+            "name": "Fachschaftsnachwuchs",
+            "responsible": "",
+            "room": "25.22.00.52",
+            "slotid": "25.13.00.32",
             "url": ""
         },
         {
-            "name": "Dummy 05",
-            "responsible": "Dak 5",
-            "room": "05",
-            "slotid": "05",
+            "name": "Berufsqualifizierender Abschluss Bachelor",
+            "responsible": "",
+            "room": "25.22.00.52",
+            "slotid": "3",
             "url": ""
         },
         {
-            "name": "Dummy 06",
-            "responsible": "Dak 6",
-            "room": "06",
-            "slotid": "06",
+            "name": "CHE-Vorbereitung",
+            "responsible": "",
+            "room": "25.22.00.52",
+            "slotid": "4",
             "url": ""
         },
         {
-            "name": "Dummy 07",
-            "responsible": "Dak 7",
-            "room": "07",
+            "name": "Au\u00dferfachliche Aktivit\u00e4ten",
+            "responsible": "",
+            "room": "25.22.00.52",
+            "slotid": "5",
+            "url": ""
+        },
+        {
+            "name": "Erstsemester-Einf\u00fchrung",
+            "responsible": "",
+            "room": "25.22.00.52",
+            "slotid": "xxl",
+            "url": ""
+        },
+        {
+            "name": "Austausch",
+            "responsible": "",
+            "room": "25.22.00.52",
+            "slotid": "6",
+            "url": ""
+        },
+        {
+            "name": "Doktoranden",
+            "responsible": "",
+            "room": "25.22.00.52",
             "slotid": "b1",
             "url": ""
         },
         {
-            "name": "Dummy 08",
-            "responsible": "Dak 8",
-            "room": "08",
+            "name": "BuFaTas",
+            "responsible": "",
+            "room": "25.22.00.55",
+            "slotid": "1",
+            "url": ""
+        },
+        {
+            "name": "Finanzk\u00fcrzungen(Resolution)",
+            "responsible": "",
+            "room": "25.22.00.55",
+            "slotid": "2",
+            "url": ""
+        },
+        {
+            "name": "Finanzk\u00fcrzungen(Protest)",
+            "responsible": "",
+            "room": "25.22.00.55",
+            "slotid": "3",
+            "url": ""
+        },
+        {
+            "name": "Fachschaftshomepage",
+            "responsible": "",
+            "room": "25.22.00.55",
+            "slotid": "4",
+            "url": ""
+        },
+        {
+            "name": "GO-Satzung",
+            "responsible": "",
+            "room": "25.13.00.33",
+            "slotid": "5",
+            "url": ""
+        },
+        {
+            "name": "GIT-WTF",
+            "responsible": "",
+            "room": "25.13.00.33",
             "slotid": "xxl",
+            "url": ""
+        },
+        {
+            "name": "Lehramt",
+            "responsible": "",
+            "room": "25.13.00.33",
+            "slotid": "6",
+            "url": ""
+        },
+        {
+            "name": "\u00dcberzogene Bachelorarbeiten",
+            "responsible": "",
+            "room": "25.13.00.33",
+            "slotid": "b1",
+            "url": ""
+        },
+        {
+            "name": "NRW Hochschulzukunftsgestez",
+            "responsible": "",
+            "room": "25.22.00.72",
+            "slotid": "1",
+            "url": ""
+        },
+        {
+            "name": "WIKI-\u00dcberarbeitungen",
+            "responsible": "",
+            "room": "25.22.00.72",
+            "slotid": "2",
+            "url": ""
+        },
+        {
+            "name": "ZaPF Homepage",
+            "responsible": "",
+            "room": "25.22.00.72",
+            "slotid": "3",
+            "url": ""
+        },
+        {
+            "name": "Starterpokemon",
+            "responsible": "",
+            "room": "25.22.00.72",
+            "slotid": "4",
+            "url": ""
+        },
+        {
+            "name": "Pr\u00fcfungssystem",
+            "responsible": "",
+            "room": "25.13.00.32",
+            "slotid": "5",
+            "url": ""
+        },
+        {
+            "name": "Zivilklausel",
+            "responsible": "",
+            "room": "25.13.00.32",
+            "slotid": "xxl",
+            "url": ""
+        },
+        {
+            "name": "GO-Schlachten",
+            "responsible": "",
+            "room": "25.13.00.32",
+            "slotid": "6",
+            "url": ""
+        },
+        {
+            "name": "Kommentierte Studienordnung",
+            "responsible": "",
+            "room": "25.13.00.33",
+            "slotid": "1",
+            "url": ""
+        },
+        {
+            "name": "",
+            "responsible": "",
+            "room": "25.13.00.33",
+            "slotid": "2",
+            "url": ""
+        },
+        {
+            "name": "Zukunft der Zapfen",
+            "responsible": "",
+            "room": "25.13.00.33",
+            "slotid": "3",
+            "url": ""
+        },
+        {
+            "name": "Krypto",
+            "responsible": "",
+            "room": "25.13.00.33",
+            "slotid": "4",
+            "url": ""
+        },
+        {
+            "name": "Sensibilisierungsworkshops",
+            "responsible": "",
+            "room": "25.13.00.22",
+            "slotid": "5",
+            "url": ""
+        },
+        {
+            "name": "Flowchart zur Akkreditierung",
+            "responsible": "",
+            "room": "25.13.00.22",
+            "slotid": "xxl",
+            "url": ""
+        },
+        {
+            "name": "Erz\u00e4hl doch mal Opa(Geschichten aus dem Diplom)",
+            "responsible": "",
+            "room": "25.13.00.22",
+            "slotid": "6",
+            "url": ""
+        },
+        {
+            "name": "Gremien",
+            "responsible": "",
+            "room": "25.22.00.74",
+            "slotid": "4",
+            "url": ""
+        },
+        {
+            "name": "Fachliche Akkreditierung",
+            "responsible": "",
+            "room": "25.22.00.74",
+            "slotid": "5",
+            "url": ""
+        },
+        {
+            "name": "ZaPF eV",
+            "responsible": "",
+            "room": "25.22.00.74",
+            "slotid": "xxl",
+            "url": ""
+        },
+        {
+            "name": "Miteinander unde Gegeneinander in Gremien",
+            "responsible": "",
+            "room": "25.22.00.74",
+            "slotid": "6",
             "url": ""
         }
     ],

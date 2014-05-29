@@ -36,7 +36,7 @@ function zeigeArbeitskreise(){
 		if (current_date > begin && current_date < end){
 			currently_rinnung = true;
 			next = item.name;
-		};
+		}
       });
       $.each(data.arbeitskreise, function(i,item){
         var css_id = 'arbeitskreis'+i;

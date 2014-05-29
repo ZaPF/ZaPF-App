@@ -31,7 +31,7 @@ function zeigeArbeitskreise(){
         $("<div/>", { id: css_id, class: 'ak-unit span3'} ).appendTo('#'+css_id+'cont');
         $("<h2/>", { class: 'slotname', html: '<i class="icon-tasks"></i>'+item.name }).appendTo('#'+css_id);
         $("<div/>", { class: 'slottime', text: start.format('{Weekday} von {24hr}:{mm}', 'de') + ' bis ' + end.format('{24hr}:{mm}') + ' Uhr' }).appendTo('#'+css_id);
-		var current_date = new Date()
+		var current_date = new Date();
         if (current_date > end) past++;
 		if (current_date > begin && current_date < end){
 			currently_rinnung = true;

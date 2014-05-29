@@ -57,7 +57,7 @@ function zeigeArbeitskreise(){
 	  if (Number(past) < Number(total)) {
 		now = new Date();
 		time_ms = Date.create(Date.create(data.slots[next].begin).now() - now.now())
-		$("span#next-ak").text('Als nächstes findet der Zeitblock "' + data.slots[next].name + '" statt : ' + time + ' - ' + now.format('{24hr}:{mm}') + ' - ' + Date.create(data.slots[next].begin).format('{24hr}:{mm}'));
+		$("span#next-ak").text('Als nächstes findet der Zeitblock "' + data.slots[next].name + '" statt : ' + String(time) + ' - ' + now.format('{24hr}:{mm}') + ' - ' + Date.create(data.slots[next].begin).format('{24hr}:{mm}'));
 	  }
     },
     error: errorOccured,

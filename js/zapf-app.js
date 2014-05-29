@@ -55,9 +55,11 @@ function zeigeArbeitskreise(){
       $("span#ratio-past-total").text('' + past + ' von ' + total);
       $("div#bar-percent-completed").width(''+perc+'%');
 	  if (Number(past) < Number(total)) {
-		now = new Date();
+		now = Date().now();
+		time_ak = Date.create(data.slots[next].begin).getTime();
+		time_ms = time_ak - now
 		//time_ms = Date.create(Date.create(data.slots[next].begin).now() - now.now())
-		$("span#next-ak").text('Als nächstes findet der Zeitblock "' + data.slots[next].name + '" statt : ' + ' - ' + Date.now() + ' - ' + Date.create(data.slots[next].begin).getTime());
+		$("span#next-ak").text('Als nächstes findet der Zeitblock "' + data.slots[next].name + '" statt : ' + time_ms + ' - ' + Date.now() + ' - ' + Date.create(data.slots[next].begin).getTime());
 	  }
     },
     error: errorOccured,

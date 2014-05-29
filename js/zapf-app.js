@@ -55,9 +55,9 @@ function zeigeArbeitskreise(){
       $("span#ratio-past-total").text('' + past + ' von ' + total);
       $("div#bar-percent-completed").width(''+perc+'%');
 	  if (Number(past) < Number(total)) {
-		now = Date.create();
+		now = new Date();
 		time = Date.create(data.slots[next].begin) - now
-		$("span#next-ak").text(new Date().format('{hh}:{mm}'));
+		$("span#next-ak").text(now.format('{hh}:{mm}'));
 	  }
     },
     error: errorOccured,

@@ -87,7 +87,7 @@
         {
             "name": "GO-Satzung",
             "responsible": "",
-            "room": "25.13.U1.33",
+            "room": "25.22.U1.55",
             "slotid": "05",
             "url": ""
         },
@@ -143,7 +143,7 @@
         {
             "name": "Pr\u00fcfungssystem",
             "responsible": "",
-            "room": "25.13.U1.32",
+            "room": "25.22.U1.72",
             "slotid": "05",
             "url": ""
         },
@@ -185,7 +185,7 @@
         {
             "name": "Sensibilisierungsworkshops",
             "responsible": "",
-            "room": "25.13.U1.22",
+            "room": "25.13.U1.33",
             "slotid": "05",
             "url": ""
         },
@@ -220,7 +220,7 @@
         {
             "name": "Fachliche Akkreditierung",
             "responsible": "",
-            "room": "25.22.U1.74",
+            "room": "25.22.U1.74 ",
             "slotid": "05",
             "url": ""
         },

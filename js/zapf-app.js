@@ -8,7 +8,7 @@ function zeigeArbeitskreise(){
         var past = 0
          ,total = data.slots.length
 		 ,currently_running = false
-		 ,next = ''
+		 ,next = -1
       $.each(data.slots , function(i,item){
         var css_id = 'slot'+item.id
            ,section_id = 'slot-'+item.id
@@ -35,7 +35,7 @@ function zeigeArbeitskreise(){
         if (current_date > end) past++;
 		if (current_date > begin && current_date < end){
 			currently_rinnung = true;
-			next = item.name;
+			next = i;
 		}
       });
       $.each(data.arbeitskreise, function(i,item){
@@ -55,7 +55,7 @@ function zeigeArbeitskreise(){
       $("span#ratio-past-total").text('' + past + ' von ' + total);
       $("div#bar-percent-completed").width(''+perc+'%');
 	  if (Number(past) < Number(total) && currently_running) {
-		$("span#next-ak").text('' + String(Number(past)+1) + ' ' + next);
+		$("span#next-ak").text('' + String(Number(past)+1) + ' ' + data.slots[i]['name']);
 	  }
     },
     error: errorOccured,

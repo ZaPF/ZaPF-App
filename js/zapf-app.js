@@ -47,7 +47,7 @@ function zeigeArbeitskreise(){
       $("div#completion").removeClass('hidden');
       $("span#ratio-past-total").text('' + past + ' von ' + total);
       $("div#bar-percent-completed").width(''+perc+'%');
-	  if (Number(past) < Number(total)) {
+	  if (Number(past) > Number(total)) {
 		$("span#next-ak").text('' + String(Number(past)+1));
 	  }
     },

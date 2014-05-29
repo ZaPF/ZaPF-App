@@ -37,24 +37,24 @@
         },
         {
             "name": "Erstsemester-Einf\u00fchrung",
-            "responsible": "",
+            "responsible": "Tobias L\u00f6ffler",
             "room": "25.22.U1.52",
             "slotid": "xxl",
-            "url": ""
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/SoSe14_AK_Erstsemestereinf\u00fchrung"
         },
         {
             "name": "Austausch",
             "responsible": "",
             "room": "25.22.U1.52",
             "slotid": "06",
-            "url": ""
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/SoSe14_AK_Austausch"
         },
         {
             "name": "Doktoranden",
-            "responsible": "",
+            "responsible": " J\u00f6rg (FUB) und Martin (FUB)",
             "room": "25.22.U1.52",
             "slotid": "b1",
-            "url": ""
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/SoSe14_AK_Doktoranden"
         },
         {
             "name": "BuFaTas",
@@ -93,24 +93,24 @@
         },
         {
             "name": "GIT-WTF",
-            "responsible": "",
+            "responsible": "Bj\u00f6rn (Aachen) und J\u00f6rg (FUB)",
             "room": "25.13.U1.33",
             "slotid": "xxl",
-            "url": ""
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/SoSe14_AK_Workshop_Git"
         },
         {
             "name": "Lehramt",
-            "responsible": "",
+            "responsible": "Ren\u00e9 (Alter Sack)",
             "room": "25.13.U1.33",
             "slotid": "06",
-            "url": ""
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/SoSe14_AK_Lehramt"
         },
         {
             "name": "\u00dcberzogene Bachelorarbeiten",
-            "responsible": "",
+            "responsible": "Nico, Patrick (Saarbr\u00fccken)",
             "room": "25.13.U1.33",
             "slotid": "b1",
-            "url": ""
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/SoSe14_AK_\u00dcberzogene_Bachelorarbeiten"
         },
         {
             "name": "NRW Hochschulzukunftsgestez",
@@ -149,17 +149,17 @@
         },
         {
             "name": "Zivilklausel",
-            "responsible": "",
+            "responsible": "Timo (RWTH) und Martin (FUB)",
             "room": "25.13.U1.32",
             "slotid": "xxl",
-            "url": ""
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/SoSe14_AK_Zivilklausel"
         },
         {
             "name": "GO-Schlachten",
-            "responsible": "",
+            "responsible": "Phillip (Bonn), Christian (Oldenburg) und Maik (Bielefeld)",
             "room": "25.13.U1.32",
             "slotid": "06",
-            "url": ""
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/SoSe14_AK_GO-Bashing"
         },
         {
             "name": "Kommentierte Studienordnung",
@@ -191,17 +191,17 @@
         },
         {
             "name": "Flowchart zur Akkreditierung",
-            "responsible": "",
+            "responsible": "Csongor (TUB)",
             "room": "25.13.U1.22",
             "slotid": "xxl",
-            "url": ""
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/SoSe14_AK_Flowchart"
         },
         {
             "name": "Erz\u00e4hl doch mal Opa(Geschichten aus dem Diplom)",
-            "responsible": "",
+            "responsible": "J\u00f6rg (FUB) und Martin (FUB) ",
             "room": "25.13.U1.22",
             "slotid": "06",
-            "url": ""
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/SoSe14_AK_Wie_war_das_Diplom"
         },
         {
             "name": "Gremien",
@@ -226,17 +226,17 @@
         },
         {
             "name": "ZaPF eV",
-            "responsible": "",
+            "responsible": "ZaPF e.V.",
             "room": "25.22.U1.74",
             "slotid": "xxl",
-            "url": ""
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/SoSe14_AK_ZaPF_eV"
         },
         {
             "name": "Miteinander unde Gegeneinander in Gremien",
             "responsible": "",
             "room": "25.22.U1.74",
             "slotid": "06",
-            "url": ""
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=SoSe14_AK_Miteinander&action=edit&redlink=1"
         }
     ],
     "slots": [

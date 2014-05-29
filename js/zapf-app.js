@@ -33,10 +33,10 @@ function zeigeArbeitskreise(){
         $("<div/>", { class: 'slottime', text: start.format('{Weekday} von {24hr}:{mm}', 'de') + ' bis ' + end.format('{24hr}:{mm}') + ' Uhr' }).appendTo('#'+css_id);
 		var current_date = new Date();
         if (current_date > end) past++;
-		if (current_date > begin && current_date < end){
-			currently_rinnung = true;
-			next = i;
-		}
+//		if (current_date > begin && current_date < end){
+//			currently_rinnung = true;
+//			next = i;
+//		}
       });
       $.each(data.arbeitskreise, function(i,item){
         var css_id = 'arbeitskreis'+i;
@@ -55,7 +55,7 @@ function zeigeArbeitskreise(){
       $("span#ratio-past-total").text('' + past + ' von ' + total);
       $("div#bar-percent-completed").width(''+perc+'%');
 	  if (Number(past) < Number(total) && currently_running) {
-		$("span#next-ak").text('' + String(Number(past)+1) + ' ' + data.slots[i]['name']);
+		$("span#next-ak").text('' + String(Number(past)+1) + ' ' + data.slots[3]['name']);
 	  }
     },
     error: errorOccured,

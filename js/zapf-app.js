@@ -7,8 +7,8 @@ function zeigeArbeitskreise(){
       $("#arbeitskreiscontainer").empty();
         var past = 0
          ,total = data.slots.length
-		 ,time_positive = false
-		 ,next = 0
+         ,time_positive = false
+         ,next = 3
       $.each(data.slots , function(i,item){
         var css_id = 'slot'+item.id
            ,section_id = 'slot-'+item.id
@@ -31,12 +31,14 @@ function zeigeArbeitskreise(){
         $("<div/>", { id: css_id, class: 'ak-unit span3'} ).appendTo('#'+css_id+'cont');
         $("<h2/>", { class: 'slotname', html: '<i class="icon-tasks"></i>'+item.name }).appendTo('#'+css_id);
         $("<div/>", { class: 'slottime', text: start.format('{Weekday} von {24hr}:{mm}', 'de') + ' bis ' + end.format('{24hr}:{mm}') + ' Uhr' }).appendTo('#'+css_id);
-		var current_date = new Date();
+        var current_date = new Date();
         if (current_date > end) past++;
-//		if (current_date > begin && current_date < end){
-//			currently_rinnung = true;
-//			next = i;
-//		}
+        if (!(time_positive)){
+          next = i;
+        }
+        if (current_date.getTime() < end.getTime() && !(time_positive)){
+          time_positive = true
+        };
       });
       $.each(data.arbeitskreise, function(i,item){
         var css_id = 'arbeitskreis'+i;
@@ -54,13 +56,21 @@ function zeigeArbeitskreise(){
       $("div#completion").removeClass('hidden');
       $("span#ratio-past-total").text('' + past + ' von ' + total);
       $("div#bar-percent-completed").width(''+perc+'%');
-	  if (Number(past) < Number(total)) {
-		now = Date().now();
-		time_ak = Date.create(data.slots[next].begin).getTime();
-		time_ms = Number(time_ak) - Number(now)
-		//time_ms = Date.create(Date.create(data.slots[next].begin).now() - now.now())
-		$("span#next-ak").text('Als nächstes findet der Zeitblock "' + data.slots[next].name + '" statt : ' + String(time_ms) + ' - ' + Date.now() + ' - ' + Date.create(data.slots[next].begin).getTime());
-	  }
+      now = new Date().getTime();
+      time_ak = Date.create(data.slots[next].begin).getTime();
+      if (now < time_ak) {
+        time_ms = time_ak - now;
+        time = Math.round(time_ms / ( 60 * 1000));
+        time_h = Math.floor(time/60);
+        if (time_h == 1){
+          stunde = 'Stunde';
+        } else {
+          stunde = 'Stunden';
+        };
+        $("span#next-ak").text('Als nächstes findet der ' + data.slots[next].name + ' in ' + Math.floor(time / 60) + ' ' + stunde + ' und ' + String(time % 60) + ' Minuten statt.');
+      } else {
+        $("span#next-ak").text('Jetzt findet gerade der ' + data.slots[next].name + ' statt.');
+      };
     },
     error: errorOccured,
   } );

@@ -60,7 +60,7 @@
             "name": "BuFaTas",
             "responsible": "",
             "room": "25.22.00.55",
-            "slotid": "1",
+            "slotid": "01",
             "url": ""
         },
         {
@@ -215,6 +215,13 @@
             "responsible": "",
             "room": "25.22.00.74",
             "slotid": "04",
+            "url": ""
+        },
+        {
+            "name": "Gremien",
+            "responsible": "",
+            "room": "25.22.00.74",
+            "slotid": "03",
             "url": ""
         },
         {

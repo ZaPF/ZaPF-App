@@ -8,7 +8,7 @@ function zeigeArbeitskreise(){
         var past = 0
          ,total = data.slots.length
 		 ,currently_running = false
-		 ,next = 6
+		 ,next = 3
       $.each(data.slots , function(i,item){
         var css_id = 'slot'+item.id
            ,section_id = 'slot-'+item.id

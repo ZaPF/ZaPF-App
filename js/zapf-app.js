@@ -56,8 +56,8 @@ function zeigeArbeitskreise(){
       $("div#bar-percent-completed").width(''+perc+'%');
 	  if (Number(past) < Number(total)) {
 		now = new Date();
-		time = Date.create(Date.create(data.slots[next].begin) - now)
-		$("span#next-ak").text('Als nächstes findet der Zeitblock "' + data.slots[next].name + '" statt : ' + time.format('{hh}:{mm}') + ' - ' + now.format('{24hr}:{mm}') + ' - ' + Date.create(data.slots[next].begin).format('{24hr}:{mm}'));
+		time_ms = Date.create(Date.create(data.slots[next].begin).now() - now.now())
+		$("span#next-ak").text('Als nächstes findet der Zeitblock "' + data.slots[next].name + '" statt : ' + time + ' - ' + now.format('{24hr}:{mm}') + ' - ' + Date.create(data.slots[next].begin).format('{24hr}:{mm}'));
 	  }
     },
     error: errorOccured,

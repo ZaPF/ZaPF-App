@@ -57,7 +57,7 @@ function zeigeArbeitskreise(){
 	  if (Number(past) < Number(total)) {
 		now = Date.create();
 		time = Date.create(data.slots[next].begin) - now
-		$("span#next-ak").text(String(now.format('{hh}:{mm}'));
+		$("span#next-ak").text(now.format('{hh}:{mm}');
 	  }
     },
     error: errorOccured,

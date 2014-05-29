@@ -8,7 +8,7 @@ function zeigeArbeitskreise(){
         var past = 0
          ,total = data.slots.length
 		 ,currently_running = false
-		 ,next = -1
+		 ,next = 6
       $.each(data.slots , function(i,item){
         var css_id = 'slot'+item.id
            ,section_id = 'slot-'+item.id
@@ -55,7 +55,7 @@ function zeigeArbeitskreise(){
       $("span#ratio-past-total").text('' + past + ' von ' + total);
       $("div#bar-percent-completed").width(''+perc+'%');
 	  if (Number(past) < Number(total)) {
-		$("span#next-ak").text('' + String(Number(past)+1) + ' ' + data.slots[3].name);
+		$("span#next-ak").text('' + String(Number(past)+1) + ' ' + data.slots[3].name) + ' ' + (Date.create(data.slots[next].begin) - new Date()).format('{hr}:{mm}');
 	  }
     },
     error: errorOccured,

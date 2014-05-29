@@ -55,7 +55,7 @@ function zeigeArbeitskreise(){
       $("span#ratio-past-total").text('' + past + ' von ' + total);
       $("div#bar-percent-completed").width(''+perc+'%');
 	  if (Number(past) < Number(total) && currently_running) {
-		$("span#next-ak").text('' + String(Number(past)+1) + ' ' + data.slots[3]['name']);
+		$("span#next-ak").text('' + String(Number(past)+1) + ' ' + data.slots[3].name);
 	  }
     },
     error: errorOccured,

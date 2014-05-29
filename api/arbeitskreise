@@ -3,238 +3,245 @@
         {
             "name": "Einf\u00fchrung in die Akkreditierung",
             "responsible": "",
-            "room": "25.22.00.52",
+            "room": "25.22.U1.52",
             "slotid": "01",
             "url": ""
         },
         {
             "name": "Fachschaftsnachwuchs",
             "responsible": "",
-            "room": "25.22.00.52",
+            "room": "25.22.U1.52",
             "slotid": "02",
             "url": ""
         },
         {
             "name": "Berufsqualifizierender Abschluss Bachelor",
             "responsible": "",
-            "room": "25.22.00.52",
+            "room": "25.22.U1.52",
             "slotid": "03",
             "url": ""
         },
         {
             "name": "CHE-Vorbereitung",
             "responsible": "",
-            "room": "25.22.00.52",
+            "room": "25.22.U1.52",
             "slotid": "04",
             "url": ""
         },
         {
             "name": "Au\u00dferfachliche Aktivit\u00e4ten",
             "responsible": "",
-            "room": "25.22.00.52",
+            "room": "25.22.U1.52",
             "slotid": "05",
             "url": ""
         },
         {
             "name": "Erstsemester-Einf\u00fchrung",
             "responsible": "",
-            "room": "25.22.00.52",
+            "room": "25.22.U1.52",
             "slotid": "xxl",
             "url": ""
         },
         {
             "name": "Austausch",
             "responsible": "",
-            "room": "25.22.00.52",
+            "room": "25.22.U1.52",
             "slotid": "06",
             "url": ""
         },
         {
             "name": "Doktoranden",
             "responsible": "",
-            "room": "25.22.00.52",
+            "room": "25.22.U1.52",
             "slotid": "b1",
             "url": ""
         },
         {
             "name": "BuFaTas",
-            "responsible": "BenniD (HUB), Bj\u00f6rn (RWTH)",
-            "room": "25.22.00.55",
+            "responsible": "BenniD (HUB) Bj\u00f6rn (RWTH)",
+            "room": "25.22.U1.55",
             "slotid": "01",
             "url": ""
         },
         {
             "name": "Finanzk\u00fcrzungen(Resolution)",
             "responsible": "",
-            "room": "25.22.00.55",
+            "room": "25.22.U1.55",
             "slotid": "02",
             "url": ""
         },
         {
             "name": "Finanzk\u00fcrzungen(Protest)",
             "responsible": "",
-            "room": "25.22.00.55",
+            "room": "25.22.U1.55",
             "slotid": "03",
             "url": ""
         },
         {
             "name": "Fachschaftshomepage",
             "responsible": "",
-            "room": "25.22.00.55",
+            "room": "25.22.U1.55",
             "slotid": "04",
             "url": ""
         },
         {
             "name": "GO-Satzung",
             "responsible": "",
-            "room": "25.13.00.33",
+            "room": "25.13.U1.33",
             "slotid": "05",
             "url": ""
         },
         {
             "name": "GIT-WTF",
-            "responsible": "Bj\u00f6rn (RWTH), J\u00f6rg (FUB)",
-            "room": "25.13.00.33",
+            "responsible": "",
+            "room": "25.13.U1.33",
             "slotid": "xxl",
             "url": ""
         },
         {
             "name": "Lehramt",
             "responsible": "",
-            "room": "25.13.00.33",
+            "room": "25.13.U1.33",
             "slotid": "06",
             "url": ""
         },
         {
             "name": "\u00dcberzogene Bachelorarbeiten",
             "responsible": "",
-            "room": "25.13.00.33",
+            "room": "25.13.U1.33",
             "slotid": "b1",
             "url": ""
         },
         {
             "name": "NRW Hochschulzukunftsgestez",
             "responsible": "",
-            "room": "25.22.00.72",
+            "room": "25.22.U1.72",
             "slotid": "01",
             "url": ""
         },
         {
             "name": "WIKI-\u00dcberarbeitungen",
-            "responsible": "BenniD (HUB), Bj\u00f6rn (RWTH)",
-            "room": "25.22.00.72",
+            "responsible": "",
+            "room": "25.22.U1.72",
             "slotid": "02",
             "url": ""
         },
         {
             "name": "ZaPF Homepage",
-            "responsible": "BenniD (HUB), Bj\u00f6rn (RWTH)",
-            "room": "25.22.00.72",
+            "responsible": "",
+            "room": "25.22.U1.72",
             "slotid": "03",
             "url": ""
         },
         {
             "name": "Starterpokemon",
-            "responsible": "Timo (RWTH)",
-            "room": "25.22.00.72",
+            "responsible": "",
+            "room": "25.22.U1.72",
             "slotid": "04",
             "url": ""
         },
         {
             "name": "Pr\u00fcfungssystem",
             "responsible": "",
-            "room": "25.13.00.32",
+            "room": "25.13.U1.32",
             "slotid": "05",
             "url": ""
         },
         {
             "name": "Zivilklausel",
             "responsible": "",
-            "room": "25.13.00.32",
+            "room": "25.13.U1.32",
             "slotid": "xxl",
             "url": ""
         },
         {
             "name": "GO-Schlachten",
             "responsible": "",
-            "room": "25.13.00.32",
+            "room": "25.13.U1.32",
             "slotid": "06",
             "url": ""
         },
         {
             "name": "Kommentierte Studienordnung",
             "responsible": "",
-            "room": "25.13.00.33",
+            "room": "25.13.U1.33",
             "slotid": "01",
             "url": ""
         },
         {
+            "name": "",
+            "responsible": "",
+            "room": "25.13.U1.33",
+            "slotid": "02",
+            "url": ""
+        },
+        {
             "name": "Zukunft der Zapfen",
-            "responsible": "Tobi (HHU)",
-            "room": "25.13.00.33",
+            "responsible": "Tobi (DUS)",
+            "room": "25.13.U1.33",
             "slotid": "03",
             "url": ""
         },
         {
             "name": "Krypto",
-            "responsible": "Bj\u00f6rn (RWTH), J\u00f6rg (FUB)",
-            "room": "25.13.00.33",
+            "responsible": "",
+            "room": "25.13.U1.33",
             "slotid": "04",
             "url": ""
         },
         {
             "name": "Sensibilisierungsworkshops",
             "responsible": "",
-            "room": "25.13.00.22",
+            "room": "25.13.U1.22",
             "slotid": "05",
             "url": ""
         },
         {
             "name": "Flowchart zur Akkreditierung",
             "responsible": "",
-            "room": "25.13.00.22",
+            "room": "25.13.U1.22",
             "slotid": "xxl",
             "url": ""
         },
         {
             "name": "Erz\u00e4hl doch mal Opa(Geschichten aus dem Diplom)",
             "responsible": "",
-            "room": "25.13.00.22",
+            "room": "25.13.U1.22",
             "slotid": "06",
             "url": ""
         },
         {
             "name": "Gremien",
             "responsible": "",
-            "room": "25.22.00.74",
-            "slotid": "04",
+            "room": "25.22.U1.74",
+            "slotid": "03",
             "url": ""
         },
         {
             "name": "Gremien",
             "responsible": "",
-            "room": "25.22.00.74",
-            "slotid": "03",
+            "room": "25.22.U1.74",
+            "slotid": "04",
             "url": ""
         },
         {
             "name": "Fachliche Akkreditierung",
             "responsible": "",
-            "room": "25.22.00.74",
+            "room": "25.22.U1.74",
             "slotid": "05",
             "url": ""
         },
         {
             "name": "ZaPF eV",
             "responsible": "",
-            "room": "25.22.00.74",
+            "room": "25.22.U1.74",
             "slotid": "xxl",
             "url": ""
         },
         {
-            "name": "Miteinander und Gegeneinander in Gremien",
+            "name": "Miteinander unde Gegeneinander in Gremien",
             "responsible": "",
-            "room": "25.22.00.74",
+            "room": "25.22.U1.74",
             "slotid": "06",
             "url": ""
         }

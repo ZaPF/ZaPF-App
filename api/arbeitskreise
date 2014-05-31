@@ -237,6 +237,13 @@
             "room": "25.22.U1.74",
             "slotid": "06",
             "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=SoSe14_AK_Miteinander&action=edit&redlink=1"
+        },
+        {
+            "name": "Kommentierte Studienordnung (vortsetzung)",
+            "responsible": "",
+            "room": "25.U1.13.22",
+            "slotid": "b1",
+            "url": null
         }
     ],
     "slots": [

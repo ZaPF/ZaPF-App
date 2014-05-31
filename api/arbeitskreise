@@ -244,6 +244,13 @@
             "room": "25.U1.13.22",
             "slotid": "b1",
             "url": null
+        },
+        {
+            "name": "ZaPF Homepage (Vortsetzung)",
+            "responsible": "",
+            "room": "25.22.U1.72",
+            "slotid": "b1",
+            "url": null
         }
     ],
     "slots": [

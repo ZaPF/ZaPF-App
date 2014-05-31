@@ -20,7 +20,10 @@ for ak_entry in ak_list:
 		ak['responsible'] = entry[1]
 		ak['room'] = entry[2]
 		ak['slotid'] = entry[3]
-		ak['url'] = entry[4]
+		if entry[4] == '':
+			ak['url'] = None
+		else:
+			ak['url'] = entry[4]
 		out['arbeitskreise'].append(ak)
 
 slot_list = slot_data.split('\n')

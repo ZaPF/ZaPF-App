@@ -5,35 +5,35 @@
             "responsible": "",
             "room": "25.22.U1.52",
             "slotid": "01",
-            "url": ""
+            "url": null
         },
         {
             "name": "Fachschaftsnachwuchs",
             "responsible": "",
             "room": "25.22.U1.52",
             "slotid": "02",
-            "url": ""
+            "url": null
         },
         {
             "name": "Berufsqualifizierender Abschluss Bachelor",
             "responsible": "",
             "room": "25.22.U1.52",
             "slotid": "03",
-            "url": ""
+            "url": null
         },
         {
             "name": "CHE-Vorbereitung",
             "responsible": "",
             "room": "25.22.U1.52",
             "slotid": "04",
-            "url": ""
+            "url": null
         },
         {
             "name": "Au\u00dferfachliche Aktivit\u00e4ten",
             "responsible": "",
             "room": "25.22.U1.52",
             "slotid": "05",
-            "url": ""
+            "url": null
         },
         {
             "name": "Erstsemester-Einf\u00fchrung",
@@ -61,35 +61,35 @@
             "responsible": "BenniD (HUB) Bj\u00f6rn (RWTH)",
             "room": "25.22.U1.55",
             "slotid": "01",
-            "url": ""
+            "url": null
         },
         {
             "name": "Finanzk\u00fcrzungen(Resolution)",
             "responsible": "",
             "room": "25.22.U1.55",
             "slotid": "02",
-            "url": ""
+            "url": null
         },
         {
             "name": "Finanzk\u00fcrzungen(Protest)",
             "responsible": "",
             "room": "25.22.U1.55",
             "slotid": "03",
-            "url": ""
+            "url": null
         },
         {
             "name": "Fachschaftshomepage",
             "responsible": "",
             "room": "25.22.U1.55",
             "slotid": "04",
-            "url": ""
+            "url": null
         },
         {
             "name": "GO-Satzung",
             "responsible": "",
             "room": "25.22.U1.55",
             "slotid": "05",
-            "url": ""
+            "url": null
         },
         {
             "name": "GIT-WTF",
@@ -117,35 +117,35 @@
             "responsible": "",
             "room": "25.22.U1.72",
             "slotid": "01",
-            "url": ""
+            "url": null
         },
         {
             "name": "WIKI-\u00dcberarbeitungen",
             "responsible": "",
             "room": "25.22.U1.72",
             "slotid": "02",
-            "url": ""
+            "url": null
         },
         {
             "name": "ZaPF Homepage",
             "responsible": "",
             "room": "25.22.U1.72",
             "slotid": "03",
-            "url": ""
+            "url": null
         },
         {
             "name": "Starterpokemon",
             "responsible": "",
             "room": "25.22.U1.72",
             "slotid": "04",
-            "url": ""
+            "url": null
         },
         {
             "name": "Pr\u00fcfungssystem",
             "responsible": "",
             "room": "25.22.U1.72",
             "slotid": "05",
-            "url": ""
+            "url": null
         },
         {
             "name": "Zivilklausel",
@@ -166,28 +166,28 @@
             "responsible": "",
             "room": "25.13.U1.33",
             "slotid": "01",
-            "url": ""
+            "url": null
         },
         {
             "name": "Zukunft der Zapfen",
             "responsible": "Tobi (DUS)",
             "room": "25.13.U1.33",
             "slotid": "03",
-            "url": ""
+            "url": null
         },
         {
             "name": "Krypto",
             "responsible": "",
             "room": "25.13.U1.33",
             "slotid": "04",
-            "url": ""
+            "url": null
         },
         {
             "name": "Sensibilisierungsworkshops",
             "responsible": "",
             "room": "25.13.U1.33",
             "slotid": "05",
-            "url": ""
+            "url": null
         },
         {
             "name": "Flowchart zur Akkreditierung",
@@ -198,7 +198,7 @@
         },
         {
             "name": "Erz\u00e4hl doch mal Opa(Geschichten aus dem Diplom)",
-            "responsible": "J\u00f6rg (FUB) und Martin (FUB) ",
+            "responsible": "Martin (FUB) ",
             "room": "25.13.U1.22",
             "slotid": "06",
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/SoSe14_AK_Wie_war_das_Diplom"
@@ -208,21 +208,21 @@
             "responsible": "",
             "room": "25.22.U1.74",
             "slotid": "03",
-            "url": ""
+            "url": null
         },
         {
             "name": "Gremien",
             "responsible": "",
             "room": "25.22.U1.74",
             "slotid": "04",
-            "url": ""
+            "url": null
         },
         {
             "name": "Fachliche Akkreditierung",
             "responsible": "",
             "room": "25.22.U1.74 ",
             "slotid": "05",
-            "url": ""
+            "url": null
         },
         {
             "name": "ZaPF eV",

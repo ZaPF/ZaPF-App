@@ -1,20 +1,279 @@
 {
     "arbeitskreise": [
         {
-            "name": "nur f\u00fcr den Countdown",
-            "responsible": "Die Orga",
-            "room": "01",
+            "name": "Lehramt 1",
+            "responsible": "Jannis (HB)",
+            "room": "S1",
             "slotid": "01",
-            "url": "zapf.in/bremen"
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_Lehramt"
+        },
+        {
+            "name": "WS Sensibilisierung",
+            "responsible": "DGB Jugend",
+            "room": "S2",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=WiSe14_WS_Gendertraining"
+        },
+        {
+            "name": "Einf\u00fchrung in die Akkreditierung",
+            "responsible": "Csongor (TUB)",
+            "room": "S4",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=WiSe14_AK_Einfuehrung_Akkreditierung"
+        },
+        {
+            "name": "ZaPF IT",
+            "responsible": "Bj\u00f6rn (RWTH) & J\u00f6rg (FUB)",
+            "room": "S5",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_ZaPF_IT-Infrastruktur"
+        },
+        {
+            "name": "fachliche Unterst\u00fctzung",
+            "responsible": "Margret (LMU)",
+            "room": "S6",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_WS_AK_FachUnterstuetzung"
+        },
+        {
+            "name": "MeTaFa",
+            "responsible": "Bj\u00f6rn (RWTH)",
+            "room": "S1",
+            "slotid": "02",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_WS_MeTaFa"
+        },
+        {
+            "name": "Abiturwissen und Lehrpl\u00e4ne",
+            "responsible": "Michel (Jena)",
+            "room": "S4",
+            "slotid": "02",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_Abiturwissen_und_Lehrpl\u00e4ne"
+        },
+        {
+            "name": "Gremienworkshop",
+            "responsible": "",
+            "room": "S5",
+            "slotid": "02",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_WS_Gremienarbeit"
+        },
+        {
+            "name": "Ver\u00f6ffentlichungspflicht",
+            "responsible": "Timo (RWTH) & Martin (FUB)",
+            "room": "S6",
+            "slotid": "02",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_Veroeffentlichungspflicht"
+        },
+        {
+            "name": "Lehramt 2",
+            "responsible": "Jannis (HB)",
+            "room": "N3380",
+            "slotid": "02",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_Lehramt"
+        },
+        {
+            "name": "Geschichte der ZaPF",
+            "responsible": "Philipp (HB)",
+            "room": "S1",
+            "slotid": "03",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_Geschichte_der_ZaPF"
+        },
+        {
+            "name": "Gro\u00dfveranstaltungen",
+            "responsible": "Philipp (KL)",
+            "room": "S2",
+            "slotid": "03",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_Gro\u00dfveranstaltungen"
+        },
+        {
+            "name": "Doktorandenumfrage",
+            "responsible": "J\u00f6rg (FUB) ",
+            "room": "S3",
+            "slotid": "03",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=WiSe14_AK_Doktorandenumfrage"
+        },
+        {
+            "name": "Austausch-AK",
+            "responsible": "Thomas (Heidelberg)",
+            "room": "S4",
+            "slotid": "03",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_Austausch"
+        },
+        {
+            "name": "Akkreditierung 2",
+            "responsible": "Margret (LMU)",
+            "room": "S5",
+            "slotid": "03",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=WiSe14_AK_Akkreditierung"
+        },
+        {
+            "name": "ZKK",
+            "responsible": "Bj\u00f6rn (RWTH)",
+            "room": "S6",
+            "slotid": "03",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_ZKK"
+        },
+        {
+            "name": "Hilfe, wir haben eine ZaPF!",
+            "responsible": "Kathii (FFM)",
+            "room": "S1",
+            "slotid": "04",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_Hilfe_wir_haben_die_ZaPF"
+        },
+        {
+            "name": "GO/SO",
+            "responsible": "Bj\u00f6rn (RWTH) & J\u00f6rg (FUB)",
+            "room": "S2",
+            "slotid": "04",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_GO_und_Satzungs\u00e4nderung"
+        },
+        {
+            "name": "Studienf\u00fchrer",
+            "responsible": "Jannis (HB) & Csongor (TUB)",
+            "room": "S3",
+            "slotid": "04",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=WiSe14_AK_Studienfuehrer"
+        },
+        {
+            "name": "Frauenquote in der Physik",
+            "responsible": "Timo (RWTH)",
+            "room": "S4",
+            "slotid": "04",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_Frauenquote_in_der_Physik"
+        },
+        {
+            "name": "Ba/Ma-Umfrage",
+            "responsible": "Daniela (FFM) & Hejo (jDPG) & Margret (LMU)",
+            "room": "S5",
+            "slotid": "04",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_WS_AK_BaMaUmfrage"
+        },
+        {
+            "name": "Gremienworshop",
+            "responsible": "",
+            "room": "S6",
+            "slotid": "04",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_WS_Gremienarbeit"
+        },
+        {
+            "name": "Kommentierte Studien-/Pr\u00fcfungsordnung",
+            "responsible": "Valentin (HUB) & Daniela (FFM)",
+            "room": "S7",
+            "slotid": "04",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_Kommentierte_SO_PO"
+        },
+        {
+            "name": "CHE",
+            "responsible": "Hejo (jDPG) & Jannis (HB) & Margret (LMU)",
+            "room": "S1",
+            "slotid": "05",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_CHE"
+        },
+        {
+            "name": "Unterhaltungscrypto",
+            "responsible": "Bj\u00f6rn (RWTH) & J\u00f6rg (FUB)",
+            "room": "S2",
+            "slotid": "05",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_Unterhaltungscrypto"
+        },
+        {
+            "name": "ZaPF e.V.",
+            "responsible": "Philipp Klaus",
+            "room": "S3",
+            "slotid": "05",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php?title=WiSe14_AK_ZaPF_eV"
+        },
+        {
+            "name": "Erstieinf\u00fchrung",
+            "responsible": "Tobi (HHU)",
+            "room": "S4",
+            "slotid": "05",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_WS_Ersti-Einfuehrung"
+        },
+        {
+            "name": "Transparenz in der Drittmittelforschung",
+            "responsible": "Daniela (FFM) & Timo (RWTH)",
+            "room": "S5",
+            "slotid": "05",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_Drittmittel"
+        },
+        {
+            "name": "Naturwissenschaftliche Vorlesungen f\u00fcr Jedermann",
+            "responsible": "Marcus (FFM)",
+            "room": "S6",
+            "slotid": "05",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_Naturwissenschaftliche_Vorlesungen_fuer_Jedermann"
+        },
+        {
+            "name": "BAf\u00f6G",
+            "responsible": "Csongor (TUB)",
+            "room": "S7",
+            "slotid": "05",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_Bafoeg"
+        },
+        {
+            "name": "Ethik in Forschung und Wissenschaft",
+            "responsible": "Pady (Konstanz)",
+            "room": "S1",
+            "slotid": "b1",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_AK_Ethik"
+        },
+        {
+            "name": "Gremienworkshop",
+            "responsible": "",
+            "room": "S2",
+            "slotid": "b1",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_WS_Gremienarbeit"
+        },
+        {
+            "name": "FS-Freundschaften",
+            "responsible": "Tobi (HHU)",
+            "room": "S4",
+            "slotid": "b1",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe14_WS_AK-FS-Freundschaften"
         }
     ],
     "slots": [
         {
-            "begin": "2014-11-21T13:00:00+0100",
+            "begin": "2014-11-21T14:00:00+0100",
             "end": "2014-11-21T16:00:00+0100",
             "id": "01",
-            "name": "Arbeitskreis 1",
-            "shortname": "AK 1"
+            "name": "Arbeitskreis I",
+            "shortname": "AK I"
+        },
+        {
+            "begin": "2014-11-21T16:00:00+0100",
+            "end": "2014-11-21T18:00:00+0100",
+            "id": "02",
+            "name": "Arbeitskreis II",
+            "shortname": "AK II"
+        },
+        {
+            "begin": "2014-11-21T19:00:00+0100",
+            "end": "2014-11-21T21:00:00+0100",
+            "id": "03",
+            "name": "Arbeitskreis III",
+            "shortname": "AK III"
+        },
+        {
+            "begin": "2014-11-22T09:00:00+0100",
+            "end": "2014-11-22T11:00:00+0100",
+            "id": "04",
+            "name": "Arbeitskreis IV",
+            "shortname": "AK IV"
+        },
+        {
+            "begin": "2014-11-22T11:00:00+0100",
+            "end": "2014-11-22T13:00:00+0100",
+            "id": "05",
+            "name": "Arbeitskreis V",
+            "shortname": "AK V"
+        },
+        {
+            "begin": "2014-11-22T20:00:00+0100",
+            "end": "2014-11-22T22:00:00+0100",
+            "id": "b1",
+            "name": "Backup-Arbeitskreis",
+            "shortname": "BAK"
         }
     ]
 }

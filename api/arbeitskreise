@@ -146,6 +146,27 @@
             "room": "",
             "slotid": "01",
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Zivilklausel"
+        },
+        {
+            "name": "Kuschel-AK",
+            "responsible": "Adriana (WWU)",
+            "room": "",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Kuschel"
+        },
+        {
+            "name": "Wechseldatenbank",
+            "responsible": "Claire (D\u00fcsseldorf)",
+            "room": "",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Wechsel_Datenbank"
+        },
+        {
+            "name": "Vorlesung f\u00fcr Jedermann-TARDIS",
+            "responsible": "",
+            "room": "",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Vorlesung_f\u00fcr_Jedermann-TARDIS"
         }
     ],
     "slots": [

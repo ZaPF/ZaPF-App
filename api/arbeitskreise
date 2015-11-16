@@ -1,6 +1,13 @@
 {
     "arbeitskreise": [
         {
+            "name": "Aufbau-Workshop Systemakkreditierung",
+            "responsible": "Kathii (Uni Frankfurt)",
+            "room": "",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_WS_Aufbau-Workshop_Systemakkreditierung"
+        },
+        {
             "name": "Austausch",
             "responsible": "",
             "room": "",
@@ -20,6 +27,13 @@
             "room": "",
             "slotid": "01",
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_StAPF"
+        },
+        {
+            "name": "Einf\u00fchrung in die Systemakkreditierung",
+            "responsible": "Kathii (Uni Frankfurt)",
+            "room": "",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_WS_Einf\u00fchrung_in_die_Systemakkreditierung"
         },
         {
             "name": "Ethik-Spiel",
@@ -62,6 +76,13 @@
             "room": "",
             "slotid": "01",
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Kommunikation_GDCP_DPG"
+        },
+        {
+            "name": "Kuschel-AK",
+            "responsible": "Adriana (WWU)",
+            "room": "",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Kuschel"
         },
         {
             "name": "Lehramt",
@@ -120,11 +141,25 @@
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Vernetzung_und_Austausch_der_Orgas"
         },
         {
+            "name": "Vorlesung f\u00fcr Jedermann-TARDIS",
+            "responsible": "",
+            "room": "",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Vorlesung_f\u00fcr_Jedermann-TARDIS"
+        },
+        {
             "name": "Was ist eigentlich dieses Internet und sollte ich nicht vielleicht doch wieder auf Brieftauben setzen",
             "responsible": "Bj\u00f6rn (RWTH), J\u00f6rg (FUB), Adriana (WWU), Fabs (TUB)",
             "room": "",
             "slotid": "02",
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Was_ist_eigentlich_dieses_Internet_und_sollte_ich_nicht_vielleicht_doch_wieder_auf_Brieftauben_setzen"
+        },
+        {
+            "name": "Wechseldatenbank",
+            "responsible": "Claire (D\u00fcsseldorf)",
+            "room": "",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Wechsel_Datenbank"
         },
         {
             "name": "Wissenschaftstheorie im Studium",
@@ -146,27 +181,6 @@
             "room": "",
             "slotid": "01",
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Zivilklausel"
-        },
-        {
-            "name": "Kuschel-AK",
-            "responsible": "Adriana (WWU)",
-            "room": "",
-            "slotid": "01",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Kuschel"
-        },
-        {
-            "name": "Wechseldatenbank",
-            "responsible": "Claire (D\u00fcsseldorf)",
-            "room": "",
-            "slotid": "01",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Wechsel_Datenbank"
-        },
-        {
-            "name": "Vorlesung f\u00fcr Jedermann-TARDIS",
-            "responsible": "",
-            "room": "",
-            "slotid": "01",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Vorlesung_f\u00fcr_Jedermann-TARDIS"
         }
     ],
     "slots": [

@@ -15,6 +15,13 @@
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Austausch"
         },
         {
+            "name": "Barrierefreies Studieren",
+            "responsible": "Paula (D\u00fcsseldorf)",
+            "room": "",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Barrierefreies_Studieren"
+        },
+        {
             "name": "CHE",
             "responsible": "Christian (Oldenburg) & Niklas (Konstanz)",
             "room": "",
@@ -41,6 +48,13 @@
             "room": "",
             "slotid": "01",
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Ethik-Spiel"
+        },
+        {
+            "name": "Fluechtlinge an Hochschulen",
+            "responsible": "Timo (RWTH)",
+            "room": "",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Fluechtlinge_an_Hochschulen"
         },
         {
             "name": "Frauenquote",
@@ -79,7 +93,7 @@
         },
         {
             "name": "Kuschel-AK",
-            "responsible": "Adriana (WWU)",
+            "responsible": "Adriana (WWU), Bj\u00f6rn (RWTH), J\u00f6rg (FU Berlin)",
             "room": "",
             "slotid": "01",
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Kuschel"
@@ -97,6 +111,13 @@
             "room": "",
             "slotid": "01",
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_MeTaFa"
+        },
+        {
+            "name": "Mitgliederversammlung ZaPF e.V.",
+            "responsible": "Philipp Klaus (Uni Frankfurt)",
+            "room": "",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_ZaPF_e.V._Mitgliederversammlung"
         },
         {
             "name": "Musterl\u00f6sungen",
@@ -169,8 +190,15 @@
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Wissenschaftstheorie_im_Studium"
         },
         {
+            "name": "Zapf fuer besseres Fernsehen",
+            "responsible": "Timo (RWTH)",
+            "room": "",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Zapf_fuer_besseres_Fehrnsehen"
+        },
+        {
             "name": "ZaPF-IT",
-            "responsible": "J\u00f6rg (FU Berlin), Fabs (TU Berlin)",
+            "responsible": "J\u00f6rg (FU Berlin), Fabs (TU Berlin), Bj\u00f6rn (RWTH)",
             "room": "",
             "slotid": "03",
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_ZaPF_IT"
@@ -181,34 +209,6 @@
             "room": "",
             "slotid": "01",
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Zivilklausel"
-        },
-        {
-            "name": "Mitgliederversammlung ZaPF e.V.",
-            "responsible": "Philipp Klaus (Uni Frankfurt)",
-            "room": "",
-            "slotid": "01",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_ZaPF_e.V._Mitgliederversammlung"
-        },
-        {
-            "name": "Barrierefreies Studieren",
-            "responsible": "Paula (D\u00fcsseldorf)",
-            "room": "",
-            "slotid": "01",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Barrierefreies_Studieren"
-        },
-        {
-            "name": "Fluechtlinge an Hochschulen",
-            "responsible": "Timo (RWTH)",
-            "room": "",
-            "slotid": "01",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Fluechtlinge_an_Hochschulen"
-        },
-        {
-            "name": "Zapf fuer besseres Fernsehen",
-            "responsible": "Timo (RWTH)",
-            "room": "",
-            "slotid": "01",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Zapf_fuer_besseres_Fehrnsehen"
         }
     ],
     "slots": [

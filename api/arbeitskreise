@@ -181,6 +181,34 @@
             "room": "",
             "slotid": "01",
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Zivilklausel"
+        },
+        {
+            "name": "Mitgliederversammlung ZaPF e.V.",
+            "responsible": "Philipp Klaus (Uni Frankfurt)",
+            "room": "",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_ZaPF_e.V._Mitgliederversammlung"
+        },
+        {
+            "name": "Barrierefreies Studieren",
+            "responsible": "Paula (D\u00fcsseldorf)",
+            "room": "",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Barrierefreies_Studieren"
+        },
+        {
+            "name": "Fluechtlinge an Hochschulen",
+            "responsible": "Timo (RWTH)",
+            "room": "",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Fluechtlinge_an_Hochschulen"
+        },
+        {
+            "name": "Zapf fuer besseres Fernsehen",
+            "responsible": "Timo (RWTH)",
+            "room": "",
+            "slotid": "01",
+            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Zapf_fuer_besseres_Fehrnsehen"
         }
     ],
     "slots": [

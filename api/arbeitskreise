@@ -148,13 +148,6 @@
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_WissZeitVG"
         },
         {
-            "name": "Infos zum  Wissenschaftszeitvertragsgesetzes",
-            "responsible": "Tobi (D\u00fcsseldorf)",
-            "room": "01.310",
-            "slotid": "z1",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_WissZeitVG"
-        },
-        {
             "name": "Praktika",
             "responsible": "Eve (Konstanz)",
             "room": "02.114",
@@ -261,13 +254,6 @@
         }
     ],
     "slots": [
-        {
-            "begin": "2015-11-20T13:00:00+0100",
-            "end": "2015-11-20T14:00:00+0100",
-            "id": "z1",
-            "name": "Zusatzarbeitskreis",
-            "shortname": "ZAK"
-        },
         {
             "begin": "2015-11-20T14:00:00+0100",
             "end": "2015-11-20T16:00:00+0100",

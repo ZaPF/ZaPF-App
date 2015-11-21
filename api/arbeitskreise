@@ -10,14 +10,14 @@
         {
             "name": "Austausch 1",
             "responsible": "",
-            "room": "02.116",
+            "room": "02.210",
             "slotid": "05",
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Austausch"
         },
         {
             "name": "Austausch 2",
             "responsible": "",
-            "room": "02.116",
+            "room": "02.210",
             "slotid": "b1",
             "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Austausch"
         },

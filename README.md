@@ -1,5 +1,7 @@
 # Die ZaPF-App
 
+[![Build Status](https://travis-ci.org/ZaPF/ZaPF-App.svg?branch=master)](https://travis-ci.org/ZaPF/ZaPF-App)
+
 Gebaut als HTML5-Web-App, die auf mobilen Geräten und Laptops erlaubt,
 die Arbeitskreise auf der ZaPF nachzusehen. Die Darstellung ist für
 Handys, Tablets und größere Bildschirme gleichermaßen optimiert.
@@ -61,14 +63,8 @@ end       | Ende des Slots
 
 Auch hier sind alle Values Strings
 
-### CSV-Dateien
-
-Sollte gerade keine Kompetenz zum direkten Erstellen der JSON-Datei zu
-greifen sein, besteht auch die Möglichkeit, zwei CSV-Dateien, welche die
-nötigen Informationen zu den Arbeitskreisen und Slots enthalten, und aus
-diesen mit Hilfe des Scripts template.py die JSON-Datei zu erstellen.
-Beispiele hierfür sind die Dateien ak_beispiel.csv und slots_beispiel.csv im
-Ordner template.
+## YAML-Dateien
+Indem die YML-Dateien angepasst werden, werden die Daten automatisch übernommen.
 
 ## Bisherige Verwendung
 

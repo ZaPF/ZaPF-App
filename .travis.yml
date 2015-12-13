@@ -5,7 +5,7 @@ env:
 install:
 - pip install pyyaml
 script:
-- cd template && python template.py slot.yml ak.yml
+- cd template && python template.py slots.yml ak.yml
 after_success:
 - eval "$(ssh-agent -s)"
 - chmod 600 .travis/deploy_key

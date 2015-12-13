@@ -1,300 +1,62 @@
 {
     "arbeitskreise": [
         {
-            "name": "Aufbau-Workshop Systemakkreditierung",
-            "responsible": "Kathii (Uni Frankfurt)",
-            "room": "01.310",
-            "slotid": "b1",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_WS_Aufbau-Workshop_Systemakkreditierung"
-        },
+            "begin": "1970-01-01T14:00:00+0100", 
+            "end": "1970-01-01T16:00:00+0100", 
+            "id": "AK1", 
+            "name": "Arbeitskreis 1", 
+            "shortname": "AK1"
+        }, 
         {
-            "name": "Austausch 1",
-            "responsible": "",
-            "room": "02.210",
-            "slotid": "05",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Austausch"
-        },
+            "begin": "1970-01-01T16:00:00+0100", 
+            "end": "1970-01-01T18:00:00+0100", 
+            "id": "AK2", 
+            "name": "Arbeitskreis 2", 
+            "shortname": "AK2"
+        }, 
         {
-            "name": "Austausch 2",
-            "responsible": "",
-            "room": "02.210",
-            "slotid": "b1",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Austausch"
-        },
+            "begin": "1970-01-02T08:00:00+0100", 
+            "end": "1970-02-01T10:00:00+0100", 
+            "id": "AK3", 
+            "name": "Arbeitskreis 3", 
+            "shortname": "AK3"
+        }, 
         {
-            "name": "Barrierefreies Studieren",
-            "responsible": "Paula (D\u00fcsseldorf)",
-            "room": "01.310",
-            "slotid": "04",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Barrierefreies_Studieren"
-        },
+            "begin": "1970-01-02T10:00:00+0100", 
+            "end": "1970-02-01T12:00:00+0100", 
+            "id": "AK4", 
+            "name": "Arbeitskreis 4", 
+            "shortname": "AK4"
+        }, 
         {
-            "name": "CHE",
-            "responsible": "Christian (Oldenburg) & Niklas (Konstanz)",
-            "room": "01.310",
-            "slotid": "01",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_CHE"
-        },
+            "begin": "1970-01-02T14:00:00+0100", 
+            "end": "1970-02-01T16:00:00+0100", 
+            "id": "AK5", 
+            "name": "Arbeitskreis 5", 
+            "shortname": "AK5"
+        }, 
         {
-            "name": "Der StAPF stellt sich vor",
-            "responsible": "StAPF",
-            "room": "02.116",
-            "slotid": "b1",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_StAPF"
-        },
-        {
-            "name": "Einf\u00fchrung in die Akkredirierung",
-            "responsible": "Margret (Uni M\u00fcnchen)",
-            "room": "02.210",
-            "slotid": "02",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_WS_Einf\u00fchrung_in_die_Akkreditierung"
-        },
-        {
-            "name": "Einf\u00fchrung in die Systemakkreditierung",
-            "responsible": "Kathii (Uni Frankfurt)",
-            "room": "02.116",
-            "slotid": "03",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_WS_Einf\u00fchrung_in_die_Systemakkreditierung"
-        },
-        {
-            "name": "Fl\u00fcchtlinge an Hochschulen",
-            "responsible": "Timo (RWTH)",
-            "room": "__.102",
-            "slotid": "03",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Fluechtlinge_an_Hochschulen"
-        },
-        {
-            "name": "Frauenquote",
-            "responsible": "Adriana (WWU)",
-            "room": "01.114",
-            "slotid": "04",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Frauenquote"
-        },
-        {
-            "name": "\"Gl\u00e4serne Decke\"",
-            "responsible": "Mascha (TU Berlin), Martin/Opa (FU Berlin/Alter Sack), Thomi (Uni Heidelberg)",
-            "room": "01.402",
-            "slotid": "02",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Glaeserne_Decke"
-        },
-        {
-            "name": "Gremienworkshop A",
-            "responsible": "Tobi (D\u00fcsseldorf)",
-            "room": "01.114",
-            "slotid": "01",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Gremienworkshop"
-        },
-        {
-            "name": "Gremienworkshop A",
-            "responsible": "Tobi (D\u00fcsseldorf)",
-            "room": "02.116",
-            "slotid": "01",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Gremienworkshop"
-        },
-        {
-            "name": "Gremienworkshop B",
-            "responsible": "Tobi (D\u00fcsseldorf)",
-            "room": "02.116",
-            "slotid": "04",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Gremienworkshop"
-        },
-        {
-            "name": "KFP-Resolution",
-            "responsible": "",
-            "room": "01.114",
-            "slotid": "02",
-            "url": null
-        },
-        {
-            "name": "Kommunikation GDCP und DPG",
-            "responsible": "Lea (Kiel)",
-            "room": "01.114",
-            "slotid": "b1",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Kommunikation_GDCP_DPG"
-        },
-        {
-            "name": "(Master-) Wechseldatenbank",
-            "responsible": "Claire (D\u00fcsseldorf)",
-            "room": "01.114",
-            "slotid": "05",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Wechsel_Datenbank"
-        },
-        {
-            "name": "MeTaFa",
-            "responsible": "Christian (Oldenburg)",
-            "room": "02.114",
-            "slotid": "04",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_MeTaFa"
-        },
-        {
-            "name": "Mitgliederversammlung ZaPF e.V.",
-            "responsible": "Zo\u00eb Lange (Uni Frankfurt)",
-            "room": "02.114",
-            "slotid": "b1",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_ZaPF_e.V._Mitgliederversammlung"
-        },
-        {
-            "name": "Musterl\u00f6sungen",
-            "responsible": "BenniD (HUB)",
-            "room": "02.210",
-            "slotid": "04",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Musterl\u00f6sungen"
-        },
-        {
-            "name": "Novelle des Wissenschaftszeitvertragsgesetzes",
-            "responsible": "Tobi (D\u00fcsseldorf)",
-            "room": "02.210",
-            "slotid": "03",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_WissZeitVG"
-        },
-        {
-            "name": "Praktika",
-            "responsible": "Eve (Konstanz)",
-            "room": "02.114",
-            "slotid": "05",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Praktika"
-        },
-        {
-            "name": "Satzungs\u00e4nderung",
-            "responsible": "Bj\u00f6rn RWTH & J\u00f6rg (FU Berlin)",
-            "room": "01.431",
-            "slotid": "01",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Satzungsaenderung"
-        },
-        {
-            "name": "Studienf\u00fchrer",
-            "responsible": "Niklas (Konstanz) , Fabs (TU Berlin)",
-            "room": "01.114",
-            "slotid": "03",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Studienfuehrer"
-        },
-        {
-            "name": "Transparenz in der Forschung",
-            "responsible": "",
-            "room": "01.310",
-            "slotid": "02",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Transparenz_in_der_Forschung"
-        },
-        {
-            "name": "\u00dcbungen",
-            "responsible": "",
-            "room": "__.102",
-            "slotid": "02",
-            "url": null
-        },
-        {
-            "name": "\u00dcberarbeitung der Akkreditierungsrichtlinien",
-            "responsible": "Margret (LMU), BenniD (HUB)",
-            "room": "01.402",
-            "slotid": "05",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_\u00dcberarbeitung_Akkreditierungsrichtlinien"
-        },
-        {
-            "name": "Vernetzung und Austausch der Orgas",
-            "responsible": "Kathii (Uni frankfurt), Kappa (Uni Frankfurt), Niklas (Konstanz)",
-            "room": "02.116",
-            "slotid": "05",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Vernetzung_und_Austausch_der_Orgas"
-        },
-        {
-            "name": "Ver\u00f6ffentlichung von Drittmittelergebnissen",
-            "responsible": "Jan (FUB)",
-            "room": "__.102",
-            "slotid": "05",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Ver\u00f6ffentlichung_von_Drittmittelergebnissen"
-        },
-        {
-            "name": "Vorlesung f\u00fcr Jedermann - TARDIS",
-            "responsible": "",
-            "room": "01.310",
-            "slotid": "05",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Vorlesung_f\u00fcr_Jedermann-TARDIS"
-        },
-        {
-            "name": "Vorraussetzungsketten bei Veranstaltungen",
-            "responsible": "",
-            "room": "01.402",
-            "slotid": "b1",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Vorraussetzungsketten_bei_Veranstaltungen"
-        },
-        {
-            "name": "Was ist eigentlich dieses Internet und sollte ich nicht vielleicht doch wieder auf Brieftauben setzen",
-            "responsible": "Bj\u00f6rn (RWTH), J\u00f6rg (FUB), Fabs (TUB)",
-            "room": "__.102",
-            "slotid": "04",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Was_ist_eigentlich_dieses_Internet_und_sollte_ich_nicht_vielleicht_doch_wieder_auf_Brieftauben_setzen"
-        },
-        {
-            "name": "Wissenschaftstheorie im Studium",
-            "responsible": "",
-            "room": "01.402",
-            "slotid": "03",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Wissenschaftstheorie_im_Studium"
-        },
-        {
-            "name": "ZaPF f\u00fcr besseres Fernsehen",
-            "responsible": "Timo (RWTH)",
-            "room": "__.102",
-            "slotid": "b1",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Zapf_fuer_besseres_Fehrnsehen"
-        },
-        {
-            "name": "ZaPF-IT",
-            "responsible": "J\u00f6rg (FU Berlin), Fabs (TU Berlin), Bj\u00f6rn (RWTH)",
-            "room": "02.116",
-            "slotid": "02",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_ZaPF_IT"
-        },
-        {
-            "name": "Zivilklausel",
-            "responsible": "Martin/Opa (FU Berlin/Alter Sack)",
-            "room": "01.402",
-            "slotid": "04",
-            "url": "https://vmp.ethz.ch/zapfwiki/index.php/WiSe15_AK_Zivilklausel"
+            "begin": "1970-01-02T18:00:00+0100", 
+            "end": "1970-02-01T20:00:00+0100", 
+            "id": "BAK1", 
+            "name": "Backup-Arbeitskreis", 
+            "shortname": "Backup"
         }
-    ],
+    ], 
     "slots": [
         {
-            "begin": "2015-11-20T14:00:00+0100",
-            "end": "2015-11-20T16:00:00+0100",
-            "id": "01",
-            "name": "Arbeitskreis 1",
-            "shortname": "AK 1"
-        },
+            "name": "AK Foo", 
+            "responsible": "Frank Nord", 
+            "room": 42, 
+            "slotid": "BAK1", 
+            "url": "http://zapf.wiki/AK_Foo"
+        }, 
         {
-            "begin": "2015-11-20T16:30:00+0100",
-            "end": "2015-11-20T18:30:00+0100",
-            "id": "02",
-            "name": "Arbeitskreis 2",
-            "shortname": "AK 2"
-        },
-        {
-            "begin": "2015-11-21T08:00:00+0100",
-            "end": "2015-11-21T10:00:00+0100",
-            "id": "03",
-            "name": "Arbeitskreis 3",
-            "shortname": "AK 3"
-        },
-        {
-            "begin": "2015-11-21T10:30:00+0100",
-            "end": "2015-11-21T12:30:00+0100",
-            "id": "04",
-            "name": "Arbeitskreis 4",
-            "shortname": "AK 4"
-        },
-        {
-            "begin": "2015-11-21T17:00:00+0100",
-            "end": "2015-11-21T19:00:00+0100",
-            "id": "05",
-            "name": "Arbeitskreis 5",
-            "shortname": "AK 5"
-        },
-        {
-            "begin": "2015-11-21T20:00:00+0100",
-            "end": "2015-11-21T22:00:00+0100",
-            "id": "b1",
-            "name": "Backup Arbeitskreis",
-            "shortname": "BK AK"
+            "name": "AK Bar", 
+            "responsible": "Frank Nord", 
+            "room": 42, 
+            "slotid": "AK1", 
+            "url": "http://zapf.wiki/AK_Foo"
         }
     ]
 }

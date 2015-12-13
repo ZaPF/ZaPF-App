@@ -1,0 +1,35 @@
+- id: AK1
+  name: Arbeitskreis 1
+  shortname: AK1
+  begin: 1970-01-01T14:00:00+0100
+  end: 1970-01-01T16:00:00+0100
+
+- id: AK2
+  name: Arbeitskreis 2
+  shortname: AK2
+  begin: 1970-01-01T16:00:00+0100
+  end: 1970-01-01T18:00:00+0100
+
+- id: AK3
+  name: Arbeitskreis 3
+  shortname: AK3
+  begin: 1970-01-02T08:00:00+0100
+  end: 1970-02-01T10:00:00+0100
+
+- id: AK4
+  name: Arbeitskreis 4
+  shortname: AK4
+  begin: 1970-01-02T10:00:00+0100
+  end: 1970-02-01T12:00:00+0100
+
+- id: AK5
+  name: Arbeitskreis 5
+  shortname: AK5
+  begin: 1970-01-02T14:00:00+0100
+  end: 1970-02-01T16:00:00+0100
+
+- id: BAK1
+  name: Backup-Arbeitskreis
+  shortname: Backup
+  begin: 1970-01-02T18:00:00+0100
+  end: 1970-02-01T20:00:00+0100

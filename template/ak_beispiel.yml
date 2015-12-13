@@ -1,0 +1,14 @@
+---
+
+- name: AK Foo
+  responsible: Frank Nord
+  room: 42
+  slotid: BAK1
+  url: http://zapf.wiki/AK_Foo
+
+- name: AK Bar
+  responsible: Frank Nord
+  room: 42
+  slotid: AK1
+  url: http://zapf.wiki/AK_Foo
+

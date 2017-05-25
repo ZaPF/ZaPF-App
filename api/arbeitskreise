@@ -3,9 +3,16 @@
         {
             "name": "AK Rote F\u00e4den der Studienreform", 
             "responsible": "Stefan (K\u00f6ln)", 
-            "room": "1'305", 
+            "room": "1'304", 
             "slotid": "AK6", 
             "url": "https://zapf.wiki/SoSe17_AK_Rote_Faeden_der_Studienreform"
+        }, 
+        {
+            "name": "AK Lernr\u00e4ume", 
+            "responsible": "Fabs (TUB)", 
+            "room": "0'313", 
+            "slotid": "AK1", 
+            "url": null
         }, 
         {
             "name": "AK Praktika", 
@@ -17,7 +24,7 @@
         {
             "name": "AK Abiwissen", 
             "responsible": "Leon (FU Berlin)", 
-            "room": "1'306", 
+            "room": "1'304", 
             "slotid": "AK2", 
             "url": "https://zapf.wiki/SoSe17_AK_Praktika"
         }, 

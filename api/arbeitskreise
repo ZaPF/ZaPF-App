@@ -1,4 +1,3 @@
-{
     "arbeitskreise": [
         {
             "name": "AK Rote F\u00e4den der Studienreform", 
@@ -300,6 +299,27 @@
             "room": "1'307", 
             "slotid": "BAK1", 
             "url": "https://zapf.wiki/index.php?title=SoSe17_AK_Lernräume"
+        },
+        {
+            "name": "AK Tenure Track", 
+            "responsible": "Merten (jDPG / G\u00f6ttingen)", 
+            "room": "1'306", 
+            "slotid": "BAK1", 
+            "url": "https://zapf.wiki/SoSe17_AK_Tenure_Track"
+        },
+        {
+            "name": "AK Praktika", 
+            "responsible": "Ludi (Er-Nbg)", 
+            "room": "1'304", 
+            "slotid": "BAK1", 
+            "url": "https://zapf.wiki/SoSe17_AK_Praktika"
+        },
+        {
+            "name": "AK Physikalisches Praktikum 2.0", 
+            "responsible": "OHA (W\u00fcrzburg), Schmampf (Konschdans)", 
+            "room": "1'305", 
+            "slotid": "BAK1", 
+            "url": "https://zapf.wiki/SoSe17_AK_Physikalisches_Praktikum_2.0"
         }
     ], 
     "slots": [

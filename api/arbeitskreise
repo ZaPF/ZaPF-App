@@ -31,8 +31,8 @@
         {
             "name": "AK Abiwissen", 
             "responsible": "Leon (FU Berlin)", 
-            "room": "1'304", 
-            "slotid": "AK2", 
+            "room": "0'313", 
+            "slotid": "AK3", 
             "url": "https://zapf.wiki/SoSe17_AK_Praktika"
         }, 
         {
@@ -286,6 +286,13 @@
             "room": "0'311", 
             "slotid": "AK5", 
             "url": "https://zapf.wiki/index.php?title=SoSe17_WS_GO-Schlachten"
+        },
+        {
+            "name": "Novelierung HG Th\u00fcringen", 
+            "responsible": "Franzi", 
+            "room": "1'304", 
+            "slotid": "AK4", 
+            "url": "https://zapf.wiki/index.php?title=SoSe17_HG_Thueringen"
         }
     ], 
     "slots": [

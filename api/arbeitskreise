@@ -350,6 +350,13 @@
             "id": "AK4", 
             "name": "Arbeitskreis 4", 
             "shortname": "AK4"
+        },
+        {
+            "begin": "2017-05-25T20:30:00+0200", 
+            "end": "2017-05-25T21:30:00+0200", 
+            "id": "BAK1", 
+            "name": "Backup-Arbeitskreis 1", 
+            "shortname": "Backup1"
         }, 
         {
             "begin": "2017-05-26T15:00:00+0200", 
@@ -364,13 +371,6 @@
             "id": "AK6", 
             "name": "Arbeitskreis 6", 
             "shortname": "AK6"
-        }, 
-        {
-            "begin": "2017-05-25T20:30:00+0200", 
-            "end": "2017-05-25T21:30:00+0200", 
-            "id": "BAK1", 
-            "name": "Backup-Arbeitskreis 1", 
-            "shortname": "Backup1"
         }, 
         {
             "begin": "2017-05-27T17:00:00+0200", 

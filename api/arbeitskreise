@@ -328,6 +328,13 @@
             "room": "0'313", 
             "slotid": "BAK2", 
             "url": "https://zapf.wiki/index.php?title=SoSe17_AK_Studienf%C3%BChrer"
+        }, 
+        {
+            "name": "AK Gesellschaftliche Verantwortung und Zivilklausel", 
+            "responsible": "Stefan (K\u00f6ln), Judith (K\u00f6ln)", 
+            "room": "0'110", 
+            "slot": "AK5", 
+            "url": ""
         }
     ], 
     "slots": [

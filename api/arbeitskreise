@@ -335,6 +335,20 @@
             "room": "0'110", 
             "slot": "AK5", 
             "url": ""
+        },
+        {
+            "name": "AK Gesellschaftliche Verantwortung von Hochschulen", 
+            "responsible": "Stefan (K\u00f6ln), Judith (K\u00f6ln)", 
+            "room": "1'307", 
+            "slot": "BAK2", 
+            "url": ""
+        },
+        {
+            "name": "AK March for Science", 
+            "responsible": "Kathii (Frankfurt)", 
+            "room": "1'3075", 
+            "slot": "BAK2", 
+            "url": ""
         }
     ], 
     "slots": [

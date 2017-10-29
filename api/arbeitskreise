@@ -44,59 +44,304 @@
         },
         {
             "name": "WS Reso-Schreiben",
-            "responsible": "Bj\u00f6rg",
+            "responsible": "Bj\u00f6rn, J\u00f6rg",
             "room": "C 007",
             "slotid": "AK1",
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "Coming Soon",
-            "responsible": "NN",
+            "name": "Forderungen an neue Bundesregierung",
+            "responsible": "Paddy",
+            "room": "D 114",
+            "slotid": "AK2",
+            "url": "https://zapf.wiki/WiSe17_AK_Forderungen_an_neue_Regierung"
+        },
+        {
+            "name": "WS Wissenschaftskommunikation Teil 1",
+            "responsible": "Marcus",
+            "room": "D 308",
+            "slotid": "AK2",
+            "url": "https://zapf.wiki/WiSe17_AK_Wissenschaftskommunikation"
+        },
+        {
+            "name": "Der StAPF stellt sich vor",
+            "responsible": "Petrie",
+            "room": "D 223",
+            "slotid": "AK2",
+            "url": "https://zapf.wiki/WiSe17_AK_Der_StAPF_stellt_sich_vor"
+        },
+        {
+            "name": "Klausurversuche/Zwangsexmatrikulation",
+            "responsible": "Opa, Stefan",
+            "room": "D 224",
+            "slotid": "AK2",
+            "url": "https://zapf.wiki/WiSe17_AK_Klausurversuche/Zwangsexmatrikulation"
+        },
+        {
+            "name": "Lehramt",
+            "responsible": "Niklas Donocik",
+            "room": "D 201",
+            "slotid": "AK2",
+            "url": "https://zapf.wiki/WiSe17_AK_Lehramt"
+        },
+        {
+            "name": "TOPF und ZaPF-IT/Zentrales Anmeldesystem",
+            "responsible": "Jan, Klee",
+            "room": "B 030",
+            "slotid": "AK2",
+            "url": "https://zapf.wiki/WiSe17_AK_TOPF"
+        },
+        {
+            "name": "WS Akkreditierung",
+            "responsible": "Bj\u00f6rn",
             "room": "B 019",
             "slotid": "AK2",
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "Coming Soon",
-            "responsible": "NN",
-            "room": "B 019",
+            "name": "(Hochschul)politisches Mandat der ZaPF",
+            "responsible": "Paddy",
+            "room": "D 114",
             "slotid": "AK3",
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe17_AK_(Hochschul)politisches_Mandat_der_ZaPF"
         },
         {
-            "name": "Coming Soon",
+            "name": "AK Wissenschaftskommunikation Teil 2",
+            "responsible": "Marcus",
+            "room": "D 308",
+            "slotid": "AK3",
+            "url": "https://zapf.wiki/WiSe17_AK_Wissenschaftskommunikation"
+        },
+        {
+            "name": "Rote F\u00e4den der Studienreform",
+            "responsible": "Jakob",
+            "room": "D 223",
+            "slotid": "AK3",
+            "url": "https://zapf.wiki/WiSe17_AK_Rote_F%C3%A4den_der_Studienreform"
+        },
+        {
+            "name": "Uni-Wechsel",
+            "responsible": "Fabs",
+            "room": "D 224",
+            "slotid": "AK3",
+            "url": "https://zapf.wiki/WiSe17_AK_Uni-Wechsel"
+        },
+        {
+            "name": "Lehramt",
+            "responsible": "Niklas Donocik",
+            "room": "D 201",
+            "slotid": "AK2",
+            "url": "https://zapf.wiki/WiSe17_AK_Lehramt"
+        },
+        {
+            "name": "AK Akkreditierung",
             "responsible": "NN",
+            "room": "B 030",
+            "slotid": "AK3",
+            "url": "https://zapf.wiki/WiSe17_AK_Akkreditierung"
+        },
+        {
+            "name": "Vortrag und Diskussion mit Ican (Friedensnobelpreistr\u00e4ger) \u00fcber Atomwaffenverbot",
+            "responsible": "Stefan",
+            "room": "D 114",
+            "slotid": "AK4",
+            "url": "https://zapf.wiki/Vortrag_und_Diskussion_mit_Ican_(Friedensnobelpreistr%C3%A4ger)_%C3%BCber_Atomwaffenverbot"
+        },
+        {
+            "name": "AK Fortbildung Vertrauenspersonen",
+            "responsible": "Jakob",
+            "room": "D 308",
+            "slotid": "AK4",
+            "url": "https://zapf.wiki/WiSe17_AK_Fortbildung_Vertrauenspersonen"
+        },
+        {
+            "name": "GO-\u00c4nderung",
+            "responsible": "Bj\u00f6rn, J\u00f6rg",
+            "room": "D 223",
+            "slotid": "AK4",
+            "url": "https://zapf.wiki/WiSe17_AK_GO"
+        },
+        {
+            "name": "Neues f\u00fcr den AK Lehramt",
+            "responsible": "Niklas Donocik",
+            "room": "D 224",
+            "slotid": "AK4",
+            "url": "https://zapf.wiki/WiSe17_Neues_f%C3%BCr_den_AK_Lehramt"
+        },
+        {
+            "name": "Vorl\u00e4ufige Vertr\u00e4ge f\u00fcr Abschlussarbeiten",
+            "responsible": "Zo\u00eb",
+            "room": "D 201",
+            "slotid": "AK4",
+            "url": "https://zapf.wiki/WiSe17_AK_Vorl%C3%A4ufige_Vertr%C3%A4ge_f%C3%BCr_Abschlussarbeiten"
+        },
+        {
+            "name": "Philosophie der Physik",
+            "responsible": "Michael",
+            "room": "B 030",
+            "slotid": "AK4",
+            "url": "https://zapf.wiki/WiSe17_AK_PhilosophiePhysik"
+        },
+        {
+            "name": "Weiterentwicklung des Studienf\u00fchrers",
+            "responsible": "Paddy",
             "room": "B 019",
             "slotid": "AK4",
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe17_AK_Weiterentwicklung_Studienf%C3%BChrer"
         },
         {
-            "name": "Coming Soon",
-            "responsible": "NN",
+            "name": "Schlussfolgerungen aus der Diskussion mit dem Gast von Ican",
+            "responsible": "Stefan",
+            "room": "D 114",
+            "slotid": "AK5",
+            "url": "https://zapf.wiki/Schlussfolgerungen_aus_der_Diskussion_mit_dem_Gast_von_Ican"
+        },
+        {
+            "name": "Abiwissen",
+            "responsible": "Hauke, Leon",
+            "room": "D 308",
+            "slotid": "AK5",
+            "url": "https://zapf.wiki/WiSe17_AK_Abiwissen"
+        },
+        {
+            "name": "AK Fortgeschrittenenpraktikum",
+            "responsible": "Ludi",
+            "room": "D 223",
+            "slotid": "AK5",
+            "url": "https://zapf.wiki/WiSe17_AK_Fortgeschrittenenpraktikum"
+        },
+        {
+            "name": "Gestaltung von Master- und Forschungsstudieng\u00e4ngen",
+            "responsible": "Siegen",
+            "room": "D 224",
+            "slotid": "AK5",
+            "url": "https://zapf.wiki/WiSe17_AK_MasterStudiengang"
+        },
+        {
+            "name": "Studieren mit Kind",
+            "responsible": "Petrie",
+            "room": "D 201",
+            "slotid": "AK5",
+            "url": "https://zapf.wiki/WiSe17_AK_Studieren_mit_Kind"
+        },
+        {
+            "name": "Umgang mit F\u00f6rderungsabsagen",
+            "responsible": "Paddy",
+            "room": "B 030",
+            "slotid": "AK5",
+            "url": "https://zapf.wiki/WiSe17_AK_F%C3%B6rderungsabsagen"
+        },
+        {
+            "name": "FSen von FHs bei der ZaPF",
+            "responsible": "Sonja",
             "room": "B 019",
             "slotid": "AK5",
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe17_AK_FHs"
         },
         {
-            "name": "Coming Soon",
-            "responsible": "NN",
-            "room": "B 019",
+            "name": "AK Symptompflicht auf Attesten",
+            "responsible": "Jakob",
+            "room": "B 007",
+            "slotid": "AK5",
+            "url": "https://zapf.wiki/WiSe17_AK_Symptompflicht"
+        },
+        {
+            "name": "Austausch",
+            "responsible": "Thomi",
+            "room": "D 114",
             "slotid": "AK6",
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe17_AK_Austausch"
         },
         {
-            "name": "Coming Soon",
-            "responsible": "NN",
-            "room": "B 019",
+            "name": "Exzellenzstrategie und Ausrichtung der Exzellenzuniversit\u00e4ten",
+            "responsible": "Victoria",
+            "room": "D 308",
+            "slotid": "AK6",
+            "url": "https://zapf.wiki/WiSe17_AK_ExStrat"
+        },
+        {
+            "name": "Tenure Track",
+            "responsible": "Opa, Anna",
+            "room": "D 223",
+            "slotid": "AK6",
+            "url": "https://zapf.wiki/WiSe17_AK_Tenure_Track"
+        },
+        {
+            "name": "H\u00f6rsaal Branding",
+            "responsible": "Lisanne",
+            "room": "D 224",
+            "slotid": "AK6",
+            "url": "https://zapf.wiki/WiSe17_AK_HoersaalBranding"
+        },
+        {
+            "name": "BaMa Umfrage",
+            "responsible": "Sonja",
+            "room": "D 201",
+            "slotid": "AK6",
+            "url": "https://zapf.wiki/WiSe17_WS_BaMa_Umfrage_Vorbereitung"
+        },
+        {
+            "name": "Hochschulpolitische Entwicklungen in Baden-W\u00fcrttemberg",
+            "responsible": "Victoria, Petri",
+            "room": "B 030",
+            "slotid": "AK6",
+            "url": "https://zapf.wiki/WiSe17_AK_Hopo-BaWu"
+        },
+        {
+            "name": "WS GO-Schlachten",
+            "responsible": "Bj\u00f6rn, J\u00f6rg",
+            "room": "D 114",
             "slotid": "AK7",
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "Coming Soon",
+            "name": "Rechtsicheres System beim Sammeln von Pr\u00fcfungsprotokollen und Skripten und allem durch Fachschaften",
+            "responsible": "Johannes",
+            "room": "D 308",
+            "slotid": "AK7",
+            "url": "https://zapf.wiki/WiSe17_AK_Rechtliche_Bedingungen_beim_Sammeln_von_Pr%C3%BCfungsprotokollen_und_Skripten_durch_Fachschaften"
+        },
+        {
+            "name": "Vernetzung der ZaPF-Orgas",
+            "responsible": "Jenny",
+            "room": "D 223",
+            "slotid": "AK7",
+            "url": "https://zapf.wiki/WiSe17_AK_Vernetzung_der_ZaPF-Orgas"
+        },
+        {
+            "name": "Aktualisierung des Studienf\u00fchrers",
             "responsible": "NN",
+            "room": "D 224",
+            "slotid": "AK7",
+            "url": "https://zapf.wiki/WiSe17_AK_Aktualisierung_Studief%C3%BChrer"
+        },
+        {
+            "name": "Physik f\u00fcr Nebenf\u00e4chler",
+            "responsible": "Marcus, Laurin",
+            "room": "D 201",
+            "slotid": "AK7",
+            "url": "https://zapf.wiki/WiSe17_AK_Physik_f%C3%BCr_Nebenf%C3%A4chler"
+        },
+        {
+            "name": "Physikalisches Praktikum 2.3",
+            "responsible": "Schmampf, OHA",
+            "room": "B 030",
+            "slotid": "AK7",
+            "url": "https://zapf.wiki/WiSe17_AK_Physikalisches_Praktikum_2.3"
+        },
+        {
+            "name": "Beschlussdatenbank",
+            "responsible": "Opa, Anna, TOPF",
             "room": "B 019",
+            "slotid": "AK7",
+            "url": "https://zapf.wiki/WiSe17_AK_Beschlussdatenbank"
+        },
+        {
+            "name": "Mitgliederversammlung ZaPF e.V.",
+            "responsible": "Vorstand ZaPF e.V.",
+            "room": "D 201",
             "slotid": "BU",
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe17_AK_MV_ZaPF_eV"
         }
     ],
     "slots": [

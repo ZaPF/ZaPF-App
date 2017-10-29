@@ -1,412 +1,160 @@
 {
     "arbeitskreise": [
         {
-            "name": "AK Rote F\u00e4den der Studienreform", 
-            "responsible": "Stefan (K\u00f6ln)", 
-            "room": "1'304", 
-            "slotid": "AK6", 
-            "url": "https://zapf.wiki/SoSe17_AK_Rote_Faeden_der_Studienreform"
-        }, 
-        {
-            "name": "AK Lernr\u00e4ume", 
-            "responsible": "Fabs (TUB)", 
-            "room": "0'313", 
-            "slotid": "AK1", 
-            "url": null
-        }, 
-        {
-            "name": "AK Praktika", 
-            "responsible": "Ludi (Er-Nbg)", 
-            "room": "1'306", 
-            "slotid": "AK2", 
-            "url": "https://zapf.wiki/SoSe17_AK_Praktika"
-        }, 
-        {
-            "name": "AK Abiwissen", 
-            "responsible": "Leon (FU Berlin)", 
-            "room": "1'313", 
-            "slotid": "AK3", 
-            "url": "https://zapf.wiki/SoSe17_AK_Praktika"
-        }, 
-        {
-            "name": "AK Hochschulwahlwerbung", 
-            "responsible": "Ludi (Er-Nbg)", 
-            "room": "1'304", 
-            "slotid": "AK5", 
-            "url": "https://zapf.wiki/SoSe17_AK_Hochschulwahlwerbung"
-        }, 
-        {
-            "name": "AK BaMa Umfrage Teil 1", 
-            "responsible": "Sonja (Bonn)", 
-            "room": "1'303", 
-            "slotid": "AK3", 
-            "url": "https://zapf.wiki/SoSe17_AK_BaMa_Umfrage"
-        }, 
-        {
-            "name": "AK Position zur BaMa Umfrage Teil 2", 
-            "responsible": "Sonja(Bonn)", 
-            "room": "1'303", 
-            "slotid": "AK4", 
-            "url": "https://zapf.wiki/SoSe17_AK_BaMa_Umfrage_Position"
-        }, 
-        {
-            "name": "GO- und Satzungs\u00e4nderung", 
-            "responsible": "Sonja (Bonn), Fluff (Bonn), BJ\u00f6rg (RWTFU Berlin)", 
-            "room": "1'305", 
-            "slotid": "AK2", 
-            "url": "https://zapf.wiki/SoSe17_GO_Satzung"
-        }, 
-        {
-            "name": "AK Austausch", 
-            "responsible": "Thomi (HD)", 
-            "room": "0'311", 
-            "slotid": "AK6", 
-            "url": "https://zapf.wiki/SoSe17_AK_Austausch"
-        }, 
-        {
-            "name": "AK Der StAPF stellt sich vor", 
-            "responsible": "alle StAPF-Mitglieder", 
-            "room": "1'307", 
-            "slotid": "AK5", 
-            "url": "https://zapf.wiki/SoSe17_AK_StAPF"
-        }, 
-        {
-            "name": "Mitgliederversammlung ZaPF e.V.", 
-            "responsible": null, 
-            "room": "1'308", 
-            "slotid": "BAK2", 
-            "url": "https://zapf.wiki/SoSe17_ZaPF_e.V."
-        }, 
-        {
-            "name": "Vernetzung der ZaPF-Orgas", 
-            "responsible": "Kathii (Ffm)", 
-            "room": "1'307", 
-            "slotid": "AK4", 
-            "url": "https://zapf.wiki/SoSe17_AK_ZaPF-Orga"
-        }, 
-        {
-            "name": "Studiengeb\u00fchren BaW\u00fc", 
-            "responsible": "Johannes (Tuebingen)", 
-            "room": "1'303", 
-            "slotid": "AK1", 
-            "url": "https://zapf.wiki/SoSe17_AK_Studiengeb%C3%BChren_BaW%C3%BC"
-        }, 
-        {
-            "name": "AK Studienf\u00fchrer", 
-            "responsible": "Paddy (Konschdans), Fabs (TU Berlin)", 
-            "room": "0'313", 
-            "slotid": "AK6", 
-            "url": "https://zapf.wiki/index.php?title=SoSe17_AK_Studienf%C3%BChrer"
-        }, 
-        {
-            "name": "AK MeTaFa", 
-            "responsible": "Peter Steinm\u00fcller (KIT)", 
-            "room": "1'305", 
-            "slotid": "AK6", 
-            "url": "https://zapf.wiki/SoSe17_AK_MeTaFa"
-        }, 
-        {
-            "name": "AK Lehramt", 
-            "responsible": "eNik (Konschdans), Niklas (TUBS)", 
-            "room": "1'307", 
-            "slotid": "AK2", 
-            "url": "https://zapf.wiki/SoSe17_AK_Lehramt"
-        }, 
-        {
-            "name": "AK Exzellenzinitiative 1", 
-            "responsible": "Kathii (Ffm), Martin (Alumni), Vicky (KIT)", 
-            "room": "1'308", 
-            "slotid": "AK3", 
-            "url": "https://zapf.wiki/SoSe17_AK_Exzellenzinitiative"
-        }, 
-        {
-            "name": "AK Exzellenzinitiative 2", 
-            "responsible": "Kathii (Ffm), Martin (Alumni), Vicky (KIT)", 
-            "room": "1'308", 
-            "slotid": "AK4", 
-            "url": "https://zapf.wiki/SoSe17_AK_Exzellenzinitiative"
-        }, 
-        {
-            "name": "AK Physikalisches Praktikum 2.0", 
-            "responsible": "OHA (W\u00fcrzburg), Schmampf (Konschdans)", 
-            "room": "1'306", 
-            "slotid": "AK1", 
-            "url": "https://zapf.wiki/SoSe17_AK_Physikalisches_Praktikum_2.0"
-        }, 
-        {
-            "name": "AK Vernetzung der ZaPF mit Doktorantenvertretungen", 
-            "responsible": "Phillipp (Ffm)", 
-            "room": "1'307", 
-            "slotid": "AK3", 
-            "url": "https://zapf.wiki/SoSe17_AK_Vernetzung_der_ZaPF_mit_Doktorantenvertretungen"
-        }, 
-        {
-            "name": "AK CHE Ranking", 
-            "responsible": "Fredrica (HUB), Thomi (HD)", 
-            "room": "0'313", 
-            "slotid": "AK5", 
-            "url": "https://zapf.wiki/SoSe17_AK_CHE_Ranking"
-        }, 
-        {
-            "name": "AK Ethikmodul Umfrage", 
-            "responsible": "Philipp (TUK)", 
-            "room": "1'306", 
-            "slotid": "AK5", 
-            "url": "https://zapf.wiki/index.php?title=SoSe17_AK_Ethikmodul_Umfrage"
-        }, 
-        {
-            "name": "AK Frauen in akademischer Karriere", 
-            "responsible": "Daniela (Konschdans)", 
-            "room": "1'305", 
-            "slotid": "AK5", 
-            "url": "https://zapf.wiki/SoSe17_AK_Frauen_in_akademischer_Karriere"
-        }, 
-        {
-            "name": "AK VG Wort", 
-            "responsible": "Paddy (Konschdans), Vicky (KIT)", 
-            "room": "0'311", 
-            "slotid": "AK1", 
-            "url": "https://zapf.wiki/SoSe17_AK_VG-Wort"
-        }, 
-        {
-            "name": "AK Symptompflicht", 
-            "responsible": null, 
-            "room": "1'307", 
-            "slotid": "AK1", 
-            "url": "https://zapf.wiki/index.php?title=SoSe17_AK_Symptompflicht"
-        }, 
-        {
-            "name": "AK BAf\u00f6G", 
-            "responsible": "Peter Steinm\u00fcller (KIT)", 
-            "room": "1'308", 
-            "slotid": "AK1", 
-            "url": "https://zapf.wiki/SoSe17_AK_BAf%C3%B6G"
-        }, 
-        {
-            "name": "AK TOPF und ZaPF-IT / Zentrales Anmeldesystem", 
-            "responsible": "Jan (FUB)", 
-            "room": "1'306", 
-            "slotid": "AK6", 
-            "url": "https://zapf.wiki/SoSe17_AK_TOPF"
-        }, 
-        {
-            "name": "AK Anwesenheitspflicht abwehren", 
-            "responsible": "Jakob (G\u00f6ttingen)", 
-            "room": "0'313", 
-            "slotid": "AK2", 
-            "url": "https://zapf.wiki/SoSe17_AK_Anwesenheitspflicht_abwehren"
-        }, 
-        {
-            "name": "AK gesellschaftliche Verantwortung und Zivilklausel", 
-            "responsible": "Stefan (K\u00f6ln), Judith (K\u00f6ln)", 
-            "room": "0'311", 
-            "slotid": "AK3", 
-            "url": "https://zapf.wiki/SoSe17_AK_gesellschaftliche_Verantwortung_und_Zivilklausel"
-        }, 
-        {
-            "name": "AK Klausurversuche", 
-            "responsible": "Judith (K\u00f6ln)", 
-            "room": "0'311", 
-            "slotid": "AK4", 
-            "url": "https://zapf.wiki/SoSe17_AK_Klausurversuche"
-        }, 
-        {
-            "name": "AK Tenure Track", 
-            "responsible": "Merten (jDPG / G\u00f6ttingen)", 
-            "room": "1'303", 
-            "slotid": "AK2", 
-            "url": "https://zapf.wiki/SoSe17_AK_Tenure_Track"
-        }, 
-        {
-            "name": "AK Fortbildung der Vertrauenspersonen", 
-            "responsible": "Clara (Ffm)", 
-            "room": "1'306", 
-            "slotid": "AK3", 
-            "url": "https://zapf.wiki/SoSe17_AK_Fortbildung_Vertrauenspersonen"
-        }, 
-        {
-            "name": "AK Physikveranstaltungen f\u00fcr Nebenf\u00e4chler", 
-            "responsible": "Marcus (Ffm), Laurin (Ffm)", 
-            "room": "1'303", 
-            "slotid": "AK6", 
-            "url": "https://zapf.wiki/SoSe17_AK_Physikveranstaltungen_f%C3%BCr_Nebenfaechler"
-        }, 
-        {
-            "name": "AK Wissenschaftskommunikation", 
-            "responsible": "Marcus (Ffm, T\u00fcbingen)", 
-            "room": "0'311", 
-            "slotid": "AK2", 
-            "url": "https://zapf.wiki/SoSe17_AK_Wissenschaftskommunikation"
-        }, 
-        {
-            "name": "AK Akkreditierungsrat", 
-            "responsible": "Jeannete Gehlert, Kathii (Ffm)", 
-            "room": "1'306", 
-            "slotid": "AK4", 
-            "url": "https://zapf.wiki/SoSe17_AK_Akkreditierungsrat"
-        }, 
-        {
-            "name": "Workshop Git", 
-            "responsible": "BJ\u00f6rg (RWTFU Berlin)", 
-            "room": "1'305", 
-            "slotid": "AK3", 
-            "url": "https://zapf.wiki/SoSe17_WS_Git"
-        }, 
-        {
-            "name": "Workshop Akkreditierungs", 
-            "responsible": "Kathii (Ffm), Florian (TUM)", 
-            "room": "1'304", 
-            "slotid": "AK3", 
-            "url": "https://zapf.wiki/SoSe17_WS_Akkreditierung"
-        }, 
-        {
-            "name": "Workshop Irgendwas mit Crypto", 
-            "responsible": "BJ\u00f6rg (RWTFU Berlin)", 
-            "room": "1'305", 
-            "slotid": "AK4", 
-            "url": "https://zapf.wiki/index.php?title=SoSe17_WS_Crypto"
-        }, 
-        {
-            "name": "Workshop Reso schreiben f\u00fcr humanoide Wesen, die so was noch nie gemacht haben, es aber gerne mal ausprobieren m\u00f6chten", 
-            "responsible": "BJ\u00f6rg (RWTFU Berlin)", 
-            "room": "1'305", 
-            "slotid": "AK1", 
-            "url": "https://zapf.wiki/index.php?title=SoSe17_WS_Reso_schreiben"
-        }, 
-        {
-            "name": "Workshop GO-Schlachten", 
-            "responsible": "BJ\u00f6rg (RWTFU Berlin)", 
-            "room": "0'311", 
-            "slotid": "AK5", 
-            "url": "https://zapf.wiki/index.php?title=SoSe17_WS_GO-Schlachten"
-        }, 
-        {
-            "name": "Novelierung HG Th\u00fcringen", 
-            "responsible": "Franzi", 
-            "room": "1'304", 
-            "slotid": "AK4", 
-            "url": "https://zapf.wiki/index.php?title=SoSe17_HG_Thueringen"
-        }, 
-        {
-            "name": "AK Praktika", 
-            "responsible": "Ludi (Er-Nbg)", 
-            "room": "1'304", 
-            "slotid": "BAK1", 
-            "url": "https://zapf.wiki/SoSe17_AK_Praktika"
-        }, 
-        {
-            "name": "AK Tenure Track", 
-            "responsible": "Merten (jDPG / G\u00f6ttingen)", 
-            "room": "1'306", 
-            "slotid": "BAK1", 
-            "url": "https://zapf.wiki/SoSe17_AK_Tenure_Track"
-        }, 
-        {
-            "name": "AK Physikalisches Praktikum 2.0", 
-            "responsible": "OHA (W\u00fcrzburg), Schmampf (Konschdans)", 
-            "room": "1'305", 
-            "slotid": "BAK1", 
-            "url": "https://zapf.wiki/SoSe17_AK_Physikalisches_Praktikum_2.0"
-        }, 
-        {
-            "name": "Reso-Schreiben Lernr\u00e4ume", 
-            "responsible": "Julii (Frankfurt)", 
-            "room": "1'307", 
-            "slotid": "BAK1", 
-            "url": "https://zapf.wiki/index.php?title=SoSe17_AK_Lernr\u00e4ume"
-        }, 
-        {
-            "name": "AK Lehramt", 
-            "responsible": "eNik (Konschdans), Niklas (TUBS)", 
-            "room": "1'303", 
-            "slotid": "BAK1", 
-            "url": "https://zapf.wiki/SoSe17_AK_Lehramt"
-        }, 
-        {
-            "name": "AK Studienf\u00fchrer Aktualisierung", 
-            "responsible": "Paddy (Konschdans), Fabs (TU Berlin)", 
-            "room": "0'313", 
-            "slotid": "BAK2", 
-            "url": "https://zapf.wiki/index.php?title=SoSe17_AK_Studienf%C3%BChrer"
-        }, 
-        {
-            "name": "AK Gesellschaftliche Verantwortung und Zivilklausel", 
-            "responsible": "Stefan (K\u00f6ln), Judith (K\u00f6ln)", 
-            "room": "0'110", 
-            "slot": "AK5", 
-            "url": ""
+            "name": "AK Opa erz\u00e4hlt vom Krieg",
+            "responsible": "Opa",
+            "room": "D 114",
+            "slotid": "AK1",
+            "url": "https://zapf.wiki/WiSe17_AK_Opa"
         },
         {
-            "name": "AK Gesellschaftliche Verantwortung von Hochschulen", 
-            "responsible": "Stefan (K\u00f6ln), Judith (K\u00f6ln)", 
-            "room": "1'307", 
-            "slot": "BAK2", 
-            "url": ""
+            "name": "AK BAf\u00f6G",
+            "responsible": "Petrie",
+            "room": "D 308",
+            "slotid": "AK1",
+            "url": "https://zapf.wiki/WiSe17_AK_BAf%C3%B6G"
         },
         {
-            "name": "AK March for Science", 
-            "responsible": "Kathii (Frankfurt)", 
-            "room": "1'3075", 
-            "slot": "BAK2", 
-            "url": ""
+            "name": "AK CHE Ranking",
+            "responsible": "Thomi, Fredrica, Sonja",
+            "room": "D 223",
+            "slotid": "AK1",
+            "url": "https://zapf.wiki/WiSe17_AK_CHE_Ranking"
+        },
+        {
+            "name": "AK Ehemalige ZaPFika",
+            "responsible": "Tobi, Paddy",
+            "room": "D 224",
+            "slotid": "AK1",
+            "url": "https://zapf.wiki/WiSe17_AK_Alumni"
+        },
+        {
+            "name": "AK Nullergebnisse",
+            "responsible": "Jan",
+            "room": "D 201",
+            "slotid": "AK1",
+            "url": "https://zapf.wiki/WiSe17_AK_Nullergebnisse"
+        },
+        {
+            "name": "WS MuM",
+            "responsible": "Lina",
+            "room": "B 019",
+            "slotid": "AK1",
+            "url": "https://zapf.wiki/WiSe17_WS_MuM"
+        },
+        {
+            "name": "WS Reso-Schreiben",
+            "responsible": "Bj\u00f6rg",
+            "room": "C 007",
+            "slotid": "AK1",
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "Coming Soon",
+            "responsible": "NN",
+            "room": "B 019",
+            "slotid": "AK2",
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "Coming Soon",
+            "responsible": "NN",
+            "room": "B 019",
+            "slotid": "AK3",
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "Coming Soon",
+            "responsible": "NN",
+            "room": "B 019",
+            "slotid": "AK4",
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "Coming Soon",
+            "responsible": "NN",
+            "room": "B 019",
+            "slotid": "AK5",
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "Coming Soon",
+            "responsible": "NN",
+            "room": "B 019",
+            "slotid": "AK6",
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "Coming Soon",
+            "responsible": "NN",
+            "room": "B 019",
+            "slotid": "AK7",
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "Coming Soon",
+            "responsible": "NN",
+            "room": "B 019",
+            "slotid": "BU",
+            "url": "https://zapf.wiki/"
         }
-    ], 
+    ],
     "slots": [
         {
-            "begin": "2017-05-25T08:30:00+0200", 
-            "end": "2017-05-25T10:30:00+0200", 
-            "id": "AK1", 
-            "name": "Arbeitskreis 1", 
+            "begin": "2017-10-29T07:00:00+0100",
+            "end": "2017-10-29T09:00:00+0100",
+            "id": "AK1",
+            "name": "Arbeitskreis 1",
             "shortname": "AK1"
-        }, 
+        },
         {
-            "begin": "2017-05-25T11:00:00+0200", 
-            "end": "2017-05-25T13:00:00+0200", 
-            "id": "AK2", 
-            "name": "Arbeitskreis 2", 
+            "begin": "2017-10-29T10:00:00+0100",
+            "end": "2017-10-29T12:00:00+0100",
+            "id": "AK2",
+            "name": "Arbeitskreis 2",
             "shortname": "AK2"
-        }, 
+        },
         {
-            "begin": "2017-05-25T14:30:00+0200", 
-            "end": "2017-05-25T16:30:00+0200", 
-            "id": "AK3", 
-            "name": "Arbeitskreis 3", 
+            "begin": "2017-10-29T14:00:00+0100",
+            "end": "2017-10-29T16:00:00+0100",
+            "id": "AK3",
+            "name": "Arbeitskreis 3",
             "shortname": "AK3"
-        }, 
+        },
         {
-            "begin": "2017-05-25T17:00:00+0200", 
-            "end": "2017-05-25T19:00:00+0200", 
-            "id": "AK4", 
-            "name": "Arbeitskreis 4", 
+            "begin": "2017-10-29T17:00:00+0100",
+            "end": "2017-10-29T19:00:00+0100",
+            "id": "AK4",
+            "name": "Arbeitskreis 4",
             "shortname": "AK4"
-        }, 
+        },
         {
-            "begin": "2017-05-25T20:30:00+0200", 
-            "end": "2017-05-25T21:30:00+0200", 
-            "id": "BAK1", 
-            "name": "Backup-Arbeitskreis 1", 
-            "shortname": "Backup1"
-        }, 
-        {
-            "begin": "2017-05-26T15:00:00+0200", 
-            "end": "2017-05-26T17:00:00+0200", 
-            "id": "AK5", 
-            "name": "Arbeitskreis 5", 
+            "begin": "2017-10-30T15:00:00+0100",
+            "end": "2017-10-30T17:00:00+0100",
+            "id": "AK5",
+            "name": "Arbeitskreis 5",
             "shortname": "AK5"
-        }, 
+        },
         {
-            "begin": "2017-05-26T17:30:00+0200", 
-            "end": "2017-05-26T19:30:00+0200", 
-            "id": "AK6", 
-            "name": "Arbeitskreis 6", 
+            "begin": "2017-10-31T08:00:00+0100",
+            "end": "2017-10-31T10:00:00+0100",
+            "id": "AK6",
+            "name": "Arbeitskreis 6",
             "shortname": "AK6"
-        }, 
+        },
         {
-            "begin": "2017-05-27T17:00:00+0200", 
-            "end": "2017-05-27T19:00:00+0200", 
-            "id": "BAK2", 
-            "name": "Backup-Arbeitskreis 2", 
-            "shortname": "Backup2"
+            "begin": "2017-10-31T11:00:00+0100",
+            "end": "2017-10-31T13:00:00+0100",
+            "id": "AK7",
+            "name": "Arbeitskreis 7",
+            "shortname": "AK7"
+        },
+        {
+            "begin": "2017-10-31T15:00:00+0100",
+            "end": "2017-10-31T17:00:00+0100",
+            "id": "BU",
+            "name": "Backup-Arbeitskreis",
+            "shortname": "Backup"
         }
     ]
 }

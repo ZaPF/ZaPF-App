@@ -349,6 +349,13 @@
             "room": "D 224", 
             "slotid": "BU", 
             "url": "https://zapf.wiki/WiSe17_AK_Akkreditierung_II"
+        }, 
+        {
+            "name": "Arbeit am Wiki", 
+            "responsible": "Jenny (FUB)", 
+            "room": "C 007", 
+            "slotid": "BU", 
+            "url": "https://zapf.wiki/"
         }
     ], 
     "slots": [

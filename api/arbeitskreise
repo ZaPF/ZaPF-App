@@ -337,11 +337,11 @@
             "url": "https://zapf.wiki/WiSe17_AK_Beschlussdatenbank"
         }, 
         {
-            "name": "Mitgliederversammlung ZaPF e.V.", 
-            "responsible": "Vorstand ZaPF e.V.", 
-            "room": "D 201", 
+            "name": "Akkreditierung (Teil 2)", 
+            "responsible": "Daniela (FFM), Martin (FUB/Alumni)", 
+            "room": "D 224", 
             "slotid": "BU", 
-            "url": "https://zapf.wiki/WiSe17_AK_MV_ZaPF_eV"
+            "url": "https://zapf.wiki/WiSe17_AK_Akkreditierung_II"
         }
     ], 
     "slots": [

@@ -1,14 +1,112 @@
 {
     "arbeitskreise": [
         {
-            "name": "AK Name", 
+            "name": "AK 1", 
             "responsible": "Mensch", 
-            "room": "D Raum", 
+            "room": "Raum", 
+            "slotid": "AK1", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 2", 
+            "responsible": "Mensch", 
+            "room": "Raum", 
             "slotid": "AK1", 
             "url": "https://zapf.wiki/"
         },  
         {
-            "name": "WS Name", 
+            "name": "AK 3", 
+            "responsible": "Mensch", 
+            "room": "Raum", 
+            "slotid": "AK1", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 4", 
+            "responsible": "Mensch", 
+            "room": "Raum", 
+            "slotid": "AK1", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 5", 
+            "responsible": "Mensch", 
+            "room": "Raum", 
+            "slotid": "AK1", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 6", 
+            "responsible": "Mensch", 
+            "room": "Raum", 
+            "slotid": "AK1", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 7", 
+            "responsible": "Mensch", 
+            "room": "Raum", 
+            "slotid": "AK1", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 8", 
+            "responsible": "Mensch", 
+            "room": "Raum", 
+            "slotid": "AK2", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 1", 
+            "responsible": "Mensch", 
+            "room": "Raum", 
+            "slotid": "AK2", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 2", 
+            "responsible": "Mensch", 
+            "room": "Raum", 
+            "slotid": "AK2", 
+            "url": "https://zapf.wiki/"
+        },  
+        {
+            "name": "AK 3", 
+            "responsible": "Mensch", 
+            "room": "Raum", 
+            "slotid": "AK2", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 4", 
+            "responsible": "Mensch", 
+            "room": "Raum", 
+            "slotid": "AK2", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 5", 
+            "responsible": "Mensch", 
+            "room": "Raum", 
+            "slotid": "AK2", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 6", 
+            "responsible": "Mensch", 
+            "room": "Raum", 
+            "slotid": "AK2", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 7", 
+            "responsible": "Mensch", 
+            "room": "Raum", 
+            "slotid": "AK2", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 9", 
             "responsible": "Mensch", 
             "room": "Raum", 
             "slotid": "AK2", 
@@ -104,13 +202,13 @@
             "begin": "2022-11-11T20:30:00+0100", 
             "end": "2012-11-11T22:00:00+0100", 
             "id": "BU1", 
-            "name": "Backup-Arbeitskreis 2", 
+            "name": "Backup-Arbeitskreis 1", 
             "shortname": "Backup 1"
         }, 
         {
             "begin": "2022-11-12T20:30:00+0100", 
             "end": "2022-11-12T22:00:00+0100", 
-            "id": "BU2 ", 
+            "id": "BU2", 
             "name": "Backup-Arbeitskreis 2", 
             "shortname": "Backup 2"
         }

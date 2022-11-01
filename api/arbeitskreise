@@ -52,203 +52,315 @@
         {
             "name": "AK 1", 
             "responsible": "Mensch", 
-            "room": "Blauer Salon", 
-            "slotid": "AK2", 
-            "url": "https://zapf.wiki/"
-        },
-        {
-            "name": "AK 2", 
-            "responsible": "Mensch", 
             "room": "Hörsaal 1", 
             "slotid": "AK2", 
             "url": "https://zapf.wiki/"
         },  
         {
-            "name": "AK 3", 
+            "name": "AK 2", 
             "responsible": "Mensch", 
             "room": "Hörsaal 2", 
             "slotid": "AK2", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 4", 
+            "name": "AK 3", 
             "responsible": "Mensch", 
             "room": "SemRaum 1", 
             "slotid": "AK2", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 5", 
+            "name": "AK 4", 
             "responsible": "Mensch", 
             "room": "SemRaum 2", 
             "slotid": "AK2", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 6", 
+            "name": "AK 5", 
             "responsible": "Mensch", 
             "room": "Bib. INF", 
             "slotid": "AK2", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 7", 
+            "name": "AK 6", 
             "responsible": "Mensch", 
             "room": "Sitz. INF", 
             "slotid": "AK2", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 8", 
+            "name": "AK 7", 
             "responsible": "Mensch", 
             "room": "A203", 
             "slotid": "AK2", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 9", 
+            "name": "AK 8", 
             "responsible": "Mensch", 
             "room": "A208", 
             "slotid": "AK2", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 1", 
+            "name": "AK 9", 
             "responsible": "Mensch", 
-            "room": "Raum", 
-            "slotid": "AK3", 
+            "room": "Blauer Salon", 
+            "slotid": "AK2", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 2", 
+            "name": "AK 1", 
             "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "Hörsaal 1", 
             "slotid": "AK3", 
             "url": "https://zapf.wiki/"
         },  
         {
+            "name": "AK 2", 
+            "responsible": "Mensch", 
+            "room": "Hörsaal 2", 
+            "slotid": "AK3", 
+            "url": "https://zapf.wiki/"
+        },
+        {
             "name": "AK 3", 
             "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "SemRaum 1", 
             "slotid": "AK3", 
             "url": "https://zapf.wiki/"
         },
         {
             "name": "AK 4", 
             "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "SemRaum 2", 
             "slotid": "AK3", 
             "url": "https://zapf.wiki/"
         },
         {
             "name": "AK 5", 
             "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "Bib. INF", 
             "slotid": "AK3", 
             "url": "https://zapf.wiki/"
         },
         {
             "name": "AK 6", 
             "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "Sitz. INF", 
             "slotid": "AK3", 
             "url": "https://zapf.wiki/"
         },
         {
             "name": "AK 7", 
             "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "A203", 
             "slotid": "AK3", 
             "url": "https://zapf.wiki/"
         },
         {
             "name": "AK 8", 
             "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "A208", 
             "slotid": "AK3", 
             "url": "https://zapf.wiki/"
         },
         {
             "name": "AK 9", 
             "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "Blauer Salon", 
             "slotid": "AK3", 
             "url": "https://zapf.wiki/"
         },  
         {
             "name": "AK 1", 
             "responsible": "Mensch", 
-            "room": "Raum", 
-            "slotid": "AK4", 
-            "url": "https://zapf.wiki/"
-        },
-        {
-            "name": "AK 2", 
-            "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "Hörsaal 1", 
             "slotid": "AK4", 
             "url": "https://zapf.wiki/"
         },  
         {
+            "name": "AK 2", 
+            "responsible": "Mensch", 
+            "room": "Hörsaal 2", 
+            "slotid": "AK4", 
+            "url": "https://zapf.wiki/"
+        },
+        {
             "name": "AK 3", 
             "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "SemRaum 1", 
             "slotid": "AK4", 
             "url": "https://zapf.wiki/"
         },
         {
             "name": "AK 4", 
             "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "SemRaum 2", 
             "slotid": "AK4", 
             "url": "https://zapf.wiki/"
         },
         {
             "name": "AK 5", 
             "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "Bib. INF", 
             "slotid": "AK4", 
             "url": "https://zapf.wiki/"
         },
         {
             "name": "AK 6", 
             "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "Sitz. INF", 
             "slotid": "AK4", 
             "url": "https://zapf.wiki/"
         },
         {
             "name": "AK 7", 
             "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "A203", 
             "slotid": "AK4", 
             "url": "https://zapf.wiki/"
         },
         {
             "name": "AK 8", 
             "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "A208", 
             "slotid": "AK4", 
             "url": "https://zapf.wiki/"
         },
         {
             "name": "AK 9", 
             "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "Blauer Salon", 
             "slotid": "AK4", 
             "url": "https://zapf.wiki/"
-        },  
+        },
         {
-            "name": "Name", 
+            "name": "AK 1", 
             "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "Hörsaal 1", 
             "slotid": "AK5", 
             "url": "https://zapf.wiki/"
         },  
         {
-            "name": "Name", 
+            "name": "AK 2", 
             "responsible": "Mensch", 
-            "room": "Raum", 
+            "room": "Hörsaal 2", 
+            "slotid": "AK5", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 3", 
+            "responsible": "Mensch", 
+            "room": "SemRaum 1", 
+            "slotid": "AK5", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 4", 
+            "responsible": "Mensch", 
+            "room": "SemRaum 2", 
+            "slotid": "AK5", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 5", 
+            "responsible": "Mensch", 
+            "room": "Bib. INF", 
+            "slotid": "AK5", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 6", 
+            "responsible": "Mensch", 
+            "room": "Sitz. INF", 
+            "slotid": "AK5", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 7", 
+            "responsible": "Mensch", 
+            "room": "A203", 
+            "slotid": "AK5", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 8", 
+            "responsible": "Mensch", 
+            "room": "A208", 
+            "slotid": "AK5", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 9", 
+            "responsible": "Mensch", 
+            "room": "Blauer Salon", 
+            "slotid": "AK5", 
+            "url": "https://zapf.wiki/"
+        },  
+        {
+            "name": "AK 1", 
+            "responsible": "Mensch", 
+            "room": "Hörsaal 1", 
+            "slotid": "AK6", 
+            "url": "https://zapf.wiki/"
+        },  
+        {
+            "name": "AK 2", 
+            "responsible": "Mensch", 
+            "room": "Hörsaal 2", 
+            "slotid": "AK6", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 3", 
+            "responsible": "Mensch", 
+            "room": "SemRaum 1", 
+            "slotid": "AK6", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 4", 
+            "responsible": "Mensch", 
+            "room": "SemRaum 2", 
+            "slotid": "AK6", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 5", 
+            "responsible": "Mensch", 
+            "room": "Bib. INF", 
+            "slotid": "AK6", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 6", 
+            "responsible": "Mensch", 
+            "room": "Sitz. INF", 
+            "slotid": "AK6", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 7", 
+            "responsible": "Mensch", 
+            "room": "A203", 
+            "slotid": "AK6", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 8", 
+            "responsible": "Mensch", 
+            "room": "A208", 
+            "slotid": "AK6", 
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "AK 9", 
+            "responsible": "Mensch", 
+            "room": "Blauer Salon", 
             "slotid": "AK6", 
             "url": "https://zapf.wiki/"
         }, 

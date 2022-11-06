@@ -48,7 +48,7 @@ function zeigeArbeitskreise(){
         $("<h3/>", { class: 'akname', html: '<i class="icon-chevron-right"></i>'+item.name }).appendTo('#'+css_id);
         if (item.url != null) $("<a/>", { class: 'aklink btn-mini btn-info', href: item.url, text: 'Infos im Wiki'}).appendTo('#'+css_id);
         $("<div/>", { class: 'clearleft'}).appendTo('#'+css_id);
-        $("<div/>", { class: 'responsible', text: 'Leiter: ' + item.responsible}).appendTo('#'+css_id);
+        $("<div/>", { class: 'responsible', text: 'Leitika: ' + item.responsible}).appendTo('#'+css_id);
         $("<div/>", { class: 'room', text: 'Raum: ' + item.room }).appendTo('#'+css_id);
       });
       // Anzeigen, wie viele Zeitslots bereits abgeschlossen sind:

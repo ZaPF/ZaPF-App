@@ -1,74 +1,67 @@
 {
     "arbeitskreise": [
         {
-            "name": "AK 1", 
-            "responsible": "Mensch", 
+            "name": "Studiendauer und Workload", 
+            "responsible": "Felicia + Samuel", 
             "room": "INF Hörsaal", 
             "slotid": "AK1", 
-            "url": "https://zapf.wiki/"
-        },
-        {
-            "name": "AK 2", 
-            "responsible": "Mensch", 
-            "room": "Sem 1", 
-            "slotid": "AK1", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Studiendauer_und_Workload"
         },  
         {
-            "name": "AK 3", 
-            "responsible": "Mensch", 
+            "name": "Frauenaustausch", 
+            "responsible": "Charlotte", 
             "room": "Sem 2", 
             "slotid": "AK1", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Frauenaustausch"
         },
         {
-            "name": "AK 4", 
-            "responsible": "Mensch", 
+            "name": "Unis in der Energiekrise - Vales Heizungs-AK", 
+            "responsible": "Vale + Annemarie", 
             "room": "INF 3", 
             "slotid": "AK1", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_Unis_in_der_Energiekrise"
         },
         {
-            "name": "AK 5", 
-            "responsible": "Mensch", 
+            "name": "Satzung des ZaPF e.V.", 
+            "responsible": "Björn und Jörg", 
             "room": "INF 4", 
             "slotid": "AK1", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Satzung_des_ZaPF_e.V."
         },
         {
-            "name": "AK 6", 
-            "responsible": "Mensch", 
+            "name": "Wissenschaftliche Kooperationen", 
+            "responsible": "Köln", 
             "room": "INF 1", 
             "slotid": "AK1", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Wissenschaftliche_Kooperationen"
         },
         {
-            "name": "AK 7", 
-            "responsible": "Mensch", 
+            "name": "WS Akkreditierung", 
+            "responsible": "Daniela, Andy, Niklas", 
             "room": "Blauer Salon", 
             "slotid": "AK1", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_WS_Akkreditierung"
         },
         {
-            "name": "AK 8", 
-            "responsible": "Mensch", 
+            "name": "Praktikum", 
+            "responsible": "Bruno", 
             "room": "C302", 
             "slotid": "AK1", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Praktikum"
         },
         {
-            "name": "AK 9", 
-            "responsible": "Mensch", 
+            "name": "Umgang mit Neurodivergenz", 
+            "responsible": "Xaver und Svenja", 
             "room": "C304", 
             "slotid": "AK1", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_Austuasch_zum_Umgang_mit_Neurodivergenz"
         },
         {
-            "name": "AK 10", 
-            "responsible": "Mensch", 
+            "name": "Deutschlandticket", 
+            "responsible": "Kai", 
             "room": "C309", 
             "slotid": "AK1", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Deutschlandticket"
         },
         {
             "name": "AK 1", 

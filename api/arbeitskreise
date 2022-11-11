@@ -15,8 +15,8 @@
             "url": "https://zapf.wiki/WiSe22_AK_Frauenaustausch"
         },
         {
-            "name": "Unis in der Energiekrise - Vales Heizungs-AK", 
-            "responsible": "Vale + Annemarie", 
+            "name": "Wirrungen in der Energiekrise", 
+            "responsible": "Christian", 
             "room": "INF 3", 
             "slotid": "AK1", 
             "url": "https://zapf.wiki/WiSe22_Unis_in_der_Energiekrise"
@@ -64,179 +64,160 @@
             "url": "https://zapf.wiki/WiSe22_AK_Deutschlandticket"
         },
         {
-            "name": "AK 1", 
-            "responsible": "Mensch", 
+            "name": "Zukunft von digitaler und hybrider Lehre – was können wir aus der Corona Le(h)re mitnehmen?", 
+            "responsible": "Felicia und Samuel", 
             "room": "Hörsaal 1", 
             "slotid": "AK2", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Lernen_aus_Corona"
         },  
         {
-            "name": "AK 2", 
-            "responsible": "Mensch", 
+            "name": "Code of Conduct", 
+            "responsible": "Steph und Karola", 
             "room": "Hörsaal 2", 
             "slotid": "AK2", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Code_of_Conduct"
         },
         {
-            "name": "AK 3", 
-            "responsible": "Mensch", 
-            "room": "Sem 1", 
-            "slotid": "AK2", 
-            "url": "https://zapf.wiki/"
-        },
-        {
-            "name": "AK 4", 
-            "responsible": "Mensch", 
+            "name": "Klausurversuchsbeschränkungen: Lokale Arbeit", 
+            "responsible": "Stefan und Amr", 
             "room": "Sem 2", 
             "slotid": "AK2", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Klausurversuche"
         },
         {
-            "name": "AK 5", 
-            "responsible": "Mensch", 
+            "name": "Unis in der Energiekrise - Vales Heizungs-AK", 
+            "responsible": "Vale + Annemarie", 
             "room": "INF 3", 
             "slotid": "AK2", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_Unis_in_der_Energiekrise"
+
         },
         {
-            "name": "AK 6", 
-            "responsible": "Mensch", 
+            "name": "Kompetenzorientierter Physikstudiengang", 
+            "responsible": "Philipp", 
             "room": "INF 4", 
             "slotid": "AK2", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/index.php?title=WiSe22_Kompetenzorientierter_Studiengang&action=edit&redlink=1"
         },
         {
-            "name": "AK 7", 
-            "responsible": "Mensch", 
+            "name": "Massageworkshoph", 
+            "responsible": "Bruno, Simone, Christian", 
             "room": "INF 1", 
             "slotid": "AK2", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 8", 
-            "responsible": "Mensch", 
+            "name": "Queere Physik-Utopien", 
+            "responsible": "Calle, Miki, Vismaya", 
             "room": "INF 2", 
             "slotid": "AK2", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Queere_Physik-Utopien"
         },
         {
-            "name": "AK 9", 
-            "responsible": "Mensch", 
+            "name": "ZaPF Orga Dokumentation", 
+            "responsible": "Daniela und Tobi", 
             "room": "Blauer Salon", 
             "slotid": "AK2", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Orgadoku"
         },
         {
-            "name": "AK 10", 
-            "responsible": "Mensch", 
+            "name": "Studienfinanzierung", 
+            "responsible": "Christian", 
             "room": "Sem 5", 
             "slotid": "AK2", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Studienfinanzierung"
         },
         {
-            "name": "AK 11", 
-            "responsible": "Mensch", 
+            "name": "Novelle Wissenschaftszeitvertragsgesetz", 
+            "responsible": "Opa und Gabriel", 
             "room": "Sem 4", 
             "slotid": "AK2", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_WissZeitVG_Novelle"
         },
         {
-            "name": "AK 1", 
-            "responsible": "Mensch", 
+            "name": "Austausch AK", 
+            "responsible": "Max", 
             "room": "Hörsaal 1", 
             "slotid": "AK3", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Austausch"
         },  
         {
-            "name": "AK 2", 
-            "responsible": "Mensch", 
-            "room": "Hörsaal 2", 
-            "slotid": "AK3", 
-            "url": "https://zapf.wiki/"
-        },
-        {
-            "name": "AK 3", 
-            "responsible": "Mensch", 
+            "name": "Nachteilsausgleich", 
+            "responsible": "Felicia", 
             "room": "Sem 1", 
             "slotid": "AK3", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_Nachteilsausgleich"
         },
         {
-            "name": "AK 4", 
-            "responsible": "Mensch", 
+            "name": "Global Peace Dividend", 
+            "responsible": "Stefan und Annemarie", 
             "room": "Sem 2", 
             "slotid": "AK3", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Global_peace_Dividend"
         },
         {
-            "name": "AK 5", 
-            "responsible": "Mensch", 
+            "name": "Arbeit des Ersti-Referats", 
+            "responsible": "Henry", 
             "room": "INF 3", 
             "slotid": "AK3", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Ersti-Arbeit"
         },
         {
-            "name": "AK 6", 
-            "responsible": "Mensch", 
-            "room": "INF 4", 
-            "slotid": "AK3", 
-            "url": "https://zapf.wiki/"
-        },
-        {
-            "name": "AK 7", 
-            "responsible": "Mensch", 
+            "name": "Gremienworkshop", 
+            "responsible": "Tobi und Daniela", 
             "room": "INF 1", 
             "slotid": "AK3", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_WS_Gremienworkshop_Workshop"
         },
         {
-            "name": "AK 8", 
-            "responsible": "Mensch", 
+            "name": "Sexualisierte Gewalt", 
+            "responsible": "Steph", 
             "room": "INF 2", 
             "slotid": "AK3", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 9", 
-            "responsible": "Mensch", 
+            "name": "Studwerk", 
+            "responsible": "Christian", 
             "room": "Blauer Salon", 
             "slotid": "AK3", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Studwerk"
         },  
         {
-            "name": "AK 10", 
-            "responsible": "Mensch", 
+            "name": "Englisch im Physikstudium", 
+            "responsible": "Samuel", 
             "room": "Sem 5", 
             "slotid": "AK3", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_Englisch_im_Physikstudium"
         },  
         {
-            "name": "AK 11", 
-            "responsible": "Mensch", 
+            "name": "Novelle Wissenschaftszeitvertragsgesetz", 
+            "responsible": "Opa und Gabriel", 
             "room": "Sem 4", 
             "slotid": "AK3", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_WissZeitVG_Novelle"
+
         },  
         {
-            "name": "AK 1", 
-            "responsible": "Mensch", 
+            "name": "CHE Ranking", 
+            "responsible": "Felicia", 
             "room": "Hörsaal 1", 
             "slotid": "AK4", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_CHE"
         },  
         {
-            "name": "AK 2", 
-            "responsible": "Mensch", 
+            "name": "Berufungen", 
+            "responsible": "Niklas", 
             "room": "Hörsaal 2", 
             "slotid": "AK4", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Berufung"
         },
         {
-            "name": "AK 3", 
-            "responsible": "Mensch", 
+            "name": "Studienführer", 
+            "responsible": "Mo", 
             "room": "Sem 1", 
             "slotid": "AK4", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Studienführer"
         },
         {
             "name": "AK 4", 

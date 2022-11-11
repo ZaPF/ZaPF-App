@@ -487,17 +487,24 @@
         },
         {
             "name": "Mitgliederversammlung ZaPF e.V.", 
-            "responsible": "Mensch", 
-            "room": "Raum", 
+            "responsible": "Vorstand", 
+            "room": "INF 1", 
             "slotid": "BU1", 
             "url": "https://zapf.wiki/"
         }, 
         {
-            "name": "Name", 
-            "responsible": "Mensch", 
+            "name": "Nachhaltigkeit im Physik Studium", 
+            "responsible": "Katrin und Charlotte", 
+            "room": "INF 2", 
+            "slotid": "BU1", 
+            "url": "https://zapf.wiki/WiSe22_AK_Nachhaltigkeit"
+        }, 
+        {
+            "name": "Fachschaftsfreundschaften", 
+            "responsible": "Tobi und Karola", 
             "room": "Raum", 
             "slotid": "BU2", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_FS-Freundschaften"
         }
     ], 
     "slots": [

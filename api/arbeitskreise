@@ -360,64 +360,64 @@
             "url": "https://zapf.wiki/WiSe22_AK_Rote_Faeden"
         },
         {
-            "name": "AK 3", 
-            "responsible": "Mensch", 
+            "name": "Orgaaustausch", 
+            "responsible": "Hanna Lina", 
             "room": "Sem 1", 
             "slotid": "AK6", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Orga-Austausch"
         },
         {
-            "name": "AK 4", 
-            "responsible": "Mensch", 
+            "name": "Vegan", 
+            "responsible": "Frederik", 
             "room": "Sem 2", 
             "slotid": "AK6", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 5", 
-            "responsible": "Mensch", 
+            "name": "Alte Säcke", 
+            "responsible": "Tobi", 
             "room": "INF 3", 
             "slotid": "AK6", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Alte_Saecke"
         },
         {
-            "name": "AK 6", 
-            "responsible": "Mensch", 
+            "name": "KomGrem", 
+            "responsible": "KomGrem", 
             "room": "INF 4", 
             "slotid": "AK6", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_KomGrem"
         },
         {
-            "name": "AK 7", 
-            "responsible": "Mensch", 
+            "name": "Fachschaftenaktionen", 
+            "responsible": "Benjamin", 
             "room": "INF 1", 
             "slotid": "AK6", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 8", 
-            "responsible": "Mensch", 
+            "name": "Altklausurendatenbank", 
+            "responsible": "Philipp", 
             "room": "INF 2", 
             "slotid": "AK6", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 9", 
-            "responsible": "Mensch", 
+            "name": "(Organisations-)Struktur des Lehramtsstudiums", 
+            "responsible": "Stefan, Anton", 
             "room": "Blauer Salon", 
             "slotid": "AK6", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_(Organisations-)Struktur_des_Lehramtsstudiums"
         }, 
         {
-            "name": "AK 10", 
-            "responsible": "Mensch", 
+            "name": "Fachschaftspatenschaten", 
+            "responsible": "", 
             "room": "Sem 5", 
             "slotid": "AK6", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 9", 
-            "responsible": "Mensch", 
+            "name": "wissenschaftliches Praesentieren", 
+            "responsible": "Vicky", 
             "room": "Sem 4", 
             "slotid": "AK6", 
             "url": "https://zapf.wiki/"
@@ -486,7 +486,7 @@
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "Name", 
+            "name": "Mitgliederversammlung ZaPF e.V.", 
             "responsible": "Mensch", 
             "room": "Raum", 
             "slotid": "BU1", 

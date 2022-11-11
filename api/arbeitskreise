@@ -220,57 +220,57 @@
             "url": "https://zapf.wiki/WiSe22_AK_Studienführer"
         },
         {
-            "name": "AK 4", 
-            "responsible": "Mensch", 
+            "name": "Reibung der Hochschulbilder", 
+            "responsible": "Amr und Stefan", 
             "room": "Sem 2", 
             "slotid": "AK4", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 5", 
-            "responsible": "Mensch", 
+            "name": "Selbstberichtsbewertung", 
+            "responsible": "Tobi", 
             "room": "INF 3", 
             "slotid": "AK4", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Selbstberichtsbewertung"
         },
         {
-            "name": "AK 6", 
-            "responsible": "Mensch", 
+            "name": "Kochlöffel", 
+            "responsible": "Lennart", 
             "room": "INF 4", 
             "slotid": "AK4", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 7", 
-            "responsible": "Mensch", 
+            "name": "Lehramtsumfrage", 
+            "responsible": "Samuel und Andreas", 
             "room": "INF 1", 
             "slotid": "AK4", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Lehramtsumfrage"
         },
         {
-            "name": "AK 8", 
-            "responsible": "Mensch", 
+            "name": "Weltpolitik", 
+            "responsible": "Opa und Daniela", 
             "room": "INF 2", 
             "slotid": "AK4", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_Weltpolitik"
         },
         {
-            "name": "AK 9", 
-            "responsible": "Mensch", 
+            "name": "Der StAPF stellt sich vor", 
+            "responsible": "StAPF", 
             "room": "Blauer Salon", 
             "slotid": "AK4", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 10", 
-            "responsible": "Mensch", 
+            "name": "Datenkompetenzen in der Hochschullehre", 
+            "responsible": "Janice und Philipp", 
             "room": "Sem 5", 
             "slotid": "AK4", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_NFDI"
         },
         {
-            "name": "AK 9", 
-            "responsible": "Mensch", 
+            "name": "wissenschaftliches Schreiben", 
+            "responsible": "Vicky", 
             "room": "Sem 3", 
             "slotid": "AK4", 
             "url": "https://zapf.wiki/"

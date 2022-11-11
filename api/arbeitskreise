@@ -276,95 +276,88 @@
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 1", 
-            "responsible": "Mensch", 
+            "name": "Einführung in und Diskussion über die Geschichte der verfassten Studierendenschaften, insbesondere der Fachschaften und des (allgemein-/hochschulpolitischen-)Mandats", 
+            "responsible": "Vale, Stefan, Anton, Annemarie", 
             "room": "Hörsaal 1", 
             "slotid": "AK5", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_Geschichte_der_Studierendenschaft"
         },  
         {
-            "name": "AK 2", 
-            "responsible": "Mensch", 
+            "name": "Opa erzählt vom Krieg / Diplom", 
+            "responsible": "Opa", 
             "room": "Hörsaal 2", 
             "slotid": "AK5", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Diplom"
         },
         {
-            "name": "AK 3", 
-            "responsible": "Mensch", 
+            "name": "Lehramtsaustausch AK", 
+            "responsible": " ", 
             "room": "Sem 1", 
             "slotid": "AK5", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "AK 4", 
-            "responsible": "Mensch", 
+            "name": "Qualitätsicherung bei Verträgen von Tutorierenden", 
+            "responsible": "Paul", 
             "room": "Sem 2", 
             "slotid": "AK5", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_QualitätsicherungHiWi"
         },
         {
-            "name": "AK 5", 
-            "responsible": "Mensch", 
+            "name": "Wiki-Pflege", 
+            "responsible": "Tobi", 
             "room": "INF 3", 
             "slotid": "AK5", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Wiki-Pflege"
         },
         {
-            "name": "AK 6", 
-            "responsible": "Mensch", 
-            "room": "INF 4", 
-            "slotid": "AK5", 
-            "url": "https://zapf.wiki/"
-        },
-        {
-            "name": "AK 7", 
-            "responsible": "Mensch", 
+            "name": "Mental Health: Nachteilsausgleich bei psychischen Erkrankungen", 
+            "responsible": "Philipp", 
             "room": "INF 1", 
             "slotid": "AK5", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_MH_Nachteilsausgleich"
         },
         {
-            "name": "AK 8", 
-            "responsible": "Mensch", 
+            "name": " Frauenfoerderung", 
+            "responsible": "Magdalena, Steph", 
             "room": "INF 2", 
             "slotid": "AK5", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Frauenfoerderung"
         },
         {
-            "name": "AK 9", 
-            "responsible": "Mensch", 
+            "name": "TOPF", 
+            "responsible": "Mo und Daniela", 
             "room": "Blauer Salon", 
             "slotid": "AK5", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_TOPF"
         }, 
         {
-            "name": "AK 10", 
-            "responsible": "Mensch", 
+            "name": "Austausch zur Evaluation der Lehre", 
+            "responsible": "Svenja", 
             "room": "Sem 5", 
             "slotid": "AK5", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Evaluation"
         },  
         {
-            "name": "AK 9", 
-            "responsible": "Mensch", 
+            "name": "Fachschaften und jDPG", 
+            "responsible": "Janice und Samuel", 
             "room": "Sem 3", 
             "slotid": "AK5", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Fachschaften_und_jDPG"
         }, 
         {
-            "name": "AK 1", 
-            "responsible": "Mensch", 
+            "name": "LGBT+ in der Uni und in Fachschaften", 
+            "responsible": "Svenja", 
             "room": "Hörsaal 1", 
             "slotid": "AK6", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_LGBT_in_Uni"
         },  
         {
-            "name": "AK 2", 
-            "responsible": "Mensch", 
+            "name": "Rote Fäden der Studienreform", 
+            "responsible": "Köln, Manu", 
             "room": "Hörsaal 2", 
             "slotid": "AK6", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Rote_Faeden"
         },
         {
             "name": "AK 3", 

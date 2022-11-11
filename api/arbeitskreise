@@ -488,16 +488,51 @@
         {
             "name": "Mitgliederversammlung ZaPF e.V.", 
             "responsible": "Vorstand", 
-            "room": "INF 1", 
+            "room": "Hörsaal 1", 
             "slotid": "BU1", 
             "url": "https://zapf.wiki/"
         }, 
         {
             "name": "Nachhaltigkeit im Physik Studium", 
             "responsible": "Katrin und Charlotte", 
-            "room": "INF 2", 
+            "room": "Hörsaal 2", 
             "slotid": "BU1", 
             "url": "https://zapf.wiki/WiSe22_AK_Nachhaltigkeit"
+        }, 
+        {
+            "name": "Studiendauer & Workload", 
+            "responsible": "Felicia und Samuel", 
+            "room": "Kleingruppen Raum am Aufenthaltsraum", 
+            "slotid": "BU1", 
+            "url": "https://zapf.wiki/WiSe22_AK_Studiendauer_und_Workload"
+        }, 
+        {
+            "name": "Wissenschaftliche Kooperationen", 
+            "responsible": "Köln", 
+            "room": "Mensa", 
+            "slotid": "BU1", 
+            "url": "https://zapf.wiki/WiSe22_AK_Wissenschaftliche_Kooperationen"
+        }, 
+        {
+            "name": "Deutschlangticket", 
+            "responsible": "Kai", 
+            "room": "Poolraum 1", 
+            "slotid": "BU1", 
+            "url": "https://zapf.wiki/WiSe22_AK_Deutschlandticket"
+        }, 
+        {
+            "name": "Studienfinanzierung", 
+            "responsible": "Christian", 
+            "room": "Eingang vor Hörsaal 2", 
+            "slotid": "BU1", 
+            "url": "https://zapf.wiki/WiSe22_AK_Studienfinanzierung"
+        }, 
+        {
+            "name": "WissZeitVG", 
+            "responsible": "Opa und Gabriel", 
+            "room": "INF 4", 
+            "slotid": "BU1", 
+            "url": "https://zapf.wiki/WiSe22_AK_WissZeitVG_Novelle"
         }, 
         {
             "name": "Fachschaftsfreundschaften", 

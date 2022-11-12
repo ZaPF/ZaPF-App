@@ -451,28 +451,28 @@
             "url": "https://zapf.wiki/WiSe22_Kompetenzorientierter_Studiengang"
         },
         {
-            "name": "Poster 5", 
-            "responsible": "Mensch", 
-            "room": "INF 4", 
-            "slotid": "BU2", 
-            "url": "https://zapf.wiki/"
-        },
-        {
-            "name": "Poster 6", 
-            "responsible": "Mensch", 
-            "room": "INF 1", 
-            "slotid": "BU2", 
-            "url": "https://zapf.wiki/"
-        },
-        {
-            "name": "Poster 7", 
-            "responsible": "Mensch", 
+            "name": "Studwerk", 
+            "responsible": "Christian", 
             "room": "Blauer Salon", 
             "slotid": "BU2", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Studwerk"
         },
         {
-            "name": "Poster 8", 
+            "name": "Studienfinanzierung", 
+            "responsible": "Christian", 
+            "room": "Blauer Salon", 
+            "slotid": "BU2", 
+            "url": "https://zapf.wiki/WiSe22_AK_Studienfinanzierung"
+        },
+        {
+            "name": "Nachhaltigkeit", 
+            "responsible": "Katrin und Charlotte", 
+            "room": "INF 4", 
+            "slotid": "BU2", 
+            "url": "https://zapf.wiki/WiSe22_AK_Nachhaltigkeit"
+        },
+        {
+            "name": "Indexmiete", 
             "responsible": "Mensch", 
             "room": "Sem 5", 
             "slotid": "BU2", 

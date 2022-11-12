@@ -430,25 +430,25 @@
             "url": "https://zapf.wiki/WiSe22_AK_Wissenschaftliche_Kooperationen"
         },
         {
-            "name": "Poster 2", 
-            "responsible": "Mensch", 
+            "name": "Deutschlandticket", 
+            "responsible": "Kai", 
             "room": "Sem 1", 
             "slotid": "BU2", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "Poster 3", 
-            "responsible": "Mensch", 
+            "name": "Energiekrise", 
+            "responsible": "Vale und Katharina", 
             "room": "Sem 2", 
             "slotid": "BU2", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_Unis_in_der_Energiekrise"
         },
         {
-            "name": "Poster 4", 
-            "responsible": "Mensch", 
+            "name": "Kompetenzorientierter Studiengang", 
+            "responsible": "Philipp", 
             "room": "INF 3", 
             "slotid": "BU2", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_Kompetenzorientierter_Studiengang"
         },
         {
             "name": "Poster 5", 
@@ -537,7 +537,7 @@
         {
             "name": "Fachschaftsfreundschaften", 
             "responsible": "Tobi und Karola", 
-            "room": "Sem 2", 
+            "room": "Hörsaal 1", 
             "slotid": "BU2", 
             "url": "https://zapf.wiki/WiSe22_AK_FS-Freundschaften"
         }

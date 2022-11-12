@@ -473,17 +473,24 @@
         },
         {
             "name": "Indexmiete", 
-            "responsible": "Mensch", 
-            "room": "Sem 5", 
+            "responsible": "Christian", 
+            "room": "Sem 1", 
             "slotid": "BU2", 
             "url": "https://zapf.wiki/"
         },
         {
-            "name": "Poster 9", 
-            "responsible": "Mensch", 
+            "name": "Lehren aus Corona", 
+            "responsible": "Felicia und Samuel", 
             "room": "Sem 3", 
             "slotid": "BU2", 
-            "url": "https://zapf.wiki/"
+            "url": "https://zapf.wiki/WiSe22_AK_Lernen_aus_Corona"
+        },
+        {
+            "name": "Englisches Physikstudium", 
+            "responsible": "Samuel", 
+            "room": "Sem 3", 
+            "slotid": "BU2", 
+            "url": "https://zapf.wiki/WiSe22_Englisch_im_Physikstudium"
         },
         {
             "name": "Mitgliederversammlung ZaPF e.V.", 
